@@ -1,0 +1,5191 @@
+# Translation of Plugins - Elementor Website Builder &#8211; More than Just a Page Builder - Stable (latest release) in Finnish
+# This file is distributed under the same license as the Plugins - Elementor Website Builder &#8211; More than Just a Page Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-10-28 18:00:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: fi\n"
+"Project-Id-Version: Plugins - Elementor Website Builder &#8211; More than Just a Page Builder - Stable (latest release)\n"
+
+#: includes/frontend.php:1398
+msgid "Next slide"
+msgstr "Seuraava dia"
+
+#: includes/frontend.php:1397
+msgid "Previous slide"
+msgstr "Edellinen dia"
+
+#: includes/frontend.php:1401
+msgid "Go to slide"
+msgstr "Mene diaan"
+
+#: includes/frontend.php:1400
+msgid "This is the last slide"
+msgstr "Tämä on viimeinen dia"
+
+#: includes/frontend.php:1399
+msgid "This is the first slide"
+msgstr "Tämä on ensimmäinen dia"
+
+#: includes/frontend.php:1396
+msgid "Carousel | Horizontal scrolling: Arrow Left & Right"
+msgstr "Karuselli | Vieritys vaakasuunnassa: Vasen ja oikea nuoli"
+
+#: includes/controls/groups/background.php:99 assets/js/ai-admin.js:6454
+#: assets/js/ai.js:6714
+msgid "Gradient"
+msgstr "Liukuväri"
+
+#: modules/ai/connect/ai.php:23 assets/js/ai-admin.js:425
+#: assets/js/ai-layout.js:433 assets/js/ai-layout.js:1880 assets/js/ai.js:553
+msgid "AI"
+msgstr "Tekoäly"
+
+#: modules/nested-tabs/widgets/nested-tabs.php:688
+msgid "Titles"
+msgstr "Otsikot"
+
+#: includes/widgets/video.php:837
+#: modules/nested-accordion/widgets/nested-accordion.php:687
+#: modules/nested-tabs/widgets/nested-tabs.php:508
+#: modules/nested-tabs/widgets/nested-tabs.php:567
+#: modules/nested-tabs/widgets/nested-tabs.php:651
+#: modules/nested-tabs/widgets/nested-tabs.php:734
+#: modules/nested-tabs/widgets/nested-tabs.php:780
+#: modules/nested-tabs/widgets/nested-tabs.php:827
+msgid "Shadow"
+msgstr "Varjostus"
+
+#: core/settings/editor-preferences/model.php:150
+msgid "All Posts"
+msgstr "Kaikki artikkelit"
+
+#: modules/container-converter/module.php:86
+#: modules/container-converter/module.php:119
+msgid "Convert"
+msgstr "Muunna"
+
+#: includes/controls/groups/flex-container.php:101
+#: includes/controls/groups/flex-container.php:137
+msgctxt "Flex Container Control"
+msgid "Center"
+msgstr "Keskelle"
+
+#: includes/controls/groups/background.php:687
+#: includes/widgets/image-carousel.php:377
+msgid "Lazyload"
+msgstr "Laiska lataus"
+
+#: core/kits/views/panel.php:38
+msgid "Reorder"
+msgstr "Järjestä uudelleen"
+
+#: includes/widgets/image-carousel.php:582
+msgid "Pagination"
+msgstr "Sivutus"
+
+#: app/modules/onboarding/module.php:207
+msgid "There was a problem setting your site logo."
+msgstr "Virhe sivuston logon asettamisessa."
+
+#: core/editor/promotion.php:25 assets/js/editor.js:6495 assets/js/notes.js:153
+#: assets/js/styleguide.js:196
+msgid "Connect & Activate"
+msgstr "Yhdistä ja aktivoi"
+
+#: includes/base/element-base.php:909
+msgid "Perspective"
+msgstr "Perspektiivi"
+
+#: includes/admin-templates/beta-tester.php:53 assets/js/ai-admin.js:4692
+#: assets/js/ai-admin.js:9729 assets/js/ai-layout.js:1794
+#: assets/js/ai-layout.js:3227 assets/js/ai.js:4952 assets/js/ai.js:9989
+msgid "Privacy Policy"
+msgstr "Tietosuojaseloste"
+
+#: includes/admin-templates/beta-tester.php:48 assets/js/ai-admin.js:4688
+#: assets/js/ai-admin.js:9725 assets/js/ai-layout.js:1790
+#: assets/js/ai-layout.js:3223 assets/js/ai.js:4948 assets/js/ai.js:9985
+msgid "Terms of Service"
+msgstr "Palvelun käyttöehdot"
+
+#: core/logger/log-reporter.php:25
+msgid "Log"
+msgstr "Loki"
+
+#: core/experiments/manager.php:618
+msgid "Ongoing Experiments"
+msgstr "Tämänhetkiset kokeilut"
+
+#: core/experiments/manager.php:574
+msgid "Stable Features"
+msgstr "Vakaat ominaisuudet"
+
+#: modules/nested-accordion/widgets/nested-accordion.php:526
+#: assets/js/app-packages.js:5378
+msgid "Header"
+msgstr "Yläpalkki"
+
+#: modules/promotions/admin-menu-items/form-submissions-promotion-item.php:11
+#: modules/promotions/admin-menu-items/form-submissions-promotion-item.php:15
+msgid "Submissions"
+msgstr "Vastaukset"
+
+#: modules/promotions/admin-menu-items/form-submissions-promotion-item.php:19
+msgid "Collect Your Form Submissions"
+msgstr "Kerää lomakkeidesi vastaukset"
+
+#: core/experiments/manager.php:356
+msgid "Improved CSS Loading"
+msgstr "Parannettu CSS:n lataus"
+
+#: modules/compatibility-tag/compatibility-tag-report.php:170
+msgid "Incompatible"
+msgstr "Epäyhteensopiva"
+
+#: modules/compatibility-tag/compatibility-tag-report.php:169
+msgid "Compatible"
+msgstr "Yhteensopiva"
+
+#: includes/controls/groups/background.php:418 includes/widgets/common.php:1099
+#: includes/widgets/common.php:1103
+msgid "Repeat"
+msgstr "Toisto"
+
+#: includes/base/element-base.php:999 includes/base/element-base.php:1022
+#: includes/widgets/common.php:966
+msgid "Scale"
+msgstr "Skaalaa"
+
+#: includes/widgets/common.php:951
+msgid "Fit"
+msgstr "Sovita"
+
+#: includes/settings/settings.php:365
+msgid "Set the way Google Fonts are being loaded by selecting the font-display property (Default: Auto)."
+msgstr "Aseta tapa kuinka Google-fontit ladataan valitsemalla font-display määrite (oletusasetus: auto)."
+
+#: includes/settings/settings.php:365
+msgid "Font-display property defines how font files are loaded and displayed by the browser."
+msgstr "Font-display-määrite määrittää kuinka selain lataa ja näyttää fontit."
+
+#: includes/settings/settings.php:363
+msgid "Optional"
+msgstr "Valinnainen"
+
+#: core/admin/admin-notices.php:233
+msgid "Love using Elementor?"
+msgstr "Pidätkö Elementorista?"
+
+#: app/modules/import-export/module.php:129 core/admin/admin-notices.php:368
+#: core/editor/editor.php:616 assets/js/app.js:8325
+#: assets/js/kit-library.b4cf9f541e44f7bbc972.bundle.js:3386
+msgid "Learn more"
+msgstr "Lue lisää"
+
+#: core/utils/import-export/wp-import.php:1130
+msgid "The uploaded file could not be moved"
+msgstr "Siirrettyä tiedostoa ei voitu siirtää"
+
+#: core/utils/import-export/wp-import.php:1114
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "Valitettavasti tämä tiedostomuoto ei ole sallittu turvallisuussyistä."
+
+#: modules/shapes/widgets/text-path.php:119
+msgid "SVG"
+msgstr "SVG"
+
+#: modules/shapes/widgets/text-path.php:97
+msgid "Add Your Curvy Text Here"
+msgstr "Kirjoita kurvikas tekstisi tähän"
+
+#: core/admin/notices/elementor-dev-notice.php:81
+msgid "Install & Activate"
+msgstr "Asenna & aktivoi"
+
+#: core/admin/notices/elementor-dev-notice.php:76
+msgid "Get a sneak peek at our in progress development versions, and help us improve Elementor to perfection. Developer Edition releases contain experimental functionality for testing purposes."
+msgstr "Kurkista työn alla olevia kehitysversioitamme, ja auta meitä kehittämään Elementor entistäkin täydellisemmäksi. Kehittäjäversion julkaisut sisältävät kokeellista toiminnallisuutta testaustarkoituksiin."
+
+#: core/admin/notices/elementor-dev-notice.php:75
+msgid "Elementor Developer Edition"
+msgstr "Elementorin kehittäjäversio"
+
+#: core/experiments/manager.php:747
+msgid "Inactive by default"
+msgstr "Ei-aktiivinen oletuksena"
+
+#: core/experiments/manager.php:746
+msgid "Active by default"
+msgstr "Aktiivinen oletuksena"
+
+#: core/experiments/manager.php:636
+msgid "Status: %s"
+msgstr "Tila: %s"
+
+#: core/common/modules/finder/categories/settings.php:60
+msgid "Experiments"
+msgstr "Kokeilut"
+
+#: core/experiments/manager.php:539
+msgid "The current version of Elementor doesn't have any experimental features . if you're feeling curious make sure to come back in future versions."
+msgstr "Elementorin nykyisessä versiossa ei ole kokeellisia ominaisuuksia. Jos olet utelias, palaa takaisin kun julkaisemme uusia versioita."
+
+#: core/experiments/manager.php:536
+msgid "No available experiments"
+msgstr "Kokeiluja ei ole saatavilla"
+
+#: core/experiments/manager.php:477
+msgid "Stable"
+msgstr "Vakaa"
+
+#: core/experiments/manager.php:476
+msgid "Release Candidate"
+msgstr "Ehdokas julkaisuversioksi"
+
+#: core/experiments/manager.php:475 assets/js/ai-admin.js:426
+#: assets/js/ai-layout.js:434 assets/js/ai-layout.js:1881 assets/js/ai.js:554
+msgid "Beta"
+msgstr "Beta"
+
+#: core/experiments/manager.php:474
+msgid "Alpha"
+msgstr "Alpha"
+
+#: core/experiments/manager.php:473
+msgid "Development"
+msgstr "Kehitys"
+
+#: core/experiments/manager.php:346
+msgid "Please Note! The \"Improved Asset Loading\" mode reduces the amount of code that is loaded on the page by default. When activated, parts of the infrastructure code will be loaded dynamically, only when needed. Keep in mind that activating this experiment may cause conflicts with incompatible plugins."
+msgstr "Huomaa! \"Parannettu resurssien lataus\" -tila vähentää oletuksena ladattavan koodin määrää sivulla. Kun tämä aktivoidaan, osa infrastruktuurin koodista ladataan dynaamisesti vain tarvittaessa. Muista, että tämän kokeilun aktivoiminen saattaa aiheuttaa konflikteja ei-yhteensopivien lisäosien kanssa. "
+
+#: core/experiments/manager.php:344
+msgid "Improved Asset Loading"
+msgstr "Parannettu resurssien lataus"
+
+#: core/experiments/manager.php:334
+msgid "Developers, Please Note! This experiment includes some markup changes. If you've used custom code in Elementor, you might have experienced a snippet of code not running. Turning this experiment off allows you to keep prior Elementor markup output settings, and have that lovely code running again."
+msgstr "Kehittäjät huomio! Tämä kokeilu sisältää merkkikielen muutoksia. Jos olet käyttänyt mukautettua koodia Elementorissa, olet saattanut todeta jonkin koodinpätkän toimimattomaksi. Kytkemällä tämän kokeilun pois päältä voit pitää Elementorin aikaisemman merkkikielen tulostusasetukset, ja hieno koodisi toimii jälleen. "
+
+#: modules/landing-pages/module.php:279
+msgid "No landing pages found in trash"
+msgstr "Roskakorista ei löytynyt myyntisivuja"
+
+#: modules/landing-pages/module.php:278
+msgid "No landing pages found"
+msgstr "Myyntisivuja ei löytynyt"
+
+#: modules/landing-pages/module.php:277
+msgid "Search Landing Pages"
+msgstr "Hae myyntisivuja"
+
+#: modules/landing-pages/module.php:276
+msgid "View Landing Page"
+msgstr "Katso myyntisivu"
+
+#: modules/landing-pages/module.php:275
+msgid "All Landing Pages"
+msgstr "Kaikki myyntisivut"
+
+#: modules/landing-pages/module.php:274
+msgid "New Landing Page"
+msgstr "Uusi myyntisivu"
+
+#: modules/landing-pages/module.php:273
+msgid "Edit Landing Page"
+msgstr "Muokkaa myyntisivua"
+
+#: modules/landing-pages/module.php:272
+msgid "Add New Landing Page"
+msgstr "Lisää uusi myyntisivu"
+
+#: modules/landing-pages/module.php:204
+msgid "Build Effective Landing Pages for your business' marketing campaigns."
+msgstr "Luo tehokkaita myyntisivuja liiketoimintasi markkinointikampanjoita varten."
+
+#: modules/landing-pages/module.php:48
+msgid "Adds a new Elementor content type that allows creating beautiful landing pages instantly in a streamlined workflow."
+msgstr "Lisää uuden Elementorin sisältötyypin, joka mahdollistaa kauniiden myyntisivujen luomisen välittömästi suoraviivaisena prosessina."
+
+#: modules/landing-pages/admin-menu-items/landing-pages-menu-item.php:22
+#: modules/landing-pages/admin-menu-items/landing-pages-menu-item.php:26
+#: modules/landing-pages/documents/landing-page.php:54
+#: modules/landing-pages/module.php:47 modules/landing-pages/module.php:138
+#: modules/landing-pages/module.php:269 modules/landing-pages/module.php:281
+#: assets/js/app.js:11046 assets/js/editor.js:50235
+msgid "Landing Pages"
+msgstr "Myyntisivut"
+
+#: modules/landing-pages/documents/landing-page.php:46
+#: modules/landing-pages/module.php:204 modules/landing-pages/module.php:270
+msgid "Landing Page"
+msgstr "Myyntisivu"
+
+#: modules/compatibility-tag/compatibility-tag-report.php:123
+#: modules/compatibility-tag/views/plugin-update-message-compatibility.php:57
+msgid "Unknown"
+msgstr "Tuntematon"
+
+#. translators: %s: Elementor plugin name.
+#: modules/compatibility-tag/views/plugin-update-message-compatibility.php:45
+msgid "Tested up to %s version"
+msgstr "Testattu versioon %s asti"
+
+#: modules/compatibility-tag/views/plugin-update-message-compatibility.php:42
+msgid "Plugin"
+msgstr "Lisäosa"
+
+#: modules/compatibility-tag/views/plugin-update-message-compatibility.php:33
+msgid "Some of the plugins you’re using have not been tested with the latest version of %1$s (%2$s). To avoid issues, make sure they are all up to date and compatible before updating %1$s."
+msgstr "Joitakin käyttämistäsi lisäosista ei ole testattu uusimman version %1$s (%2$s) kanssa. Välttääksesi yhteensopivuusongelmat, varmista että ne ovat ajan tasalla ja yhteensopivia, ennen kuin päivität %1$s."
+
+#: modules/compatibility-tag/views/plugin-update-message-compatibility.php:28
+msgid "Compatibility Alert"
+msgstr "Yhteensopivuusvaroitus"
+
+#: includes/elements/section.php:298
+msgid "Custom Columns Gap"
+msgstr "Mukautettu sarakeväli"
+
+#: core/kits/views/trash-kit-confirmation.php:33
+msgid "Keep my settings"
+msgstr "Pidä nämä asetukset"
+
+#: core/kits/views/trash-kit-confirmation.php:21
+msgid "By removing this template you will delete your entire Site Settings. If this template is deleted, all associated settings: Global Colors & Fonts, Theme Style, Layout, Background, and Lightbox settings will be removed from your existing site. This action can not be undone."
+msgstr "Poistamalla tämän mallin poistat samalla kaikki sivustoasetuksesi. Jos tämä malli poistetaan, kaikki siihen liittyvät asetukset, kuten yleiset värit ja kirjasimet, teeman tyyli, asettelu, tausta ja Lightbox-asetukset poistetaan sivustoltasi. Tätä toimintoa ei voi perua."
+
+#: core/kits/views/trash-kit-confirmation.php:17
+msgid "Are you sure you want to delete your Site Settings?"
+msgstr "Oletko varma, että haluat poistaa sivustoasetuksesi?"
+
+#: core/editor/data/globals/endpoints/base.php:34
+msgid "The Global value you are trying to use is not available."
+msgstr "Yleinen arvo, jota yrität käyttää, ei ole saatavilla."
+
+#. Description of the plugin
+msgid "The Elementor Website Builder has it all: drag and drop page builder, pixel perfect design, mobile responsive editing, and more. Get started now!"
+msgstr "Elementorissa on kaikki: vedä ja pudota -sivunrakentaja, pikselintarkka suunnittelu, mobiilioptimoitu muokkaus ja enemmän. Aloita nyt!"
+
+#: includes/controls/media.php:195
+msgid "Choose SVG"
+msgstr "Valitse SVG"
+
+#: core/kits/documents/tabs/global-colors.php:24
+#: core/kits/documents/tabs/global-colors.php:43 assets/js/app.js:11054
+#: assets/js/d3bdd130eb38d3b07f85.bundle.js:175 assets/js/editor.js:45815
+msgid "Global Colors"
+msgstr "Yleiset värit"
+
+#: core/kits/documents/tabs/settings-layout.php:336
+#: modules/nested-tabs/widgets/nested-tabs.php:415
+msgid "Breakpoint"
+msgstr "Raja-arvo"
+
+#: includes/widgets/social-icons.php:449
+msgid "Rows Gap"
+msgstr "Rivinväli"
+
+#: includes/widgets/common.php:952 includes/widgets/image.php:359
+msgid "Fill"
+msgstr "Täyttö"
+
+#: includes/widgets/image.php:352
+msgid "Object Fit"
+msgstr "Kohteen sovitus"
+
+#: includes/frontend.php:1387
+msgid "Download"
+msgstr "Lataus"
+
+#: core/experiments/manager.php:332
+msgid "Optimized DOM Output"
+msgstr "Optimoitu DOM-tulostus"
+
+#: includes/controls/groups/flex-container.php:24
+#: includes/controls/groups/grid-container.php:26
+#: includes/widgets/icon-list.php:158
+#: modules/nested-accordion/widgets/nested-accordion.php:123
+msgid "Items"
+msgstr "Kohteet"
+
+#: core/admin/admin-notices.php:217 includes/settings/settings-page.php:374
+msgid "Become a super contributor by opting in to share non-sensitive plugin data and to receive periodic email updates from us."
+msgstr "Ryhdy superhyväntekijäksi suostumalla ei-henkilökohtaisen tiedon jakamiseen ja saadaksesi silloin tällöin sähköpostia meiltä."
+
+#: core/settings/editor-preferences/model.php:73
+msgid "Panel Width"
+msgstr "Paneelin leveys"
+
+#: core/admin/admin.php:799
+msgid "Heads up, Please backup before upgrade!"
+msgstr "Odotahan, ole hyvä ja ota varmuuskopio sivustosta ennen päivittämistä!"
+
+#: core/settings/editor-preferences/model.php:38
+#: includes/editor-templates/hotkeys.php:156 assets/js/editor.js:37124
+#: assets/js/packages/editor-app-bar/editor-app-bar.js:1235
+#: assets/js/packages/editor-app-bar/editor-app-bar.strings.js:6
+msgid "User Preferences"
+msgstr "Käyttäjän asetukset"
+
+#: core/kits/manager.php:429 includes/editor-templates/hotkeys.php:118
+#: assets/js/app.js:11052 assets/js/app.js:11533 assets/js/editor.js:45764
+#: assets/js/editor.js:45768 assets/js/editor.js:45778
+#: assets/js/packages/editor-app-bar/editor-app-bar.js:1162
+#: assets/js/packages/editor-app-bar/editor-app-bar.strings.js:9
+msgid "Site Settings"
+msgstr "Sivuston asetukset"
+
+#: modules/nested-tabs/widgets/nested-tabs.php:354 assets/js/editor.js:46187
+msgid "Additional Settings"
+msgstr "Lisäasetukset"
+
+#: core/kits/documents/tabs/global-typography.php:197
+msgid "Fallback Font Family"
+msgstr "Varakirjasinperhe"
+
+#: core/kits/documents/tabs/settings-background.php:67
+msgid "The `theme-color` meta tag will only be available in supported browsers and devices."
+msgstr "\"theme-color\" meta-avainsanaa voidaan käyttää vain tuetuilla selaimilla ja laitteilla."
+
+#: core/kits/documents/tabs/settings-background.php:65
+msgid "Mobile Browser Background"
+msgstr "Mobiiliselaimen tausta"
+
+#: core/kits/documents/tabs/settings-site-identity.php:113
+msgid "Site Favicon"
+msgstr "Sivuston pikkukuvake"
+
+#: core/kits/documents/tabs/settings-site-identity.php:120
+msgid "Suggested favicon dimensions: 512 × 512 pixels."
+msgstr "Pikkukuvakkeen suositellut mitat: 512 x 512 pikseliä."
+
+#: core/kits/documents/tabs/settings-site-identity.php:93
+#: assets/js/onboarding.d1f3b86a6e269191f707.bundle.js:1003
+msgid "Site Logo"
+msgstr "Sivuston logo"
+
+#: core/kits/documents/tabs/settings-site-identity.php:84
+msgid "Choose description"
+msgstr "Valitse kuvaus"
+
+#: core/kits/documents/tabs/settings-site-identity.php:82
+msgid "Site Description"
+msgstr "Sivuston kuvaus"
+
+#: core/kits/documents/tabs/settings-site-identity.php:73
+msgid "Choose name"
+msgstr "Valitse nimi"
+
+#: core/kits/documents/tabs/settings-site-identity.php:71
+#: assets/js/onboarding.d1f3b86a6e269191f707.bundle.js:999
+msgid "Site Name"
+msgstr "Sivuston nimi"
+
+#: core/kits/documents/tabs/settings-site-identity.php:20
+msgid "Site Identity"
+msgstr "Sivuston identiteetti"
+
+#: core/kits/documents/tabs/settings-layout.php:193
+msgid "Breakpoints"
+msgstr "Raja-arvot"
+
+#: core/kits/documents/tabs/settings-layout.php:182
+#: modules/page-templates/module.php:159
+msgid "Theme"
+msgstr "Teema"
+
+#: core/kits/documents/tabs/settings-layout.php:179
+msgid "Default Page Layout"
+msgstr "Sivun oletusasettelu"
+
+#: core/kits/documents/tabs/settings-layout.php:47 assets/js/app.js:11054
+msgid "Layout Settings"
+msgstr "Asettelun asetukset"
+
+#: modules/page-templates/module.php:360
+msgid "Changes will be reflected in the preview only after the page reloads."
+msgstr "Muutokset näytetään esikatselussa vasta sivun uudelleenlatauksen jälkeen."
+
+#: includes/widgets/icon-list.php:191
+msgid "Apply Link On"
+msgstr "Käytä linkkiä "
+
+#: modules/compatibility-tag/compatibility-tag-report.php:173
+msgid "Error"
+msgstr "Virhe"
+
+#: core/common/modules/connect/apps/base-app.php:106
+msgid "Reset Data"
+msgstr "Nollaa tiedot"
+
+#: includes/controls/media.php:254
+msgid "Click the media icon to upload file"
+msgstr "Klikkaa mediakuvaketta ladataksesi tiedoston"
+
+#: includes/settings/admin-menu-items/getting-started-menu-item.php:74
+msgid "Watch the Full Guide"
+msgstr "Katso koko opas"
+
+#: includes/settings/admin-menu-items/getting-started-menu-item.php:62
+msgid "Get introduced to Elementor by watching our \"Getting Started\" video series. It will guide you through the steps needed to create your website. Then click to create your first page."
+msgstr "Tutustu Elementoriin katsomalla \"Getting Started\" -videosarjamme. Se opastaa sinut kotisivusi luomisessa tarvittavien askelten läpi. Klikkaa sitten luomaan ensimmäinen sivusi."
+
+#: includes/settings/settings.php:326 assets/js/admin.js:282
+#: assets/js/admin.js:289 assets/js/common.js:2090 assets/js/common.js:2097
+#: assets/js/editor.js:38870 assets/js/editor.js:38877
+msgid "Enable Unfiltered File Uploads"
+msgstr "Salli suodattamaton tiedostojen lataus"
+
+#: modules/safe-mode/module.php:383
+msgid "If you are experiencing a loading issue, contact your site administrator to troubleshoot the problem using Safe Mode."
+msgstr "Jos kohtaat latausongelman, ota yhteys sivuston ylläpitäjään ongelmatilanteen tutkimiseksi Save Mode -tilassa."
+
+#: includes/frontend.php:1388
+msgid "Download image"
+msgstr "Lataa kuva"
+
+#: includes/frontend.php:1386
+msgid "Pin it"
+msgstr "Kiinnitä se"
+
+#: includes/frontend.php:1385
+msgid "Share on Twitter"
+msgstr "Jaa Twitterissä"
+
+#: includes/frontend.php:1384
+msgid "Share on Facebook"
+msgstr "Jaa Facebookissa"
+
+#: includes/controls/url.php:117
+msgid "Custom Attributes"
+msgstr "Mukautetut ominaisuudet"
+
+#: includes/controls/url.php:75
+msgid "Set custom attributes for the link element. Separate attribute keys from values using the | (pipe) character. Separate key-value pairs with a comma."
+msgstr "Aseta linkkikohteen mukautetut ominaisuudet. Erottele avaimet arvoista |-merkillä (pystyviiva). Erota avain-arvoparit pilkulla."
+
+#: includes/editor-templates/panel.php:311
+msgid "Get more dynamic capabilities by incorporating dozens of Elementor's native dynamic tags."
+msgstr "Hanki lisää dynaamisia mahdollisuuksia ottamalla käyttöön Elementorin kymmenet dynaamiset tagit."
+
+#: includes/editor-templates/panel.php:310
+msgid "You’re missing out!"
+msgstr "Jäät ilman!"
+
+#: includes/editor-templates/panel.php:307
+msgid "Elementor Dynamic Content"
+msgstr "Elementorin dynaaminen sisältö"
+
+#: includes/editor-templates/panel.php:280
+#: includes/editor-templates/panel.php:282
+msgid "Dynamic Tags"
+msgstr "Dynaamiset tagit"
+
+#: includes/managers/icons.php:497
+msgid "We highly recommend backing up your database before performing this upgrade."
+msgstr "Suosittelemme että otat tietokannastasi varmuuskopion ennen tämän päivityksen käyttöönottoa."
+
+#: includes/managers/icons.php:496
+msgid "The upgrade process includes a database update"
+msgstr "Päivitysprosessiin sisältyy tietokannan päivitys"
+
+#: includes/managers/controls.php:1174
+msgid "Attributes lets you add custom HTML attributes to any element."
+msgstr "Attribuuttien avulla voit lisätä mukautettuja HTML-attribuutteja mihin tahansa elementtiin."
+
+#: includes/managers/controls.php:1172
+msgid "Meet Our Attributes"
+msgstr "Tutustu attribuutteihimme"
+
+#: includes/managers/controls.php:1162
+msgid "Attributes"
+msgstr "Attribuutit"
+
+#: core/base/db-upgrades-manager.php:118
+msgid "Click here to run it now"
+msgstr "Klikkaa tästä käynnistääksesi sen nyt"
+
+#: core/kits/documents/tabs/settings-lightbox.php:187
+msgid "Navigation Icons Size"
+msgstr "Navigaatiokuvakkeiden koko"
+
+#: core/kits/documents/tabs/settings-lightbox.php:174
+msgid "Toolbar Icons Size"
+msgstr "Työkalukuvakkeiden koko"
+
+#: core/kits/documents/tabs/settings-lightbox.php:102
+#: core/kits/documents/tabs/settings-lightbox.php:119
+msgid "Alt"
+msgstr "Alt"
+
+#: core/kits/documents/tabs/settings-lightbox.php:86 includes/frontend.php:1391
+msgid "Share"
+msgstr "Jaa"
+
+#: core/kits/documents/tabs/settings-lightbox.php:66 includes/frontend.php:1389
+msgid "Fullscreen"
+msgstr "Koko näyttö"
+
+#. translators: %s: Widget title.
+#: core/editor/promotion.php:19
+msgid "Use %s widget and dozens more pro features to extend your toolbox and build sites faster and better."
+msgstr "Käytä %s-vimpainta ja kymmeniä muita pro-ominaisuuksia laajentaaksesi työkaluvalikoimaasi ja rakentaaksesi parempia sivustoja nopeammin."
+
+#. translators: %s: Widget title.
+#: core/editor/promotion.php:17
+msgid "%s Widget"
+msgstr "%s-vimpain"
+
+#: core/experiments/manager.php:142 includes/editor-templates/global.php:29
+#: assets/js/ai-admin.js:5015 assets/js/ai.js:5275 assets/js/app.js:7896
+#: assets/js/editor.js:46076
+msgid "Back"
+msgstr "Takaisin"
+
+#: core/kits/manager.php:156 core/kits/manager.php:174
+msgid "Default Kit"
+msgstr "Oletussarja"
+
+#: core/kits/documents/tabs/theme-style-form-fields.php:128
+msgid "Focus"
+msgstr "Fokus"
+
+#: core/kits/documents/tabs/theme-style-form-fields.php:99
+msgid "Field"
+msgstr "Kenttä"
+
+#: core/kits/documents/tabs/theme-style-form-fields.php:71
+msgid "Label"
+msgstr "Etiketti"
+
+#: core/kits/documents/tabs/theme-style-form-fields.php:21
+#: core/kits/documents/tabs/theme-style-form-fields.php:60
+msgid "Form Fields"
+msgstr "Lomakkeen kentät"
+
+#: core/kits/documents/tabs/theme-style-typography.php:76
+msgid "Paragraph Spacing"
+msgstr "Kappaleen välistys"
+
+#: core/kits/documents/tabs/theme-style-typography.php:49
+msgid "Body"
+msgstr "Leipäteksti"
+
+#: core/kits/documents/tabs/theme-style-buttons.php:23
+#: core/kits/documents/tabs/theme-style-buttons.php:63
+msgid "Buttons"
+msgstr "Painikkeet"
+
+#: core/kits/documents/kit.php:155
+msgid "Draft"
+msgstr "Luonnos"
+
+#: core/kits/documents/kit.php:44
+msgid "Kit"
+msgstr "Sarja"
+
+#: core/common/modules/connect/apps/base-app.php:158
+msgid "Already connected."
+msgstr "On jo kytkettynä."
+
+#: includes/widgets/image-carousel.php:418
+msgid "Pause on Interaction"
+msgstr "Pysäytä interaktiossa"
+
+#. translators: %s: Video provider
+#: includes/embed.php:184
+msgid "%s Video Player"
+msgstr "%s-videosoitin"
+
+#: includes/controls/groups/background.php:662
+msgid "Background Position"
+msgstr "Taustan sijoitus"
+
+#: includes/controls/groups/background.php:440
+#: includes/controls/groups/background.php:651 includes/widgets/image.php:361
+msgid "Contain"
+msgstr "Sisällytä"
+
+#: includes/controls/groups/background.php:439
+#: includes/controls/groups/background.php:650 includes/widgets/image.php:360
+msgid "Cover"
+msgstr "Kata"
+
+#: includes/controls/groups/background.php:438
+#: includes/controls/groups/background.php:649
+#: includes/elements/container.php:607 includes/widgets/social-icons.php:275
+#: includes/widgets/video.php:562
+msgid "Auto"
+msgstr "Auto"
+
+#: includes/controls/groups/background.php:643
+msgid "Background Size"
+msgstr "Taustan koko"
+
+#: includes/settings/settings-page.php:369
+msgid "Usage Data Sharing"
+msgstr "Käyttötietojen jakaminen"
+
+#: core/common/modules/connect/apps/library.php:29
+#: core/common/modules/connect/apps/library.php:56
+msgid "Connecting to the Library failed. Please try reloading the page and try again"
+msgstr "Kirjastoon yhdistäminen epäonnistui. Päivitä sivu ja yritä uudelleen, ole hyvä"
+
+#. translators: %s: Remote user.
+#: core/common/modules/connect/apps/base-app.php:83
+msgid "Connected as %s"
+msgstr "Yhdistetty: %s"
+
+#: core/settings/editor-preferences/model.php:99
+msgid "Enable Lightbox In Editor"
+msgstr "Ota lightbox käyttöön muokkaimessa"
+
+#: core/settings/editor-preferences/model.php:65
+msgid "Dark"
+msgstr "Tumma"
+
+#: core/settings/editor-preferences/model.php:64
+msgid "Light"
+msgstr "Vaalea"
+
+#: core/settings/editor-preferences/model.php:63
+msgid "Auto Detect"
+msgstr "Automaattinen tunnistus"
+
+#: core/settings/editor-preferences/model.php:60
+msgid "Set light or dark mode, or use Auto Detect to sync it with your OS setting."
+msgstr "Aseta vaalea tai tumma ilmiasu, tai käytä automaattista tunnistusta synkronoidaksesi sen OS-asetuksesi kanssa."
+
+#: core/settings/editor-preferences/model.php:58
+msgid "UI Theme"
+msgstr "Käyttöliittymän teema"
+
+#: core/settings/editor-preferences/model.php:51
+msgid "Preferences"
+msgstr "Asetukset"
+
+#: modules/promotions/admin-menu-items/custom-icons-promotion-item.php:23
+msgid "Don't rely solely on the FontAwesome icons everyone else is using! Differentiate your website and your style with custom icons you can upload from your favorite icons source."
+msgstr "Älä turvaudu ainoastaan FontAwesome-kuvakkeisiin, joita kaikki käyttävät! Erottaudu muista mukautetuilla kuvakkeilla, jotka voit ladata suosikkikuvakekirjastostasi."
+
+#: modules/promotions/admin-menu-items/custom-icons-promotion-item.php:19
+msgid "Add Your Custom Icons"
+msgstr "Lisää mukautetut kuvakkeet"
+
+#: modules/promotions/admin-menu-items/custom-icons-promotion-item.php:11
+#: modules/promotions/admin-menu-items/custom-icons-promotion-item.php:15
+msgid "Custom Icons"
+msgstr "Mukautetut kuvakkeet"
+
+#: includes/controls/groups/background.php:615
+msgid "Transition"
+msgstr "Siirtymä"
+
+#: includes/controls/groups/background.php:605
+msgid "Duration"
+msgstr "Kesto"
+
+#: core/logger/log-reporter.php:44
+msgid "Clear Log"
+msgstr "Tyhjennä loki"
+
+#: includes/frontend.php:1394 assets/js/app.js:7835 assets/js/app.js:9517
+#: assets/js/app.js:10433
+#: assets/js/onboarding.d1f3b86a6e269191f707.bundle.js:1471
+#: assets/js/onboarding.d1f3b86a6e269191f707.bundle.js:1522
+#: assets/js/onboarding.d1f3b86a6e269191f707.bundle.js:1801
+#: assets/js/onboarding.d1f3b86a6e269191f707.bundle.js:2078
+msgid "Next"
+msgstr "Seuraava"
+
+#: includes/frontend.php:1393 assets/js/app.js:8709 assets/js/app.js:9504
+#: assets/js/app.js:10426
+msgid "Previous"
+msgstr "Edellinen"
+
+#: includes/widgets/divider.php:645
+msgid "Amount"
+msgstr "Määrä"
+
+#: includes/widgets/divider.php:474
+#: assets/js/packages/editor-app-bar/editor-app-bar.js:984
+#: assets/js/packages/editor-app-bar/editor-app-bar.strings.js:16
+msgid "Add Element"
+msgstr "Lisää elementti"
+
+#: includes/widgets/divider.php:318 modules/shapes/module.php:23
+msgid "Line"
+msgstr "Viiva"
+
+#: includes/widgets/divider.php:288
+msgctxt "Shapes"
+msgid "X"
+msgstr "X"
+
+#: includes/widgets/divider.php:279
+msgctxt "Shapes"
+msgid "Tribal"
+msgstr "Tribaali"
+
+#: includes/widgets/divider.php:270
+msgctxt "Shapes"
+msgid "Trees"
+msgstr "Puut"
+
+#: includes/widgets/divider.php:261
+msgctxt "Shapes"
+msgid "Squares"
+msgstr "Neliöt"
+
+#: includes/widgets/divider.php:252
+msgctxt "Shapes"
+msgid "Stripes"
+msgstr "Raidat"
+
+#: includes/widgets/divider.php:243
+msgctxt "Shapes"
+msgid "Leaves"
+msgstr "Lehdet"
+
+#: includes/widgets/divider.php:234
+msgctxt "Shapes"
+msgid "Half Rounds"
+msgstr "Puoliympyrät"
+
+#: includes/widgets/divider.php:225
+msgctxt "Shapes"
+msgid "Fir Tree"
+msgstr "Havupuut"
+
+#: includes/widgets/divider.php:216
+msgctxt "Shapes"
+msgid "Dots"
+msgstr "Pisteet"
+
+#: includes/widgets/divider.php:207
+msgctxt "Shapes"
+msgid "Rectangles"
+msgstr "Nelikulmiot"
+
+#: includes/widgets/divider.php:199
+msgctxt "Shapes"
+msgid "Parallelogram"
+msgstr "Suunnikas"
+
+#: includes/widgets/divider.php:191
+msgctxt "Shapes"
+msgid "Rhombus"
+msgstr "Neljäkäs"
+
+#: includes/widgets/divider.php:183
+msgctxt "Shapes"
+msgid "Pluses"
+msgstr "Plussat"
+
+#: includes/widgets/divider.php:175
+msgctxt "Shapes"
+msgid "Arrows"
+msgstr "Nuolet"
+
+#: includes/widgets/divider.php:159
+msgctxt "Shapes"
+msgid "Wavy"
+msgstr "Aaltoileva"
+
+#: includes/widgets/divider.php:151
+msgctxt "Shapes"
+msgid "Squared"
+msgstr "Neliöt"
+
+#: includes/widgets/divider.php:134
+msgctxt "Shapes"
+msgid "Multiple"
+msgstr "Useita"
+
+#: includes/widgets/divider.php:126
+msgctxt "Shapes"
+msgid "Curved"
+msgstr "Kaareva"
+
+#: includes/widgets/divider.php:118
+msgctxt "Shapes"
+msgid "Curly"
+msgstr "Kihara"
+
+#: includes/widgets/image-gallery.php:44
+msgid "Basic Gallery"
+msgstr "Perusgalleria"
+
+#: includes/controls/groups/background.php:714
+msgid "Out"
+msgstr "Ulos"
+
+#: includes/controls/groups/background.php:713
+msgid "In"
+msgstr "Sisään"
+
+#: includes/controls/groups/background.php:698
+msgid "Ken Burns Effect"
+msgstr "Ken Burns -tehoste"
+
+#: includes/controls/groups/background.php:568
+msgid "This cover image will replace the background video in case that the video could not be loaded."
+msgstr "Tämä kansikuva korvaa taustavideon, mikäli videoita ei voida toistaa."
+
+#: includes/controls/groups/background.php:543 includes/widgets/video.php:338
+msgid "Play On Mobile"
+msgstr "Toista mobiilissa"
+
+#: includes/controls/groups/background.php:491
+msgid "YouTube/Vimeo link, or link to video file (mp4 is recommended)."
+msgstr "YouTube/Vimeo-linkki tai linkki videotiedostoon (suositeltu muoto mp4)."
+
+#: includes/settings/tools.php:370 includes/settings/tools.php:372
+msgid "Reinstall"
+msgstr "Asenna uudelleen"
+
+#: includes/widgets/divider.php:142
+msgctxt "Shapes"
+msgid "Slashes"
+msgstr "Kenoviivat"
+
+#: core/document-types/post.php:51
+msgid "Post"
+msgstr "Artikkeli"
+
+#. translators: %s: Path to .htaccess file.
+#: core/debug/classes/htaccess.php:31
+msgid "File Path: %s"
+msgstr "Tiedoston polku: %s"
+
+#: core/kits/views/panel.php:12 includes/editor-templates/panel.php:30
+#: includes/editor-templates/panel.php:183
+msgid "Need Help"
+msgstr "Tarvitsetko apua"
+
+#: includes/controls/groups/background.php:533
+msgid "Play Once"
+msgstr "Toista kerran"
+
+#: includes/controls/icons.php:91 includes/controls/icons.php:112
+#: includes/controls/icons.php:198
+msgid "Upload SVG"
+msgstr "Lataa SVG"
+
+#: includes/controls/media.php:192
+msgid "Choose Video"
+msgstr "Valitse video"
+
+#: includes/admin-templates/beta-tester.php:32
+msgid "Your Email"
+msgstr "Sähköpostiosoitteesi"
+
+#: includes/admin-templates/beta-tester.php:29
+msgid "Get Beta Updates"
+msgstr "Hanki beetapäivitykset"
+
+#: includes/settings/settings.php:334
+msgid "We recommend you only enable this feature if you understand the security risks involved."
+msgstr "Suosittelemme, että käytät tätä toimintoa vain, jos ymmärrät siihen liittyvät tietoturvariskit."
+
+#: includes/template-library/sources/local.php:616
+msgid "Template not exist."
+msgstr "Mallia ei ole olemassa."
+
+#: includes/base/widget-base.php:1009
+msgid "Deprecated"
+msgstr "Poistettu käytöstä"
+
+#: includes/managers/icons.php:557
+msgid "Hurray! The upgrade process to Font Awesome 5 was completed successfully."
+msgstr "Hurraa! Päivitys Font Awesome 5:een onnistui."
+
+#: includes/managers/icons.php:511
+msgid "Upgrade To Font Awesome 5"
+msgstr "Päivitä Font Awesome 5:een"
+
+#: includes/managers/icons.php:499
+msgid "This action is not reversible and cannot be undone by rolling back to previous versions."
+msgstr "Tätä toimenpidettä ei voi perua eikä sitä voi kumota palaamalla edelliseen versioon."
+
+#: includes/managers/icons.php:494
+msgid "Please note that the upgrade process may cause some of the previously used Font Awesome 4 icons to look a bit different due to minor design changes made by Font Awesome."
+msgstr "Huomaa, että päivitysprosessi voi aiheuttaa sen, että aikaisemmin käytössä olleet Font Awesome 4 -kuvakkeet näyttävät hieman erilaiselta, koska Font Awesome on tehnyt pieniä muutoksia niiden ulkoasuun."
+
+#: includes/managers/icons.php:485 includes/managers/icons.php:489
+#: includes/managers/icons.php:504
+msgid "Font Awesome Upgrade"
+msgstr "Font Awesome -päivitys"
+
+#: includes/managers/icons.php:478
+msgid "Font Awesome 4 support script (shim.js) is a script that makes sure all previously selected Font Awesome 4 icons are displayed correctly while using Font Awesome 5 library."
+msgstr "Font Awesome 4 -tukiskripti (shim.js) on komentosarja, joka varmistaa, että kaikki aikaisemmin valitut Font Awesome 4 -kuvakkeet näkyvät oikein Font Awesome 5 -kirjastoa käytettäessä."
+
+#: includes/managers/icons.php:470
+msgid "Load Font Awesome 4 Support"
+msgstr "Lataa Font Awesome 4 -tuki"
+
+#: includes/managers/icons.php:247
+msgid "All Icons"
+msgstr "Kaikki kuvakkeet"
+
+#: includes/managers/icons.php:156
+msgid "Font Awesome - Brands"
+msgstr "Font Awesome - Tuotemerkit"
+
+#: includes/managers/icons.php:144
+msgid "Font Awesome - Solid"
+msgstr "Font Awesome - Yhtenäiset"
+
+#: includes/admin-templates/beta-tester.php:37 assets/js/beta-tester.js:65
+msgid "Sign Up"
+msgstr "Liity"
+
+#: includes/controls/media.php:267 includes/controls/media.php:269
+#: assets/js/editor.js:7836
+msgid "Upload"
+msgstr "Lähetä"
+
+#: includes/controls/icons.php:90 includes/controls/icons.php:116
+#: includes/controls/icons.php:202 assets/js/editor.js:8436
+msgid "Icon Library"
+msgstr "Kuvakekirjasto"
+
+#: core/editor/editor.php:204
+msgid "Document not found."
+msgstr "Asiakirjaa ei löytynyt."
+
+#: includes/admin-templates/beta-tester.php:30
+msgid "As a beta tester, you’ll receive an update that includes a testing version of Elementor and its content directly to your Email"
+msgstr "Beetatestaajana saat suoraan sähköpostiisi päivityksen, joka sisältää Elementorin testiversion ja sen sisällöt"
+
+#: includes/managers/icons.php:492
+msgid "By upgrading, whenever you edit a page containing a Font Awesome 4 icon, Elementor will convert it to the new Font Awesome 5 icon."
+msgstr "Kun muokkaat mitä tahansa sivua Elementorilla päivityksen jälkeen, Elementor muuttaa kaikki löytämänsä Font Awesome 4 -kuvakkeet uusiksi Font Awesome 5 -kuvakkeiksi."
+
+#: includes/managers/icons.php:491
+msgid "Access 1,500+ amazing Font Awesome 5 icons and enjoy faster performance and design flexibility."
+msgstr "Saat käyttöösi yli 1500 upeaa Font Awesome 5 -kuvaketta, jotka latautuvat nopeammin ja tarjoavat enemmän joustavuutta suunnitteluusi."
+
+#: includes/managers/icons.php:132
+msgid "Font Awesome - Regular"
+msgstr "Font Awesome - Vakiokuvakkeet"
+
+#: core/debug/classes/htaccess.php:12
+msgid "Your site's .htaccess file appears to be missing."
+msgstr "Sivustosi .htaccess-tiedosto näyttää puuttuvan."
+
+#: core/debug/classes/theme-missing.php:22
+msgid "Some of your theme files are missing."
+msgstr "Joitakin teemaasi liittyviä tiedostoja puuttuupalvelimelta."
+
+#: includes/settings/settings.php:334
+msgid "Elementor will try to sanitize the unfiltered files, removing potential malicious code and scripts."
+msgstr "Elementor pyrkii puhdistamaan suodattamattomat tiedostot ja poistamaan niissä mahdollisesti olevat haittakoodit ja skriptit."
+
+#: includes/settings/settings.php:334
+msgid "Please note! Allowing uploads of any files (SVG & JSON included) is a potential security risk."
+msgstr "Huomaa! Kaikentyyppisten (myös SVG- ja JSON-) tiedostojen lataamisen salliminen voi olla tietoturvariski."
+
+#: includes/elements/container.php:606 includes/elements/section.php:477
+msgid "Hidden"
+msgstr "Piilotettu"
+
+#: includes/elements/container.php:601 includes/elements/section.php:472
+msgid "Overflow"
+msgstr "Ylivuoto"
+
+#: includes/settings/admin-menu-items/get-help-menu-item.php:23
+msgid "Get Help"
+msgstr "Hanki apua"
+
+#: includes/elements/container.php:1386 includes/widgets/common.php:330
+msgid "Custom positioning is not considered best practice for responsive web design and should not be used too frequently."
+msgstr "Mukautettu sijoittelu ei ole paras käytäntö responsiivisissa sivustoissa, eikä sitä pitäisi käyttää kovin usein."
+
+#: includes/elements/container.php:1386 includes/widgets/common.php:330
+msgid "Please note!"
+msgstr "Huomaa!"
+
+#: includes/controls/groups/flex-container.php:117
+#: includes/controls/groups/flex-container.php:214
+#: includes/controls/groups/grid-container.php:212
+#: includes/controls/groups/grid-container.php:252
+#: includes/elements/column.php:193 includes/elements/column.php:221
+#: includes/elements/section.php:454
+msgid "Space Evenly"
+msgstr "Jaa tasaisesti"
+
+#: includes/controls/groups/flex-container.php:113
+#: includes/controls/groups/flex-container.php:213
+#: includes/controls/groups/grid-container.php:208
+#: includes/controls/groups/grid-container.php:248
+#: includes/elements/column.php:192 includes/elements/column.php:220
+#: includes/elements/section.php:453
+msgid "Space Around"
+msgstr "Ympäröivä tila"
+
+#: includes/elements/container.php:1528 includes/widgets/common.php:466
+msgid "Vertical Orientation"
+msgstr "Pystysuunta"
+
+#: includes/base/element-base.php:933 includes/elements/container.php:1450
+#: includes/elements/container.php:1489 includes/elements/container.php:1552
+#: includes/elements/container.php:1590 includes/widgets/common.php:388
+#: includes/widgets/common.php:427 includes/widgets/common.php:490
+#: includes/widgets/common.php:528
+msgid "Offset"
+msgstr "Välistys"
+
+#: includes/elements/container.php:1425 includes/widgets/common.php:363
+msgid "Horizontal Orientation"
+msgstr "Vaakasuunta"
+
+#: includes/elements/container.php:1406 includes/widgets/common.php:349
+msgid "Fixed"
+msgstr "Kiinnitetty"
+
+#: includes/elements/container.php:1405 includes/widgets/common.php:348
+msgid "Absolute"
+msgstr "Absoluuttinen"
+
+#: includes/elements/section.php:444 includes/widgets/common.php:304
+#: includes/widgets/image-carousel.php:670
+msgid "Vertical Align"
+msgstr "Pystysuora tasaus"
+
+#: includes/controls/groups/flex-item.php:30
+msgid "Custom Width"
+msgstr "Mukautettu leveys"
+
+#: includes/elements/column.php:847 includes/elements/container.php:1685
+#: includes/elements/section.php:1282 includes/widgets/common.php:621
+msgid "Motion Effects"
+msgstr "Liiketehosteet"
+
+#: includes/settings/controls.php:236
+msgid "Super Admin"
+msgstr "Super Admin"
+
+#: modules/safe-mode/module.php:374
+msgid "Having problems loading Elementor? Please enable Safe Mode to troubleshoot."
+msgstr "Eikö Elementorin lataaminen onnistu? Ota käyttöön Safe Mode."
+
+#: modules/safe-mode/module.php:272
+msgid "The issue was probably caused by one of your plugins or theme."
+msgstr "Tämä ongelma johtuu todennäköisimmin teemastasi tai jostain käytössä olevasta lisäosasta."
+
+#. translators: %s: Accepted chars.
+#: includes/widgets/menu-anchor.php:113
+msgid "Note: The ID link ONLY accepts these chars: %s"
+msgstr "Huomaa: ID-linkki hyväksyy ainoastaan nämä merkit: %s"
+
+#: includes/controls/media.php:198
+msgid "Choose File"
+msgstr "Valitse tiedosto"
+
+#: includes/widgets/video.php:200
+msgid "External URL"
+msgstr "Ulkopuolinen URL"
+
+#: includes/widgets/image-gallery.php:165
+msgid "Order By"
+msgstr "Järjestä"
+
+#: includes/widgets/read-more.php:117
+msgid "Read More Text"
+msgstr "Lue lisää -teksti"
+
+#. translators: %s: The `the_content` function.
+#: includes/widgets/read-more.php:107
+msgid "Note: This widget only affects themes that use `%s` in archive pages."
+msgstr "Huomaa: Tämä vimpain vaikuttaa vain teemoihin joiden arkistosivuilla on '%s'."
+
+#: includes/widgets/read-more.php:88
+msgid "Continue reading"
+msgstr "Jatka lukemista"
+
+#: includes/widgets/read-more.php:41 includes/widgets/read-more.php:84
+msgid "Read More"
+msgstr "Lue lisää"
+
+#: includes/widgets/google-maps.php:132
+msgid "Location"
+msgstr "Sijainti"
+
+#. translators: %s: Current post name.
+#: includes/frontend.php:1524
+msgid "Continue reading %s"
+msgstr "Jatka lukemista: %s"
+
+#: includes/frontend.php:1517
+msgid "(more&hellip;)"
+msgstr "(more&hellip;)"
+
+#: includes/template-library/sources/local.php:1417
+msgctxt "Template Library"
+msgid "Filter by category"
+msgstr "Suodata kategorian mukaan"
+
+#: includes/template-library/sources/local.php:327
+msgctxt "Template Library"
+msgid "All Categories"
+msgstr "Kaikki kategoriat"
+
+#: includes/template-library/sources/local.php:326
+msgctxt "Template Library"
+msgid "Category"
+msgstr "Kategoria"
+
+#: includes/template-library/sources/local.php:325
+msgctxt "Template Library"
+msgid "Categories"
+msgstr "Kategoriat"
+
+#: core/admin/menu/main.php:34 core/admin/menu/main.php:35
+#: includes/template-library/sources/local.php:228
+#: includes/template-library/sources/local.php:246
+msgctxt "Template Library"
+msgid "Templates"
+msgstr "Mallit"
+
+#: modules/promotions/admin-menu-items/popups-promotion-item.php:25
+msgid "Get Popup Builder"
+msgstr "Hanki Popup-rakentaja"
+
+#: includes/template-library/sources/local.php:1722
+#: modules/promotions/admin-menu-items/popups-promotion-item.php:17
+#: modules/promotions/admin-menu-items/popups-promotion-item.php:21
+#: assets/js/app.js:11037
+#: assets/js/kit-library.b4cf9f541e44f7bbc972.bundle.js:2208
+msgid "Popups"
+msgstr "Popup-lomakkeet"
+
+#: app/admin-menu-items/theme-builder-menu-item.php:22
+#: app/modules/site-editor/module.php:31
+#: core/common/modules/finder/categories/general.php:72
+#: includes/template-library/sources/local.php:1721
+#: assets/js/app-packages.js:5925 assets/js/editor.js:45789
+#: assets/js/packages/editor-app-bar/editor-app-bar.js:1214
+#: assets/js/packages/editor-app-bar/editor-app-bar.strings.js:7
+msgid "Theme Builder"
+msgstr "Teemanrakentaja"
+
+#: modules/safe-mode/module.php:370
+msgid "Enable Safe Mode"
+msgstr "Ota käyttöön Safe Mode"
+
+#: modules/safe-mode/module.php:368 modules/safe-mode/module.php:380
+msgid "Can't Edit?"
+msgstr "Etkö voi muokata tätä?"
+
+#: modules/safe-mode/module.php:269
+msgid "Editor successfully loaded?"
+msgstr "Onhan muokkain latautunut onnistuneesti?"
+
+#: modules/safe-mode/module.php:262 modules/safe-mode/module.php:492
+msgid "Disable Safe Mode"
+msgstr "Poista Safe Mode käytöstä"
+
+#: modules/safe-mode/module.php:260
+msgid "Safe Mode ON"
+msgstr "Safe Mode PÄÄLLÄ"
+
+#: modules/safe-mode/module.php:102
+msgid "Cannot enable Safe Mode"
+msgstr "Safe Moden käyttöönotto ei onnistu"
+
+#: modules/safe-mode/module.php:51
+msgid "Safe Mode allows you to troubleshoot issues by only loading the editor, without loading the theme or any other plugin."
+msgstr "Safe Mode sallii sinun selvitellä ongelmia vain lataamalla editorin. Sinun ei tarvitse ladata teemaa tai muita lisäosia."
+
+#: modules/safe-mode/module.php:42
+msgid "Safe Mode"
+msgstr "Safe Mode"
+
+#: core/upgrade/manager.php:47
+msgid "Elementor Data Updater"
+msgstr "Elementorin tietopäivittäjä"
+
+#: core/common/modules/finder/categories/general.php:49
+msgctxt "Template Library"
+msgid "Saved Templates"
+msgstr "Tallennetut mallit"
+
+#. translators: %d: Interval in minutes.
+#: core/base/background-process/wp-background-process.php:438
+#: core/base/background-task.php:311
+msgid "Every %d minutes"
+msgstr "Joka %d minuutti"
+
+#: modules/safe-mode/module.php:285
+msgid "Still experiencing issues?"
+msgstr "Onko sinulla vielä ongelmia?"
+
+#: core/base/db-upgrades-manager.php:130
+msgid "The database update process is now complete. Thank you for updating to the latest version!"
+msgstr "Tietokannan päivitys on nyt valmis. Kiitos päivittämisestä viimeisimpään versioon!"
+
+#: core/base/db-upgrades-manager.php:93
+msgid "Your site database needs to be updated to the latest version."
+msgstr "Sivustosi tietokanta tarvitsee päivityksen viimeisimpään versioon."
+
+#: modules/library/documents/not-supported.php:57
+msgid "Not Supported"
+msgstr "Ei tuettu"
+
+#: core/common/modules/finder/categories/site.php:82
+msgid "Users"
+msgstr "Käyttäjät"
+
+#: core/common/modules/finder/categories/site.php:76 assets/js/app.js:11541
+msgid "Plugins"
+msgstr "Lisäosat"
+
+#: core/common/modules/finder/categories/site.php:58
+msgid "Menus"
+msgstr "Valikot"
+
+#: core/common/modules/finder/categories/site.php:46
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.js:1102
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:9
+msgid "Homepage"
+msgstr "Kotisivu"
+
+#: core/base/document.php:1771
+msgid "Future"
+msgstr "Tulevaisuus"
+
+#: includes/widgets/video.php:478
+msgid "Current Video Channel"
+msgstr "Nykyinen videokanava"
+
+#: includes/editor-templates/hotkeys.php:110
+msgid "Show / Hide Panel"
+msgstr "Näytä / piilota paneeli"
+
+#: includes/widgets/image.php:164 includes/widgets/image.php:173
+msgid "Custom Caption"
+msgstr "Mukautettu kuvateksti"
+
+#: includes/widgets/video.php:479
+msgid "Any Video"
+msgstr "Mikä tahansa video"
+
+#: core/common/modules/finder/categories/site.php:70
+msgid "Customizer"
+msgstr "Mukautin"
+
+#: includes/widgets/star-rating.php:289
+msgid "Stars"
+msgstr "Tähdet"
+
+#: includes/widgets/rating.php:133 includes/widgets/star-rating.php:118
+msgid "Rating Scale"
+msgstr "Arviointiasteikko"
+
+#: core/common/modules/connect/apps/base-app.php:84
+msgid "Disconnect"
+msgstr "Irrota"
+
+#: core/common/modules/connect/apps/base-app.php:230
+msgid "Disconnected successfully."
+msgstr "Irrottaminen onnistui."
+
+#: core/common/modules/connect/apps/base-app.php:218 assets/js/editor.js:10456
+msgid "Connected successfully."
+msgstr "Liittäminen onnistui."
+
+#: core/common/modules/connect/apps/connect.php:11
+#: core/common/modules/connect/connect-menu-item.php:24
+#: core/common/modules/connect/connect-menu-item.php:28
+#: assets/js/ai-admin.js:863 assets/js/ai-admin.js:4702
+#: assets/js/ai-layout.js:692 assets/js/ai-layout.js:1804 assets/js/ai.js:991
+#: assets/js/ai.js:4962
+msgid "Connect"
+msgstr "Liitä"
+
+#: includes/widgets/image.php:163
+msgid "Attachment Caption"
+msgstr "Liitteen kuvateksti"
+
+#: includes/widgets/rating.php:108 includes/widgets/star-rating.php:344
+msgid "Unmarked Color"
+msgstr "Merkitsemätön väri"
+
+#: includes/widgets/star-rating.php:170
+msgid "Outline"
+msgstr "Yhteenveto"
+
+#: includes/widgets/star-rating.php:162
+msgid "Unmarked Style"
+msgstr "Merkitsemätön tyyli"
+
+#: includes/widgets/rating.php:22 includes/widgets/rating.php:126
+#: includes/widgets/rating.php:151 includes/widgets/star-rating.php:100
+#: includes/widgets/star-rating.php:131
+msgid "Rating"
+msgstr "Arviointi"
+
+#: includes/widgets/star-rating.php:45
+msgid "Star Rating"
+msgstr "Tähtiarvostelu"
+
+#: includes/editor-templates/hotkeys.php:213
+msgid "Quit"
+msgstr "Lopeta"
+
+#: includes/editor-templates/hotkeys.php:205 assets/js/editor.js:7134
+#: assets/js/packages/editor-app-bar/editor-app-bar.js:1079
+#: assets/js/packages/editor-app-bar/editor-app-bar.strings.js:11
+msgid "Keyboard Shortcuts"
+msgstr "Näppäinoikotiet"
+
+#: includes/editor-templates/hotkeys.php:171
+msgid "Go To"
+msgstr "Mene"
+
+#: includes/editor-templates/hotkeys.php:33 assets/js/ai-admin.js:8233
+#: assets/js/ai.js:8493
+msgid "Redo"
+msgstr "Tee uudelleen"
+
+#: includes/editor-templates/hotkeys.php:25 assets/js/ai-admin.js:8222
+#: assets/js/ai.js:8482 assets/js/kit-elements-defaults-editor.js:236
+msgid "Undo"
+msgstr "Peruuta"
+
+#: core/common/modules/finder/template.php:13
+msgid "Type to find anything in Elementor"
+msgstr "Kirjoita löytääksesi Elementorista"
+
+#: includes/editor-templates/hotkeys.php:102 assets/js/admin-top-bar.js:127
+#: assets/js/common.js:4704 assets/js/editor.js:37136
+#: assets/js/packages/editor-app-bar/editor-app-bar.js:1012
+#: assets/js/packages/editor-app-bar/editor-app-bar.strings.js:13
+msgid "Finder"
+msgstr "Etsijä"
+
+#: core/common/modules/finder/categories/site.php:52
+msgid "Dashboard"
+msgstr "Hallintapaneeli"
+
+#: core/common/modules/finder/categories/create.php:27
+#: assets/js/editor.js:44326
+msgid "Create"
+msgstr "Luo"
+
+#: includes/widgets/video.php:581
+msgid "Poster"
+msgstr "Juliste"
+
+#: includes/widgets/video.php:441
+msgid "Lazy Load"
+msgstr "Laiska lataus"
+
+#: includes/widgets/video.php:136 includes/widgets/video.php:161
+#: includes/widgets/video.php:185 includes/widgets/video.php:245
+msgid "Enter your URL"
+msgstr "Anna URL-osoitteesi"
+
+#: core/settings/editor-preferences/model.php:90
+msgid "Editing Handles"
+msgstr "Muokkauskahvat"
+
+#: includes/settings/admin-menu-items/getting-started-menu-item.php:61
+msgid "Welcome to Elementor"
+msgstr "Tervetuloa Elementoriin"
+
+#: includes/settings/admin-menu-items/getting-started-menu-item.php:39
+msgid "Create Your First Post"
+msgstr "Luo ensimmäinen artikkelisi"
+
+#: includes/settings/admin-menu-items/getting-started-menu-item.php:36
+msgid "Create Your First Page"
+msgstr "Luo ensimmäinen sivusi"
+
+#: includes/settings/admin-menu-items/getting-started-menu-item.php:23
+#: includes/settings/admin-menu-items/getting-started-menu-item.php:27
+#: includes/settings/admin-menu-items/getting-started-menu-item.php:52
+#: assets/js/onboarding.d1f3b86a6e269191f707.bundle.js:788
+msgid "Getting Started"
+msgstr "Aloittaminen"
+
+#: includes/widgets/inner-section.php:35 assets/js/editor.js:27079
+msgid "Inner Section"
+msgstr "Sisäpuolinen sisältölaatikko"
+
+#: includes/editor-templates/navigator.php:75
+msgid "Easy Navigation is Here!"
+msgstr "Helppo navigaatio on täällä!"
+
+#: includes/editor-templates/navigator.php:70
+msgid "Empty"
+msgstr "Tyhjä"
+
+#: includes/editor-templates/hotkeys.php:129
+#: includes/editor-templates/navigator.php:21
+#: includes/editor-templates/panel.php:88
+#: includes/editor-templates/panel.php:94 assets/js/editor.js:30639
+msgid "Navigator"
+msgstr "Navigaattori"
+
+#: includes/editor-templates/library-layout.php:13
+#: includes/settings/admin-menu-items/getting-started-menu-item.php:55
+#: includes/settings/admin-menu-items/getting-started-menu-item.php:56
+#: assets/js/app-packages.js:2843 assets/js/app.js:3964
+#: assets/js/onboarding.d1f3b86a6e269191f707.bundle.js:1221
+#: assets/js/onboarding.d1f3b86a6e269191f707.bundle.js:1376
+#: assets/js/onboarding.d1f3b86a6e269191f707.bundle.js:1617
+#: assets/js/onboarding.d1f3b86a6e269191f707.bundle.js:1792
+#: assets/js/onboarding.d1f3b86a6e269191f707.bundle.js:2113
+msgid "Skip"
+msgstr "Ohita"
+
+#: includes/controls/url.php:68 modules/shapes/widgets/text-path.php:148
+msgid "Paste URL or type"
+msgstr "Liitä tai kirjoita URL-osoite"
+
+#: includes/controls/groups/css-filter.php:132
+msgctxt "Filter Control"
+msgid "Hue"
+msgstr "Värisävy"
+
+#: core/debug/inspector.php:49
+msgid "Debug Bar"
+msgstr "Virheenkorjauspalkki"
+
+#: core/admin/admin-notices.php:284
+msgid "Hide Notification"
+msgstr "Piilota ilmoitus"
+
+#: core/admin/admin-notices.php:278
+msgid "Happy To Help"
+msgstr "Tahdomme auttaa"
+
+#: core/admin/admin-notices.php:274
+msgid "Congrats!"
+msgstr "Onneksi olkoon!"
+
+#: includes/editor-templates/navigator.php:76
+msgid "Once you fill your page with content, this window will give you an overview display of all the page elements. This way, you can easily move around any section, column, or widget."
+msgstr "Kun olet lisännyt sivullesi sisältöä, tämä ikkuna näyttää yleiskuvan kaikista sivulla käytetyistä elementeistä. Näin voit helposti siirrellä sisältöalueita, sarakkeita ja vimpaimia."
+
+#: includes/widgets/accordion.php:149 includes/widgets/accordion.php:153
+#: includes/widgets/icon-box.php:163 includes/widgets/image-box.php:140
+#: includes/widgets/tabs.php:148 includes/widgets/tabs.php:152
+#: includes/widgets/testimonial.php:101 includes/widgets/text-editor.php:114
+#: includes/widgets/toggle.php:152 includes/widgets/toggle.php:156
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+
+#: core/settings/editor-preferences/model.php:92
+msgid "Show editing handles when hovering over the element edit button."
+msgstr "Näytä muokkauskahvat kun kohdistin on elementin muokkauspainikkeen kohdalla"
+
+#: core/admin/admin-notices.php:275
+msgid "You created over 10 pages with Elementor. Great job! If you can spare a minute, please help us by leaving a five star review on WordPress.org."
+msgstr "Olet luonut yli 10 sivua Elementorilla. Hienoa työtä! Jos sinulla on hetki aikaa, auta meitä tekemällä viiden tähden arvostelu WordPress.orgissa."
+
+#: core/kits/documents/tabs/settings-lightbox.php:76 includes/frontend.php:1390
+#: includes/widgets/google-maps.php:149 assets/js/ai-admin.js:5431
+#: assets/js/ai-admin.js:5434 assets/js/ai.js:5691 assets/js/ai.js:5694
+msgid "Zoom"
+msgstr "Zoom"
+
+#: core/debug/inspector.php:57
+msgid "Debug Bar adds an admin bar menu that lists all the templates that are used on a page that is being displayed."
+msgstr "Tarkastaja lisää hallintapaneeliin valikon, joka listaa kaikki näytössä olevalla sivulla käytetyt mallit."
+
+#: core/document-types/page-base.php:47
+msgid "Single"
+msgstr "Yksittäinen"
+
+#: includes/widgets/video.php:413
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/widgets/video.php:400
+msgid "Modest Branding"
+msgstr "Hillitty ulkoasu"
+
+#: includes/widgets/video.php:386
+msgid "Video Info"
+msgstr "Videoinformaatio"
+
+#: includes/managers/elements.php:300
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: app/modules/site-editor/module.php:32
+#: core/common/modules/finder/categories/site.php:26 core/kits/manager.php:430
+#: includes/managers/elements.php:296
+msgid "Site"
+msgstr "Sivusto"
+
+#: includes/widgets/video.php:232 includes/widgets/video.php:256
+msgid "URL"
+msgstr "URL"
+
+#: includes/widgets/video.php:118
+msgid "Self Hosted"
+msgstr "Itse ylläpidettävä"
+
+#: includes/widgets/video.php:116
+msgid "Dailymotion"
+msgstr "Dailymotion"
+
+#: includes/widgets/video.php:110
+msgid "Source"
+msgstr "Lähde"
+
+#: includes/widgets/traits/button-trait.php:213
+msgid "Button ID"
+msgstr "Painikkeen ID"
+
+#: includes/widgets/audio.php:185
+msgid "Artwork"
+msgstr "Taide"
+
+#: includes/managers/elements.php:289
+msgid "Pro"
+msgstr "Pro"
+
+#: includes/editor-templates/hotkeys.php:42 assets/js/editor.js:29733
+msgid "Copy"
+msgstr "Kopioi"
+
+#: includes/editor-templates/global.php:47
+msgid "Drag widget here"
+msgstr "Vedä vimpain tähän"
+
+#: includes/controls/groups/css-filter.php:115
+msgctxt "Filter Control"
+msgid "Saturation"
+msgstr "Kylläisyys"
+
+#: includes/controls/groups/css-filter.php:98
+msgctxt "Filter Control"
+msgid "Contrast"
+msgstr "Kontrasti"
+
+#: includes/controls/groups/css-filter.php:81
+msgctxt "Filter Control"
+msgid "Brightness"
+msgstr "Kirkkaus"
+
+#: includes/controls/groups/css-filter.php:62
+msgctxt "Filter Control"
+msgid "Blur"
+msgstr "Sumennus"
+
+#: includes/controls/groups/background.php:523 includes/widgets/video.php:296
+msgid "Specify an end time (in seconds)"
+msgstr "Määrittele päättymisaika (sekunteina)"
+
+#: includes/controls/groups/background.php:521 includes/widgets/video.php:294
+msgid "End Time"
+msgstr "Päättymisaika"
+
+#: includes/controls/groups/background.php:511 includes/widgets/video.php:285
+msgid "Specify a start time (in seconds)"
+msgstr "Määrittele aloitusaika (sekunteina)"
+
+#: includes/controls/groups/background.php:509 includes/widgets/video.php:283
+msgid "Start Time"
+msgstr "Aloitusaika"
+
+#: core/admin/feedback.php:114
+msgid "Wait! Don't deactivate Elementor. You have to activate both Elementor and Elementor Pro in order for the plugin to work."
+msgstr "Odota! Älä poista Elementoria käytöstä. Sekä Elementorin että Elementor Pron täytyy olla aktiivisena, jotta lisäosa toimisi."
+
+#: core/admin/feedback.php:112
+msgid "I have Elementor Pro"
+msgstr "Minulla on Elementor Pro"
+
+#: core/debug/inspector.php:115
+msgid "Elementor Debugger"
+msgstr "Elementorin virheenkorjaus"
+
+#: includes/elements/column.php:422 includes/elements/container.php:867
+#: includes/elements/section.php:712 includes/widgets/heading.php:269
+msgid "Blend Mode"
+msgstr "Tasojen käsittely"
+
+#: core/admin/admin.php:217 assets/js/admin.js:2025 assets/js/gutenberg.js:122
+msgid "Back to WordPress Editor"
+msgstr "Palaa WordPressin muokkaimeen"
+
+#. translators: %s: Document title.
+#: core/documents-manager.php:385
+msgid "Elementor %s"
+msgstr "Elementor %s"
+
+#. translators: %s: Template type label.
+#: core/base/document.php:210
+#: core/common/modules/finder/categories/create.php:86
+#: includes/template-library/sources/local.php:1377
+msgid "Add New %s"
+msgstr "Lisää uusi %s"
+
+#: core/kits/documents/tabs/theme-style-images.php:95
+#: core/kits/documents/tabs/theme-style-images.php:166
+#: includes/elements/column.php:391 includes/elements/column.php:465
+#: includes/elements/container.php:821 includes/elements/container.php:935
+#: includes/elements/section.php:666 includes/elements/section.php:770
+#: includes/widgets/image-box.php:397 includes/widgets/image-box.php:451
+#: includes/widgets/image.php:415 includes/widgets/image.php:449
+msgid "Opacity"
+msgstr "Läpinäkyvyys"
+
+#: includes/widgets/image.php:295
+msgid "Max Width"
+msgstr "Maksimileveys"
+
+#: includes/controls/groups/background.php:220
+#: includes/controls/groups/background.php:266
+#: includes/controls/groups/box-shadow.php:69
+#: includes/elements/container.php:1400 includes/widgets/common.php:343
+#: includes/widgets/common.php:1002 includes/widgets/divider.php:744
+#: includes/widgets/divider.php:884 includes/widgets/image-carousel.php:530
+#: includes/widgets/image-carousel.php:594 includes/widgets/tabs.php:171
+#: modules/nested-accordion/widgets/nested-accordion.php:190
+#: modules/nested-tabs/widgets/nested-tabs.php:863
+msgid "Position"
+msgstr "Asema"
+
+#. translators: 1: Elementor, 2: Link to plugin review
+#: core/admin/admin.php:401
+msgid "Enjoyed %1$s? Please leave us a %2$s rating. We really appreciate your support!"
+msgstr "Piditkö tästä: %1$s? Anna meille %2$s arvio. Arvostamme tukeasi!"
+
+#: core/common/modules/finder/categories/general.php:67
+msgid "Knowledge Base"
+msgstr "Ohjetietokanta"
+
+#: modules/page-templates/module.php:347
+msgid "This template includes the header, full-width content and footer"
+msgstr "Tämä malli sisältää otsikkopalkin, täysleveän sisältöalueen ja alapalkin"
+
+#: modules/page-templates/module.php:335
+msgid "No header, no footer, just Elementor"
+msgstr "Ei otsikkoa, ei alapalkkia, vain Elementor"
+
+#: modules/page-templates/module.php:292
+msgid "Page Layout"
+msgstr "Sivun asettelu"
+
+#: modules/page-templates/module.php:323
+msgid "Default Page Template from your theme."
+msgstr "Teemassasi valittu oletussivupohja."
+
+#: includes/widgets/counter.php:181
+msgid "Separator"
+msgstr "Erotin"
+
+#: core/common/modules/ajax/module.php:165
+msgid "Action not found."
+msgstr "Toimintoa ei löytynyt."
+
+#: core/common/modules/ajax/module.php:131
+msgid "Token Expired."
+msgstr "Vanhentunut "
+
+#: includes/template-library/sources/admin-menu-items/add-new-template-menu-item.php:23
+#: modules/landing-pages/module.php:271 assets/js/app-packages.js:4610
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.js:1155
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:8
+msgid "Add New"
+msgstr "Lisää uusi"
+
+#: includes/template-library/sources/local.php:1337
+msgid "Add templates and reuse them across your website. Easily export and import them to any other project, for an optimized workflow."
+msgstr "Lisää malleja ja käytä niitä missä tahansa sivustollasi. Voit myös optimoida työnkulkuasi siirtämällä malleja projektista toiseen."
+
+#. translators: %s: Template type label.
+#: includes/template-library/sources/local.php:1370
+msgid "Create Your First %s"
+msgstr "Luo ensimmäinen %ssi"
+
+#: modules/promotions/admin-menu-items/custom-fonts-promotion-item.php:23
+msgid "Custom Fonts allows you to add your self-hosted fonts and use them on your Elementor projects to create a unique brand language."
+msgstr "Mukautettujen kirjasinten avulla voit lisätä omia kirjasinmallejasi ja käyttää niitä Elementor-projekteissasi luodaksesi yksilöllisen ulkoasun."
+
+#: modules/promotions/admin-menu-items/custom-fonts-promotion-item.php:19
+msgid "Add Your Custom Fonts"
+msgstr "Lisää mukautettuja kirjasimia"
+
+#: core/kits/documents/tabs/global-typography.php:182
+#: modules/promotions/admin-menu-items/custom-fonts-promotion-item.php:11
+#: modules/promotions/admin-menu-items/custom-fonts-promotion-item.php:15
+#: assets/js/d3bdd130eb38d3b07f85.bundle.js:237
+msgid "Custom Fonts"
+msgstr "Mukautetut kirjasimet"
+
+#. translators: %s: Document title.
+#. translators: %s: Post type label.
+#: core/base/document.php:1158 core/settings/page/model.php:126
+#: includes/editor-templates/panel.php:83
+#: assets/js/packages/editor-app-bar/editor-app-bar.js:702
+#: assets/js/packages/editor-app-bar/editor-app-bar.strings.js:25
+msgid "%s Settings"
+msgstr "%s - asetukset"
+
+#: core/role-manager/role-manager.php:160
+msgid "Want to give access only to content?"
+msgstr "Haluatko antaa pääsyn vain sisältöön?"
+
+#: core/role-manager/role-manager.php:126
+msgid "No access to editor"
+msgstr "Ei pääsyä muokkaimeen"
+
+#: core/role-manager/role-manager.php:119
+msgid "Role Excluded"
+msgstr "Rooli suljettu pois"
+
+#: core/role-manager/role-manager.php:83
+msgid "Manage What Your Users Can Edit In Elementor"
+msgstr "Hallinnoi tietoja, joita käyttäjäsi voivat muokata Elementorissa"
+
+#: core/common/modules/finder/categories/general.php:61
+#: core/role-manager/role-manager-menu-item.php:28
+#: core/role-manager/role-manager-menu-item.php:32
+#: core/role-manager/role-manager.php:32
+msgid "Role Manager"
+msgstr "Roolien hallitsija"
+
+#: includes/widgets/common.php:226 includes/widgets/icon-list.php:104
+#: includes/widgets/icon-list.php:195
+msgid "Inline"
+msgstr "Samassa tasossa"
+
+#: includes/template-library/sources/local.php:1242
+msgid "All"
+msgstr "Kaikki"
+
+#: includes/template-library/sources/local.php:230
+msgctxt "Template Library"
+msgid "My Templates"
+msgstr "Omat mallit"
+
+#: includes/admin-templates/new-template.php:115
+msgid "Create Template"
+msgstr "Luo malli"
+
+#: includes/admin-templates/new-template.php:112
+msgid "Enter template name (optional)"
+msgstr "Anna mallin nimi (pakollinen)"
+
+#: includes/admin-templates/new-template.php:109
+msgid "Name your template"
+msgstr "Nimeä mallisi"
+
+#: includes/admin-templates/new-template.php:66
+msgid "Select the type of template you want to work on"
+msgstr "Valitse mallin tyyppi, jota haluat käsitellä"
+
+#: includes/admin-templates/new-template.php:64
+msgid "Choose Template Type"
+msgstr "Valitse mallin tyyppi"
+
+#: includes/admin-templates/new-template.php:57
+msgid "Use templates to create the different pieces of your site, and reuse them with one click whenever needed."
+msgstr "Luo malleja sivustosi osista ja käytä niitä uudelleen napin painalluksella aina kuin tarvitset."
+
+#: includes/editor-templates/templates.php:180
+msgid "More actions"
+msgstr "Lisää toimintoja"
+
+#: core/document-types/page.php:65 modules/library/documents/page.php:61
+#: assets/js/app.js:11823 assets/js/editor.js:9758
+#: assets/js/kit-library.b4cf9f541e44f7bbc972.bundle.js:2194
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.js:476
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.js:1203
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.js:1222
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:1
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:3
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:7
+msgid "Pages"
+msgstr "Sivut"
+
+#: includes/editor-templates/global.php:117
+msgid "This tag has no settings."
+msgstr "Tähän tagiin ei liity asetuksia."
+
+#: core/dynamic-tags/tag.php:115 includes/settings/settings.php:362
+msgid "Fallback"
+msgstr "Varmistus"
+
+#: core/document-types/page-base.php:201
+msgid "Featured Image"
+msgstr "Kansikuva"
+
+#: core/document-types/page-base.php:121
+msgid "Body Style"
+msgstr "Leipätekstin tyyli"
+
+#: core/base/document.php:202
+msgid "Document"
+msgstr "Dokumentti"
+
+#: includes/frontend.php:1392 includes/widgets/video.php:971
+msgid "Play Video"
+msgstr "Katso video"
+
+#: includes/editor-templates/templates.php:100
+msgid "Search Templates:"
+msgstr "Hae malleista:"
+
+#: includes/widgets/image-carousel.php:138
+msgid "Set how many slides are scrolled per swipe."
+msgstr "Aseta yhdellä pyyhkäisyllä vieritettävien diojen lukumäärä."
+
+#: includes/controls/groups/background.php:401
+msgid "Note: Attachment Fixed works only on desktop."
+msgstr "Huomaa: kiinteä liite toimii ainoastaan desktop-näytöillä."
+
+#: core/admin/admin.php:470
+msgid "Create New Post"
+msgstr "Luo uusi artikkeli"
+
+#: includes/fonts.php:77
+msgid "Google (Early Access)"
+msgstr "Google (Early Access)"
+
+#: includes/editor-templates/templates.php:158
+msgid "Favorite"
+msgstr "Suosikki"
+
+#: includes/widgets/shortcode.php:106
+msgid "Enter your shortcode"
+msgstr "Anna lyhytkoodisi"
+
+#: includes/widgets/image.php:176
+msgid "Enter your image caption"
+msgstr "Anna kuvateksti"
+
+#: includes/widgets/html.php:95
+msgid "Enter your code"
+msgstr "Anna koodi"
+
+#: includes/widgets/alert.php:128 includes/widgets/icon-box.php:164
+#: includes/widgets/image-box.php:141
+msgid "Enter your description"
+msgstr "Anna kuvaus"
+
+#: includes/widgets/alert.php:115
+msgid "This is an Alert"
+msgstr "Tämä on varoitus"
+
+#: core/experiments/manager.php:614 includes/controls/popover-toggle.php:71
+#: includes/controls/popover-toggle.php:73
+msgid "Back to default"
+msgstr "Palaa oletusarvoihin"
+
+#: includes/widgets/accordion.php:200 includes/widgets/toggle.php:203
+#: modules/nested-tabs/widgets/nested-tabs.php:121
+msgid "Active Icon"
+msgstr "Valittu kuvake"
+
+#. translators: 1: Editing date, 2: Author display name.
+#: core/base/document.php:1476
+msgid "Last edited on %1$s by %2$s"
+msgstr "Muokattu viimeksi %1$s, muokkaaja %2$s"
+
+#. translators: 1: Saving date, 2: Author display name.
+#: core/base/document.php:1473
+msgid "Draft saved on %1$s by %2$s"
+msgstr "Luonnos tallennettu  %1$s, tallentaja %2$s"
+
+#: includes/editor-templates/panel.php:139
+#: assets/js/packages/editor-app-bar/editor-app-bar.js:788
+#: assets/js/packages/editor-app-bar/editor-app-bar.strings.js:18
+msgid "Save Draft"
+msgstr "Tallenna luonnos"
+
+#: modules/history/revisions-manager.php:157
+msgid "Current Version"
+msgstr "Nykyinen versio"
+
+#: includes/controls/groups/background.php:557 includes/widgets/video.php:428
+msgid "Privacy Mode"
+msgstr "Yksityisyystila"
+
+#: includes/widgets/heading.php:120
+msgid "Add Your Heading Text Here"
+msgstr "Lisää otsikkotekstisi tähän"
+
+#. translators: %s: Document title.
+#: core/base/document.php:185
+msgid "Hurray! Your %s is live."
+msgstr "Hurraa! Luomasi %s on julkaistu."
+
+#: core/kits/documents/kit.php:156
+#: modules/history/views/revisions-panel-template.php:64
+msgid "Published"
+msgstr "Julkaistu"
+
+#: core/common/modules/finder/template.php:19 assets/js/editor.js:10803
+#: assets/js/kit-library.b4cf9f541e44f7bbc972.bundle.js:1871
+msgid "No Results Found"
+msgstr "Tuloksia ei löytynyt"
+
+#: includes/editor-templates/templates.php:245 assets/js/app-packages.js:2531
+#: assets/js/app.js:3652
+msgid "Select File"
+msgstr "Valitse tiedosto"
+
+#: includes/editor-templates/templates.php:244
+#: assets/js/onboarding.d1f3b86a6e269191f707.bundle.js:1964
+#: assets/js/onboarding.d1f3b86a6e269191f707.bundle.js:2308
+msgid "or"
+msgstr "tai"
+
+#: includes/editor-templates/templates.php:243
+msgid "Drag & drop your .JSON or .zip template file"
+msgstr "Vedä & pudota .JSON- tai .zip-mallitiedostosi"
+
+#: includes/editor-templates/templates.php:242
+msgid "Import Template to Your Library"
+msgstr "Tuo malli kirjastoosi"
+
+#: includes/editor-templates/templates.php:233
+#: includes/editor-templates/templates.php:249
+#: includes/editor-templates/templates.php:262
+#: includes/widgets/traits/button-trait.php:58 assets/js/app.js:7576
+#: assets/js/app.js:8582
+#: assets/js/onboarding.d1f3b86a6e269191f707.bundle.js:2320
+msgid "Click here"
+msgstr "Klikkaa tästä"
+
+#: includes/editor-templates/templates.php:232
+#: includes/editor-templates/templates.php:248
+#: includes/editor-templates/templates.php:261
+msgid "Want to learn more about the Elementor library?"
+msgstr "Haluatko tietää lisää Elementor-kirjastosta?"
+
+#: includes/editor-templates/templates.php:121
+msgid "Creation Date"
+msgstr "Luontipäivä"
+
+#: includes/editor-templates/templates.php:117
+msgid "Created By"
+msgstr "Luonut"
+
+#: includes/editor-templates/templates.php:101
+msgid "Search"
+msgstr "Haku"
+
+#: includes/editor-templates/templates.php:92
+msgid "My Favorites"
+msgstr "Suosikit"
+
+#: includes/editor-templates/templates.php:70
+#: assets/js/kit-library.b4cf9f541e44f7bbc972.bundle.js:3700
+msgid "Popular"
+msgstr "Suositut"
+
+#: includes/editor-templates/templates.php:68
+msgid "Trend"
+msgstr "Muoti"
+
+#: includes/editor-templates/templates.php:66
+#: assets/js/kit-library.b4cf9f541e44f7bbc972.bundle.js:3696
+msgid "New"
+msgstr "Uusi"
+
+#: includes/editor-templates/templates.php:10
+#: includes/editor-templates/templates.php:11
+msgid "Import Template"
+msgstr "Tuo malli"
+
+#: core/kits/views/panel.php:44 includes/controls/icons.php:83
+#: includes/controls/icons.php:85 includes/controls/media.php:215
+#: includes/controls/media.php:217 includes/controls/media.php:263
+#: includes/controls/media.php:265 includes/editor-templates/repeater.php:27
+#: assets/js/ai-admin.js:2105 assets/js/ai.js:2233
+#: assets/js/kit-library.b4cf9f541e44f7bbc972.bundle.js:919
+msgid "Remove"
+msgstr "Poista"
+
+#: includes/editor-templates/hotkeys.php:74
+#: includes/editor-templates/repeater.php:21 assets/js/editor.js:29718
+#: assets/js/editor.js:48906
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.js:901
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:17
+msgid "Duplicate"
+msgstr "Monista"
+
+#: includes/editor-templates/repeater.php:14
+msgid "Drag & Drop"
+msgstr "Vedä & pudota"
+
+#: includes/editor-templates/panel.php:151
+#: includes/editor-templates/panel.php:153 assets/js/editor.js:35484
+msgid "Hide Panel"
+msgstr "Kätke paneeli"
+
+#: includes/editor-templates/panel.php:143 assets/js/editor.js:32204
+#: assets/js/editor.js:32699
+#: assets/js/packages/editor-app-bar/editor-app-bar.js:802
+#: assets/js/packages/editor-app-bar/editor-app-bar.strings.js:17
+msgid "Save as Template"
+msgstr "Tallenna malliksi"
+
+#: includes/editor-templates/panel.php:119 assets/js/editor.js:24709
+#: assets/js/packages/editor-app-bar/editor-app-bar.js:913
+#: assets/js/packages/editor-app-bar/editor-app-bar.strings.js:21
+msgid "Publish"
+msgstr "Julkaise"
+
+#: includes/editor-templates/panel.php:107
+#: includes/editor-templates/panel.php:110
+#: assets/js/packages/editor-app-bar/editor-app-bar.js:761
+#: assets/js/packages/editor-app-bar/editor-app-bar.strings.js:23
+msgid "Preview Changes"
+msgstr "Esikatsele muutokset"
+
+#: includes/editor-templates/panel-elements.php:52
+msgid "Search Widget:"
+msgstr "Hakuvimpain:"
+
+#: includes/controls/groups/typography.php:184
+msgctxt "Typography Control"
+msgid "Line Through"
+msgstr "Yliviivaus"
+
+#: includes/controls/groups/typography.php:183
+msgctxt "Typography Control"
+msgid "Overline"
+msgstr "Viiva yläpuolella"
+
+#: includes/controls/groups/typography.php:182
+msgctxt "Typography Control"
+msgid "Underline"
+msgstr "Alleviivaus"
+
+#: includes/controls/dimensions.php:148
+msgid "Unlinked values"
+msgstr "Irralliset arvot"
+
+#: core/admin/admin.php:610
+msgid "Blog"
+msgstr "Blogi"
+
+#: core/admin/admin.php:590
+msgid "(opens in a new window)"
+msgstr "(avautuu uuteen ikkunaan)"
+
+#: core/admin/admin.php:558
+msgid "News & Updates"
+msgstr "Uutiset & päivitykset"
+
+#: core/admin/admin.php:517
+msgid "Recently Edited"
+msgstr "Äskettäin muokattu"
+
+#: core/admin/admin.php:467
+msgid "Create New Page"
+msgstr "Luo uusi sivu"
+
+#: core/admin/admin.php:421
+msgid "Elementor Overview"
+msgstr "Elementorin yleiskatsaus"
+
+#: core/document-types/page-base.php:189
+msgid "Excerpt"
+msgstr "Lyhennelmä"
+
+#: includes/editor-templates/panel.php:124
+#: includes/editor-templates/panel.php:126
+#: assets/js/packages/editor-app-bar/editor-app-bar.js:889
+#: assets/js/packages/editor-app-bar/editor-app-bar.js:906
+#: assets/js/packages/editor-app-bar/editor-app-bar.strings.js:19
+#: assets/js/packages/editor-app-bar/editor-app-bar.strings.js:20
+msgid "Save Options"
+msgstr "Tallenna valinnat"
+
+#: core/base/document.php:1468
+msgctxt "revision date format"
+msgid "M j, H:i"
+msgstr "M j, H:i"
+
+#: core/admin/admin.php:525
+msgctxt "Dashboard Overview Widget Recently Date"
+msgid "M jS"
+msgstr "M jS"
+
+#: includes/controls/groups/typography.php:177
+msgctxt "Typography Control"
+msgid "Decoration"
+msgstr "Tehoste"
+
+#: includes/widgets/video.php:430
+msgid "When you turn on privacy mode, YouTube/Vimeo won't store information about visitors on your website unless they play the video."
+msgstr "Kun vaihdat yksityisyys-tilaan, YouTube/Vimeo ei tallenna tietoa sivustosi vierailijoista elleivät he katso videotasi."
+
+#: includes/template-library/sources/local.php:500
+#: includes/template-library/sources/local.php:610
+#: includes/template-library/sources/local.php:752
+msgid "Access denied."
+msgstr "Pääsy estetty."
+
+#: includes/settings/settings.php:255
+msgid "Disable Default Fonts"
+msgstr "Poista oletusfontit käytöstä"
+
+#: includes/controls/groups/flex-container.php:211
+#: includes/elements/column.php:218 includes/widgets/accordion.php:414
+#: includes/widgets/common.php:316 includes/widgets/icon-list.php:563
+#: includes/widgets/image-carousel.php:682 includes/widgets/rating.php:198
+#: includes/widgets/tabs.php:198 includes/widgets/tabs.php:228
+#: includes/widgets/toggle.php:432
+#: modules/nested-accordion/widgets/nested-accordion.php:158
+#: modules/nested-accordion/widgets/nested-accordion.php:198
+#: modules/nested-tabs/widgets/nested-tabs.php:225
+#: modules/nested-tabs/widgets/nested-tabs.php:267
+#: modules/nested-tabs/widgets/nested-tabs.php:337
+msgid "End"
+msgstr "Loppu"
+
+#: includes/controls/groups/flex-container.php:210
+#: includes/elements/column.php:216 includes/widgets/accordion.php:410
+#: includes/widgets/common.php:308 includes/widgets/icon-list.php:555
+#: includes/widgets/image-carousel.php:674 includes/widgets/rating.php:190
+#: includes/widgets/tabs.php:190 includes/widgets/tabs.php:220
+#: includes/widgets/toggle.php:428
+#: modules/nested-accordion/widgets/nested-accordion.php:150
+#: modules/nested-accordion/widgets/nested-accordion.php:194
+#: modules/nested-tabs/widgets/nested-tabs.php:217
+#: modules/nested-tabs/widgets/nested-tabs.php:259
+#: modules/nested-tabs/widgets/nested-tabs.php:329
+msgid "Start"
+msgstr "Alku"
+
+#: core/debug/loading-inspection-manager.php:36
+msgid "We're sorry, but something went wrong. Click on 'Learn more' and follow each of the steps to quickly solve it."
+msgstr "Valitettavasti jotakin meni nyt pieleen. Klikkaa 'Perehdy' ja seuraa ohjeita ratkaistaksesi ongelman."
+
+#: core/debug/classes/inspection-base.php:25
+#: core/debug/loading-inspection-manager.php:37
+msgid "The preview could not be loaded"
+msgstr "Esikatselun lataaminen ei onnistunut"
+
+#: core/admin/admin-notices.php:146 core/admin/admin-notices.php:181
+msgid "Update Notification"
+msgstr "Päivitysilmoitus"
+
+#. Author URI of the plugin
+msgid "https://elementor.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+
+#. Plugin URI of the plugin
+msgid "https://elementor.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+
+#: core/kits/documents/tabs/settings-lightbox.php:152
+#: includes/widgets/video.php:889
+msgid "UI Hover Color"
+msgstr "UI-väri kun osoitin on päällä"
+
+#: core/kits/documents/tabs/settings-lightbox.php:141
+#: includes/widgets/video.php:877
+msgid "UI Color"
+msgstr "UI-väri"
+
+#: includes/editor-templates/hotkeys.php:19
+#: includes/editor-templates/templates.php:124
+#: modules/history/views/history-panel-template.php:9 assets/js/editor.js:48630
+msgid "Actions"
+msgstr "Toiminnot"
+
+#: modules/history/views/history-panel-template.php:25
+msgid "Once you start working, you'll be able to redo / undo any action you make in the editor."
+msgstr "Kun olet aloittanut työskentelyn, voit perua ja tehdä uudelleen minkä tahansa muokkaimessa tekemäsi toiminnon."
+
+#: modules/history/views/history-panel-template.php:24
+msgid "No History Yet"
+msgstr "Historiatietoja ei vielä ole"
+
+#: modules/history/views/history-panel-template.php:17
+msgid "Switch to Revisions tab for older versions"
+msgstr "Siirry Versiot-välilehdelle nähdäksesi vanhemmat versiot"
+
+#: modules/history/views/history-panel-template.php:10
+#: assets/js/editor.js:48633
+msgid "Revisions"
+msgstr "Versiot"
+
+#: includes/editor-templates/hotkeys.php:147
+#: includes/editor-templates/panel.php:97
+#: includes/editor-templates/panel.php:99 assets/js/ai-admin.js:1850
+#: assets/js/ai.js:1978 assets/js/editor.js:49230
+#: assets/js/packages/editor-app-bar/editor-app-bar.js:1055
+#: assets/js/packages/editor-app-bar/editor-app-bar.strings.js:12
+msgid "History"
+msgstr "Historia"
+
+#: includes/widgets/video.php:350
+msgid "Mute"
+msgstr "Mykistä"
+
+#: includes/template-library/sources/local.php:979
+msgid "Choose an Elementor template JSON file or a .zip archive of Elementor templates, and add them to the list of templates available in your library."
+msgstr "Valitse Elementor-mallin .JSON-tiedosto tai mallien .zip-arkisto ja lisää ne käytettävissä olevien mallien luetteloon kirjastoosi."
+
+#: core/kits/documents/tabs/settings-lightbox.php:48
+msgid "Open all image links in a lightbox popup window. The lightbox will automatically work on any link that leads to an image file."
+msgstr "Avaa kaikki kuvalinkit lightbox-popup-ikkunassa. Lightbox toimii automaattisesti kaikissa kuvatiedostoihin johtavissa linkeissä. "
+
+#: core/kits/documents/tabs/settings-lightbox.php:45
+msgid "Image Lightbox"
+msgstr "Kuvan lightbox"
+
+#: includes/elements/column.php:882 includes/elements/container.php:1720
+#: includes/elements/section.php:1317 includes/widgets/common.php:656
+msgid "Animation Delay"
+msgstr "Animaation viive"
+
+#: core/common/modules/finder/categories/tools.php:77
+#: includes/settings/tools.php:350
+msgid "Version Control"
+msgstr "Versionhallinta"
+
+#: includes/settings/tools.php:402
+msgid "Please Note: We do not recommend updating to a beta version on production sites."
+msgstr "Huomaa: Emme suosittele beta-version käyttöönottoa tuotantokäytössä olevilla sivustoilla."
+
+#: includes/settings/tools.php:394
+msgid "Beta Tester"
+msgstr "Beta-testain"
+
+#: includes/settings/tools.php:380
+msgid "Become a Beta Tester"
+msgstr "Ryhty beta-testaajaksi"
+
+#: includes/settings/tools.php:374
+msgid "Warning: Please backup your database before making the rollback."
+msgstr "Varoitus: ota varmuuskopio tietokannastasi ennen version palautusta."
+
+#: includes/settings/settings.php:271
+#: assets/js/packages/editor-app-bar/editor-app-bar.js:569
+#: assets/js/packages/editor-app-bar/editor-app-bar.strings.js:5
+msgid "Integrations"
+msgstr "Liitynnät"
+
+#: includes/rollback.php:165 includes/settings/tools.php:175
+#: includes/settings/tools.php:353 assets/js/admin.js:2196
+msgid "Rollback to Previous Version"
+msgstr "Palaa edelliseen versioon"
+
+#: core/kits/documents/tabs/theme-style-form-fields.php:137
+#: core/kits/documents/tabs/theme-style-images.php:203
+#: includes/base/element-base.php:1190
+#: includes/controls/groups/background.php:633 includes/elements/column.php:328
+#: includes/elements/column.php:496 includes/elements/column.php:603
+#: includes/elements/container.php:748 includes/elements/container.php:966
+#: includes/elements/container.php:1114 includes/elements/section.php:606
+#: includes/elements/section.php:801 includes/elements/section.php:907
+#: includes/widgets/alert.php:429 includes/widgets/common.php:731
+#: includes/widgets/common.php:845 includes/widgets/google-maps.php:240
+#: includes/widgets/icon-list.php:449 includes/widgets/icon-list.php:677
+#: includes/widgets/image-box.php:415 includes/widgets/image.php:475
+#: modules/nested-tabs/widgets/nested-tabs.php:584
+#: modules/shapes/widgets/text-path.php:443
+#: modules/shapes/widgets/text-path.php:609
+msgid "Transition Duration"
+msgstr "Liikkeen kesto"
+
+#: core/kits/documents/tabs/settings-layout.php:103
+#: includes/elements/column.php:234
+msgid "Widgets Space"
+msgstr "Vimpaintila"
+
+#: includes/controls/url.php:114
+msgid "Add nofollow"
+msgstr "Lisää nofollow"
+
+#: includes/controls/url.php:110
+msgid "Open in new window"
+msgstr "Avaa uudessa ikkunassa"
+
+#: includes/controls/url.php:100 includes/controls/url.php:102
+msgid "Link Options"
+msgstr "Linkin valinnat"
+
+#: includes/controls/groups/box-shadow.php:72
+msgctxt "Box Shadow Control"
+msgid "Outline"
+msgstr "Ääriviiva"
+
+#. translators: %s: Elementor version.
+#: includes/settings/tools.php:357
+msgid "Experiencing an issue with Elementor version %s? Rollback to a previous version before the issue appeared."
+msgstr "Onko sinulla ongelmia Elementorin version %s kanssa? Palaa edelliseen versioon, jossa ongelmaa ei ilmennyt."
+
+#: includes/settings/settings.php:314
+msgid "Switch Editor Loader Method"
+msgstr "Vaihda muokkaimen lataustapa"
+
+#: includes/settings/tools.php:366
+msgid "Rollback Version"
+msgstr "Palautettu versio"
+
+#: includes/elements/column.php:777 includes/elements/container.php:1628
+#: includes/elements/section.php:1232 includes/widgets/common.php:566
+msgid "Z-Index"
+msgstr "Z-arvo"
+
+#: includes/settings/tools.php:383
+msgid "Turn-on Beta Tester, to get notified when a new beta version of Elementor or Elementor Pro is available. The Beta version will not install automatically. You always have the option to ignore it."
+msgstr "Ota käyttöön beta-testain saadaksesi tiedon kun uusi beta-versio Elementorista tai Elementor Prosta on saatavilla. Beta-versiot eivät asennu automaattisesti. Voit jättää päivitysilmoitukset huomiotta aina niin halutessasi."
+
+#: core/kits/documents/tabs/settings-layout.php:120
+msgid "Sets the default space between widgets (Default: 20px)"
+msgstr "Asettaa vimpainten välisen oletusetäisyyden (oletus: 20px)"
+
+#: includes/settings/settings.php:310
+msgid "Use internal CSS that is embedded in the head of the page. For troubleshooting server configuration conflicts and managing development environments."
+msgstr "Käytä sivun otsikkokoodiin upotettua sisäistä CSS-koodia. Palvelinkonfiguraation ristiriitatilanteiden ongelmanratkaisuun ja kehittäjäympäristöjen hallintaan."
+
+#: includes/settings/settings.php:310
+msgid "Use external CSS files for all generated stylesheets. Choose this setting for better performance (recommended)."
+msgstr "Käytä ulkoisia CSS-tiedostoja kaikissa luoduissa tyylipohjissa. Tämä asetus parantaa suorituskykyä (suositus). "
+
+#: includes/settings/settings.php:308
+msgid "Internal Embedding"
+msgstr "Sisäinen upotus"
+
+#: includes/settings/settings.php:307
+msgid "External File"
+msgstr "Ulkoinen tiedosto"
+
+#: includes/settings/settings.php:301
+msgid "CSS Print Method"
+msgstr "CSS:n tulostustapa"
+
+#: includes/settings/settings.php:322
+msgid "For troubleshooting server configuration conflicts."
+msgstr "Palvelimen konfiguraatioristiriitojen selvittelyyn."
+
+#: core/debug/inspector.php:55 includes/settings/settings.php:320
+#: includes/settings/settings.php:332 includes/settings/settings.php:343
+#: includes/settings/tools.php:400 modules/generator-tag/module.php:81
+#: modules/nested-tabs/widgets/nested-tabs.php:365
+#: modules/safe-mode/module.php:48 assets/js/admin.js:282
+#: assets/js/app-packages.js:2839 assets/js/app.js:3960
+#: assets/js/common.js:2090 assets/js/editor.js:38870
+msgid "Enable"
+msgstr "Ota käyttöön"
+
+#: core/debug/inspector.php:54 includes/settings/settings.php:319
+#: includes/settings/settings.php:331 includes/settings/settings.php:344
+#: includes/settings/tools.php:399 modules/generator-tag/module.php:82
+#: modules/nested-tabs/widgets/nested-tabs.php:364
+#: modules/safe-mode/module.php:47
+msgid "Disable"
+msgstr "Poista käytöstä"
+
+#: core/base/document.php:1777
+msgid "Status"
+msgstr "Tila"
+
+#: includes/widgets/common.php:1107 includes/widgets/spacer.php:108
+#: includes/widgets/text-editor.php:338
+msgid "Space"
+msgstr "Väli"
+
+#: core/kits/documents/tabs/settings-layout.php:144
+msgid "Page Title Selector"
+msgstr "Sivun otsikon valitsija"
+
+#: includes/admin-templates/new-template.php:75
+#: includes/settings/controls.php:155
+msgid "Select"
+msgstr "Valitse"
+
+#: core/common/modules/finder/categories/edit.php:118 assets/js/editor.js:18198
+msgid "Template"
+msgstr "Malli"
+
+#: core/document-types/page-base.php:93
+msgid "Hide Title"
+msgstr "Piilota otsikko"
+
+#: includes/maintenance-mode.php:283
+msgid "Maintenance Mode ON"
+msgstr "Huoltotila PÄÄLLE"
+
+#: includes/maintenance-mode.php:251
+msgid "Choose Template"
+msgstr "Valitse malli"
+
+#: includes/maintenance-mode.php:370
+msgid "To enable maintenance mode you have to set a template for the maintenance mode page."
+msgstr "Asettaaksesi huoltotilan päälle sinun on valittava huoltotila-sivun malli."
+
+#: includes/maintenance-mode.php:292 includes/maintenance-mode.php:369
+#: assets/js/app.js:10298
+msgid "Edit Template"
+msgstr "Muokkaa mallia"
+
+#: includes/maintenance-mode.php:243
+msgid "Roles"
+msgstr "Roolit"
+
+#: includes/maintenance-mode.php:237
+msgid "Logged In"
+msgstr "Kirjautunut"
+
+#: includes/maintenance-mode.php:231
+msgid "Who Can Access"
+msgstr "Kenellä on pääsy"
+
+#: includes/maintenance-mode.php:226
+msgid "Coming Soon returns HTTP 200 code, meaning the site is ready to be indexed."
+msgstr "Huoltotila palauttaa koodin HTTP 200, mikä merkitsee, että sivustosi on valmis indeksoitavaksi."
+
+#: includes/maintenance-mode.php:223
+msgid "Maintenance Mode returns HTTP 503 code, so search engines know to come back a short time later. It is not recommended to use this mode for more than a couple of days."
+msgstr "Huoltotila palauttaa koodin HTTP 503, joten hakukoneet tietävät tulla lähiaikoina uudelleen. Tätä tilaa ei ole suositeltavaa käyttää muutamaa päivää kauemmin."
+
+#: includes/maintenance-mode.php:220
+msgid "Choose between Coming Soon mode (returning HTTP 200 code) or Maintenance Mode (returning HTTP 503 code)."
+msgstr "Valitse Tulossa pian (palauttaa koodin HTTP 200) tai Huoltotila (palauttaa koodin HTTP 503)."
+
+#: includes/maintenance-mode.php:217
+msgid "Maintenance"
+msgstr "Huoltotila"
+
+#: includes/maintenance-mode.php:216
+msgid "Coming Soon"
+msgstr "Tulossa pian"
+
+#: core/kits/documents/kit.php:155 includes/maintenance-mode.php:215
+#: assets/js/editor.js:48905
+msgid "Disabled"
+msgstr "Poistettu käytöstä"
+
+#: includes/maintenance-mode.php:210
+msgid "Choose Mode"
+msgstr "Valitse tila"
+
+#: includes/maintenance-mode.php:206
+msgid "Set your entire website as MAINTENANCE MODE, meaning the site is offline temporarily for maintenance, or set it as COMING SOON mode, meaning the site is offline until it is ready to be launched."
+msgstr "Aseta koko sivustosi HUOLTOTILAAN, jolloin sivusto on tilapäisesti poissa linjoilta, tai TULOSSA PIAN -tilaan, mikä merkitsee että se on poissa linjoilta siihen asti kunnes olet valmis julkaisemaan sen."
+
+#: core/common/modules/finder/categories/tools.php:62
+#: includes/maintenance-mode.php:201 includes/maintenance-mode.php:205
+msgid "Maintenance Mode"
+msgstr "Huoltotila"
+
+#: core/kits/documents/tabs/settings-layout.php:148
+msgid "Elementor lets you hide the page title. This works for themes that have \"h1.entry-title\" selector. If your theme's selector is different, please enter it above."
+msgstr "Elementor sallii sinun piilottaa sivun otsikon. Tämä toimii teemoissa, joissa on 'h1.entry-title\"-valitsin. Jos teemasi valitsin on toisenlainen, kirjoita se ylle."
+
+#: includes/widgets/text-editor.php:120 includes/widgets/text-editor.php:252
+msgid "Drop Cap"
+msgstr "Anfangi"
+
+#: includes/editor-templates/hotkeys.php:58
+msgid "Paste Style"
+msgstr "Liimaa tyyli"
+
+#: includes/elements/container.php:1295 includes/elements/section.php:1082
+msgid "Bring to Front"
+msgstr "Tuo eteen"
+
+#: core/kits/documents/tabs/settings-lightbox.php:18
+#: includes/widgets/image-carousel.php:321
+#: includes/widgets/image-gallery.php:142 includes/widgets/image.php:218
+#: includes/widgets/video.php:705 includes/widgets/video.php:853
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: includes/widgets/icon-list.php:208
+msgid "List"
+msgstr "Luettelo"
+
+#: includes/controls/groups/flex-container.php:109
+#: includes/controls/groups/flex-container.php:212
+#: includes/controls/groups/grid-container.php:204
+#: includes/controls/groups/grid-container.php:244
+#: includes/elements/column.php:191 includes/elements/column.php:219
+#: includes/elements/section.php:452 includes/widgets/icon-list.php:216
+#: includes/widgets/toggle.php:304
+msgid "Space Between"
+msgstr "Välistys"
+
+#: includes/shapes.php:201
+msgctxt "Shapes"
+msgid "Arrow"
+msgstr "Nuoli"
+
+#: includes/shapes.php:197
+msgctxt "Shapes"
+msgid "Waves Pattern"
+msgstr "Aallot-kuvio"
+
+#: includes/shapes.php:193
+msgctxt "Shapes"
+msgid "Waves Brush"
+msgstr "Aallot-sivellin"
+
+#: includes/shapes.php:188
+msgctxt "Shapes"
+msgid "Waves"
+msgstr "Aallot"
+
+#: includes/shapes.php:183
+msgctxt "Shapes"
+msgid "Curve Asymmetrical"
+msgstr "Epäsymmetrinen kaari"
+
+#: includes/shapes.php:179
+msgctxt "Shapes"
+msgid "Curve"
+msgstr "Kaari"
+
+#: includes/shapes.php:176
+msgctxt "Shapes"
+msgid "Fan Opacity"
+msgstr "Viuhka"
+
+#: includes/shapes.php:172
+msgctxt "Shapes"
+msgid "Tilt Opacity"
+msgstr "Kalteva viuhka"
+
+#: includes/shapes.php:167
+msgctxt "Shapes"
+msgid "Tilt"
+msgstr "Kalteva"
+
+#: includes/shapes.php:162
+msgctxt "Shapes"
+msgid "Triangle Asymmetrical"
+msgstr "Epäsymmetrinen kolmio"
+
+#: includes/shapes.php:158
+msgctxt "Shapes"
+msgid "Triangle"
+msgstr "Kolmio"
+
+#: includes/shapes.php:153
+msgctxt "Shapes"
+msgid "Pyramids"
+msgstr "Pyramidit"
+
+#: includes/shapes.php:150 includes/widgets/divider.php:167
+#: includes/widgets/divider.php:297
+msgctxt "Shapes"
+msgid "Zigzag"
+msgstr "Siksak"
+
+#: includes/shapes.php:144
+msgctxt "Shapes"
+msgid "Clouds"
+msgstr "Pilvet"
+
+#: includes/shapes.php:138
+msgctxt "Shapes"
+msgid "Drops"
+msgstr "Pisarat"
+
+#: includes/shapes.php:134
+msgctxt "Shapes"
+msgid "Mountains"
+msgstr "Vuoret"
+
+#: includes/elements/container.php:1282 includes/elements/section.php:1069
+msgid "Invert"
+msgstr "Ylösalainen"
+
+#: includes/elements/container.php:1268 includes/elements/section.php:1055
+msgid "Flip"
+msgstr "Kiepautus"
+
+#: includes/elements/container.php:1164 includes/elements/section.php:951
+msgid "Shape Divider"
+msgstr "Muodon jakaja"
+
+#: includes/shapes.php:209
+msgctxt "Shapes"
+msgid "Book"
+msgstr "Kirja"
+
+#: includes/shapes.php:205
+msgctxt "Shapes"
+msgid "Split"
+msgstr "Jako"
+
+#: includes/widgets/tabs.php:256
+msgid "Navigation Width"
+msgstr "Navigaation leveys"
+
+#: includes/elements/column.php:798 includes/elements/container.php:1649
+#: includes/elements/section.php:1253 includes/widgets/common.php:586
+#: includes/widgets/traits/button-trait.php:222
+#: modules/nested-accordion/widgets/nested-accordion.php:115
+#: modules/nested-tabs/widgets/nested-tabs.php:144
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr "Lisää mukautettu id ILMAN punta-merkkiä. Esim. my-id"
+
+#: core/kits/documents/tabs/theme-style-buttons.php:166
+#: core/kits/documents/tabs/theme-style-images.php:134
+#: core/kits/documents/tabs/theme-style-typography.php:154
+#: includes/base/element-base.php:806 includes/elements/column.php:313
+#: includes/elements/column.php:450 includes/elements/column.php:568
+#: includes/elements/container.php:733 includes/elements/container.php:910
+#: includes/elements/container.php:1067 includes/elements/section.php:591
+#: includes/elements/section.php:755 includes/elements/section.php:872
+#: includes/widgets/alert.php:412 includes/widgets/common.php:716
+#: includes/widgets/common.php:810 includes/widgets/google-maps.php:225
+#: includes/widgets/icon-box.php:355 includes/widgets/icon-list.php:429
+#: includes/widgets/icon-list.php:658 includes/widgets/icon.php:247
+#: includes/widgets/image-box.php:436 includes/widgets/image.php:442
+#: includes/widgets/traits/button-trait.php:313
+#: modules/nested-accordion/widgets/nested-accordion.php:648
+#: modules/nested-accordion/widgets/nested-accordion.php:715
+#: modules/nested-tabs/widgets/nested-tabs.php:519
+#: modules/nested-tabs/widgets/nested-tabs.php:758
+#: modules/nested-tabs/widgets/nested-tabs.php:967
+#: modules/shapes/widgets/text-path.php:416
+#: modules/shapes/widgets/text-path.php:549
+msgid "Hover"
+msgstr "Kun osoitin on päällä"
+
+#: includes/elements/column.php:789 includes/elements/container.php:1640
+#: includes/elements/section.php:1244 includes/widgets/common.php:577
+#: modules/nested-accordion/widgets/nested-accordion.php:109
+#: modules/nested-tabs/widgets/nested-tabs.php:135
+msgid "CSS ID"
+msgstr "CSS ID"
+
+#: includes/controls/groups/background.php:187
+msgctxt "Background Control"
+msgid "Type"
+msgstr "Tyyppi"
+
+#: includes/controls/groups/background.php:146
+#: includes/controls/groups/background.php:172
+msgctxt "Background Control"
+msgid "Location"
+msgstr "Sijainti"
+
+#: includes/settings/settings.php:259
+msgid "Checking this box will disable Elementor's Default Fonts, and make Elementor inherit the fonts from your theme."
+msgstr "Tämän asetuksen valinta poistaa käytöstä Elementorin oletuskirjasimet. Käytettävät kirjasimet periytyvät nyt teemastasi."
+
+#: includes/settings/settings.php:251
+msgid "Checking this box will disable Elementor's Default Colors, and make Elementor inherit the colors from your theme."
+msgstr "Tämän asetuksen valinta poistaa käytöstä Elementorin oletusvärit. Käytettävät oletusvärit periytyvät nyt teemastasi."
+
+#: core/admin/admin.php:371
+msgid "Video Tutorials"
+msgstr "Video-opasteet"
+
+#: core/admin/admin.php:371
+msgid "View Elementor Video Tutorials"
+msgstr "Katso Elementorin video-opasteita"
+
+#: core/admin/admin.php:370
+msgid "Docs & FAQs"
+msgstr "Dokumentit ja kysytyimmät kysymykset"
+
+#: core/admin/admin.php:370
+msgid "View Elementor Documentation"
+msgstr "Tutustu Elementorin dokumentaation"
+
+#: includes/settings/tools.php:341
+msgid "Enter your old and new URLs for your WordPress installation, to update all Elementor data (Relevant for domain transfers or move to 'HTTPS')."
+msgstr "Anna vanhan ja uuden WordPress-asennuksesi URL-osoitteet päivittääksesi kaikki Elementor-tiedot (käytetään domainien siirrossa tai HTTPS-osoitteeseen siirryttäessä)."
+
+#: includes/settings/tools.php:337
+msgid "Update Site Address (URL)"
+msgstr "Päivitä sivuston osoite (URL)"
+
+#. translators: %s: WordPress backups documentation.
+#: includes/settings/tools.php:327
+msgid "<strong>Important:</strong> It is strongly recommended that you <a target=\"_blank\" href=\"%s\">backup your database</a> before using Replace URL."
+msgstr "<strong>Tärkeää:</strong> Suosittelemme erittäin vahvasti, että otat <a target=\"_blank\" href=\"%s\">varmuuskopion tietokannastasi</a> ennen URL-osoitteen vaihtamista."
+
+#: core/common/modules/finder/categories/tools.php:56
+#: includes/settings/tools.php:321 includes/settings/tools.php:332
+#: includes/settings/tools.php:340
+msgid "Replace URL"
+msgstr "Korvaa URL-osoite"
+
+#. translators: 1: Human readable time difference, 2: Date.
+#: modules/history/revisions-manager.php:179
+msgid "%1$s ago (%2$s)"
+msgstr "%1$s sitten (%2$s)"
+
+#: modules/history/revisions-manager.php:151
+msgctxt "revision date format"
+msgid "M j @ H:i"
+msgstr "M j @ H:i"
+
+#: modules/history/revisions-manager.php:160
+msgid "Autosave"
+msgstr "Automaattitallennus"
+
+#: modules/history/revisions-manager.php:163
+msgid "Revision"
+msgstr "Versio"
+
+#: modules/history/views/revisions-panel-template.php:26
+msgid "Revision history lets you save your previous versions of your work, and restore them any time."
+msgstr "Versiohistoria sallii sinun tallettaa työsi aikaisempia versioita ja palauttaa niitä tarpeesi mukaan."
+
+#: modules/history/views/revisions-panel-template.php:39
+msgid "No Revisions Saved Yet"
+msgstr "Yhtään versiota ei ole vielä tallennettu"
+
+#: modules/history/views/revisions-panel-template.php:28
+msgid "It looks like the post revision feature is unavailable in your website."
+msgstr "Artikkelien versiointiominaisuus näyttää olevan poissa käytöstä sivustollasi."
+
+#: modules/apps/admin-apps-page.php:306
+#: modules/history/views/revisions-panel-template.php:55
+msgid "By"
+msgstr "Kirjoittaja"
+
+#: modules/history/views/revisions-panel-template.php:27
+msgid "Start designing your page and you will be able to see the entire revision history here."
+msgstr "Aloita sivusi suunnittelu. Täällä näet koko versiohistoriasi."
+
+#: includes/widgets/counter.php:170
+msgid "Thousand Separator"
+msgstr "Tuhaterotin"
+
+#: includes/managers/controls.php:1039
+msgid "Custom CSS lets you add CSS code to any widget, and see it render live right in the editor."
+msgstr "Mukautetun CSS:n avulla voit lisätä CSS-koodia vimpaimiin ja nähdä muutosten vaikutukset heti editorissa."
+
+#: includes/managers/controls.php:1051
+msgid "Meet Our Custom CSS"
+msgstr "Tutustu mukautettuun CSS-koodiin"
+
+#: core/kits/documents/tabs/settings-custom-css.php:17
+#: includes/managers/controls.php:1033
+msgid "Custom CSS"
+msgstr "Mukautettu CSS"
+
+#: includes/editor-templates/panel-elements.php:74
+msgid "Meet Our Global Widget"
+msgstr "Tutustu yleisvimpaimeen"
+
+#: includes/editor-templates/panel-elements.php:24
+msgid "Get more with Elementor Pro"
+msgstr "Lisää ominaisuuksia Elementor Prolla"
+
+#: core/settings/editor-preferences/model.php:163
+#: includes/base/element-base.php:850 includes/base/element-base.php:1014
+#: includes/widgets/common.php:888 includes/widgets/icon-list.php:263
+#: includes/widgets/icon.php:320 includes/widgets/text-editor.php:122
+#: includes/widgets/video.php:708 modules/shapes/widgets/text-path.php:204
+#: modules/styleguide/module.php:147
+msgid "Off"
+msgstr "Pois"
+
+#: core/settings/editor-preferences/model.php:164
+#: includes/base/element-base.php:849 includes/base/element-base.php:1013
+#: includes/widgets/common.php:887 includes/widgets/icon-list.php:264
+#: includes/widgets/icon.php:321 includes/widgets/text-editor.php:123
+#: includes/widgets/video.php:709 modules/shapes/widgets/text-path.php:203
+#: modules/styleguide/module.php:148
+msgid "On"
+msgstr "Päällä"
+
+#: includes/editor-templates/panel-elements.php:75
+msgid "With this feature, you can save a widget as global, then add it to multiple areas. All areas will be editable from one single place."
+msgstr "Tämä ominaisuus sallii sinun tallentaa vimpaimen yleiseksi ja liittää sen sitten useisiin paikkoihin sivustollasi. Kaikki sijainnit ovat muokattavissa yhdestä ja samasta paikasta. "
+
+#: includes/widgets/traits/button-trait.php:37
+msgid "Extra Large"
+msgstr "Extra Large"
+
+#: includes/widgets/traits/button-trait.php:33
+msgid "Extra Small"
+msgstr "Extra Small"
+
+#: includes/settings/settings.php:265
+msgid "Improve Elementor"
+msgstr "Kehitä Elementoria"
+
+#: includes/frontend.php:1235
+msgid "Invalid Data: The Template ID cannot be the same as the currently edited template. Please choose a different one."
+msgstr "Virheellinen tieto: Mallin ID ei voi olla sama kuin parhaillaan muokattavana oleva malli. Valitse toinen ID."
+
+#: includes/base/widget-base.php:296 includes/base/widget-base.php:305
+msgid "Skin"
+msgstr "Pinta"
+
+#: includes/editor-templates/panel.php:192
+msgid "%s are disabled"
+msgstr "%s: t on poistettu käytöstä"
+
+#: includes/editor-templates/panel.php:173
+msgid "Update changes to page"
+msgstr "Päivitä muutokset sivulle"
+
+#: core/admin/admin-notices.php:241
+msgid "No thanks"
+msgstr "Ei kiitos"
+
+#: includes/elements/section.php:494
+msgid "Stretch the section to the full width of the page using JS."
+msgstr "Venyttää osan koko sivun levyiseksi JS:ää käyttäen."
+
+#: includes/elements/section.php:488
+msgid "Stretch Section"
+msgstr "Venytä osa"
+
+#: core/kits/documents/tabs/settings-layout.php:160
+msgid "Stretched Section Fit To"
+msgstr "Venytetty osa sovita"
+
+#: core/kits/documents/tabs/settings-layout.php:163
+msgid "Enter parent element selector to which stretched sections will fit to (e.g. #primary / .wrapper / main etc). Leave blank to fit to page width."
+msgstr "Anna emoelementin valitsin, johon venytettyjen osien tulee sopia (esimerkiksi (e.g. #primary / .wrapper / main jne). Jätä tyhjäksi sovittaaksesi sivun leveyteen."
+
+#: core/kits/documents/tabs/settings-layout.php:74
+msgid "Sets the default width of the content area (Default: 1140px)"
+msgstr "Asettaa sisältöalueen oletusleveyden (Oletus: 1140px)"
+
+#: core/admin/admin-notices.php:230 includes/elements/section.php:494
+#: includes/settings/settings-page.php:374
+msgid "Learn more."
+msgstr "Perehdy."
+
+#: core/settings/editor-preferences/model.php:133
+#: assets/js/kit-library.b4cf9f541e44f7bbc972.bundle.js:4296
+msgid "Mobile"
+msgstr "Mobiili"
+
+#: includes/elements/section.php:1348
+msgid "Reverse Columns"
+msgstr "Käänteinen sarakejärjestys"
+
+#: includes/controls/dimensions.php:141 includes/controls/dimensions.php:144
+msgid "Link values together"
+msgstr "Linkitä arvot"
+
+#: includes/widgets/shortcode.php:42 includes/widgets/shortcode.php:99
+msgid "Shortcode"
+msgstr "Lyhytkoodi"
+
+#: includes/template-library/sources/local.php:977
+msgid "Import Templates"
+msgstr "Tuo mallit"
+
+#: includes/template-library/sources/local.php:949
+msgid "Export Template"
+msgstr "Vie mallit"
+
+#: includes/template-library/sources/local.php:504
+msgid "(no title)"
+msgstr "(ei otsikkoa)"
+
+#: includes/template-library/sources/local.php:284
+msgctxt "Template Library"
+msgid "Type"
+msgstr "Tyyppi"
+
+#: includes/template-library/sources/local.php:244
+msgctxt "Template Library"
+msgid "No Templates found in Trash"
+msgstr "Roskakorista ei löytynyt malleja"
+
+#: includes/template-library/sources/local.php:243
+msgctxt "Template Library"
+msgid "No Templates found"
+msgstr "Malleja ei löytynyt"
+
+#: includes/template-library/sources/local.php:242
+msgctxt "Template Library"
+msgid "Search Template"
+msgstr "Hae mallia"
+
+#: includes/template-library/sources/local.php:241
+msgctxt "Template Library"
+msgid "View Template"
+msgstr "Esikatsele mallia"
+
+#: includes/template-library/sources/local.php:240
+msgctxt "Template Library"
+msgid "All Templates"
+msgstr "Kaikki mallit"
+
+#: includes/template-library/sources/local.php:239
+msgctxt "Template Library"
+msgid "New Template"
+msgstr "Uusi malli"
+
+#: includes/template-library/sources/local.php:238
+msgctxt "Template Library"
+msgid "Edit Template"
+msgstr "Muokkaa mallia"
+
+#: includes/template-library/sources/local.php:986
+msgid "Import Now"
+msgstr "Tuo nyt"
+
+#: includes/template-library/sources/local.php:237
+msgctxt "Template Library"
+msgid "Add New Template"
+msgstr "Lisää uusi malli"
+
+#: includes/template-library/sources/local.php:236
+msgctxt "Template Library"
+msgid "Add New"
+msgstr "Lisää uusi"
+
+#: includes/template-library/sources/local.php:235
+msgctxt "Template Library"
+msgid "Template"
+msgstr "Malli"
+
+#: includes/template-library/sources/local.php:208
+msgid "Local"
+msgstr "Paikallinen"
+
+#: includes/settings/tools.php:313
+msgid "Elementor Library automatically updates on a daily basis. You can also manually update it by clicking on the sync button."
+msgstr "Elementor-kirjasto päivittyy automaattisesti päivittäin. Voit päivittää sen käsin klikkaamalla Synkronoi-painiketta."
+
+#: includes/editor-templates/templates.php:14
+#: includes/editor-templates/templates.php:15 includes/settings/tools.php:309
+#: includes/settings/tools.php:312
+msgid "Sync Library"
+msgstr "Synkronoi kirjasto"
+
+#: core/common/modules/finder/categories/tools.php:28
+#: core/common/modules/finder/categories/tools.php:50
+#: includes/settings/admin-menu-items/tools-menu-item.php:29
+#: includes/settings/admin-menu-items/tools-menu-item.php:33
+#: includes/settings/tools.php:32 includes/settings/tools.php:33
+#: includes/settings/tools.php:435
+msgid "Tools"
+msgstr "Työkalut"
+
+#: core/document-types/page.php:51 modules/library/documents/page.php:57
+#: assets/js/editor.js:10028
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.js:475
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:2
+msgid "Page"
+msgstr "Sivu"
+
+#: includes/editor-templates/templates.php:223
+msgid "Enter Template Name"
+msgstr "Anna mallin nimi"
+
+#: includes/editor-templates/templates.php:190
+#: includes/template-library/sources/local.php:1164 assets/js/app.js:12011
+msgid "Export"
+msgstr "Vie"
+
+#: includes/editor-templates/templates.php:134
+msgid "Stay tuned! More awesome templates coming real soon."
+msgstr "Pysy kuulolla! Lisää upeita malleja on tulossa piakkoin."
+
+#: includes/editor-templates/templates.php:37
+#: assets/js/kit-library.b4cf9f541e44f7bbc972.bundle.js:1465
+msgid "Back to Library"
+msgstr "Takaisin kirjastoon"
+
+#: includes/editor-templates/templates.php:176
+#: includes/editor-templates/templates.php:200 assets/js/ai-admin.js:4773
+#: assets/js/ai.js:5033 assets/js/editor.js:8255
+msgid "Insert"
+msgstr "Lisää"
+
+#: core/common/modules/connect/apps/library.php:16 assets/js/editor.js:10355
+msgid "Library"
+msgstr "Kirjasto"
+
+#: includes/editor-templates/global.php:22
+#: includes/editor-templates/library-layout.php:16
+#: includes/editor-templates/responsive-bar.php:68
+#: includes/editor-templates/responsive-bar.php:69 includes/frontend.php:1395
+#: assets/js/app-packages.js:2029 assets/js/app-packages.js:4006
+#: assets/js/app-packages.js:4527 assets/js/app.js:2905 assets/js/app.js:5023
+#: assets/js/app.js:5426 assets/js/app.js:7560 assets/js/app.js:8392
+#: assets/js/app.js:11912 assets/js/e8a7573e654d921656ab.bundle.js:221
+#: assets/js/editor.js:46079 assets/js/import-export-admin.js:328
+msgid "Close"
+msgstr "Sulje"
+
+#: includes/editor-templates/global.php:43
+msgid "Add Template"
+msgstr "Lisää malli"
+
+#: includes/template-library/sources/remote.php:60
+msgid "Remote"
+msgstr "Kaukosäädin"
+
+#: includes/editor-templates/hotkeys.php:186
+msgid "Template Library"
+msgstr "Mallikirjasto"
+
+#: includes/template-library/sources/admin-menu-items/saved-templates-menu-item.php:23
+#: includes/template-library/sources/local.php:1720 assets/js/app.js:11036
+msgid "Saved Templates"
+msgstr "Tallennetut mallit"
+
+#. translators: %s: WordPress child themes documentation.
+#: modules/system-info/reporters/theme.php:207
+msgid "If you want to modify the source code of your theme, we recommend using a <a href=\"%s\">child theme</a>."
+msgstr "Jos haluat muokata teemasi lähdekoodia, suosittelemme  <a href=\"%s\">lapsiteeman </a> käyttöä."
+
+#: app/modules/import-export/module.php:148
+#: app/modules/import-export/module.php:160 core/admin/admin-notices.php:327
+#: core/experiments/manager.php:336 core/experiments/manager.php:348
+#: core/experiments/manager.php:360 core/experiments/manager.php:375
+#: core/experiments/manager.php:386 includes/controls/url.php:76
+#: modules/apps/admin-apps-page.php:316
+#: modules/promotions/admin-menu-items/form-submissions-promotion-item.php:27
+#: modules/safe-mode/module.php:375 modules/safe-mode/module.php:384
+#: modules/safe-mode/mu-plugin/elementor-safe-mode.php:106
+#: assets/js/app-packages.js:2710 assets/js/app-packages.js:5696
+#: assets/js/app-packages.js:5805 assets/js/app.js:3831 assets/js/app.js:7844
+#: assets/js/app.js:8986 assets/js/app.js:10454 assets/js/app.js:10764
+#: assets/js/app.js:10810 assets/js/app.js:11911 assets/js/editor.js:14070
+#: assets/js/editor.js:27576 assets/js/editor.js:27607
+#: assets/js/editor.js:39418
+#: assets/js/kit-library.b4cf9f541e44f7bbc972.bundle.js:3731
+msgid "Learn More"
+msgstr "Perehdy"
+
+#: core/kits/documents/tabs/global-typography.php:28
+#: core/kits/documents/tabs/global-typography.php:47 assets/js/app.js:11054
+#: assets/js/d3bdd130eb38d3b07f85.bundle.js:224 assets/js/editor.js:45824
+msgid "Global Fonts"
+msgstr "Yleiset kirjasimet"
+
+#: includes/widgets/icon-box.php:391 includes/widgets/icon.php:285
+#: includes/widgets/image-box.php:373 includes/widgets/image.php:492
+#: includes/widgets/social-icons.php:540
+#: includes/widgets/traits/button-trait.php:365
+#: modules/nested-tabs/widgets/nested-tabs.php:576
+#: modules/shapes/widgets/text-path.php:435
+msgid "Hover Animation"
+msgstr "Animaatio osoitettaessa"
+
+#: includes/elements/column.php:870 includes/elements/container.php:1708
+#: includes/elements/section.php:1305 includes/widgets/common.php:644
+msgid "Fast"
+msgstr "Nopea"
+
+#: includes/elements/column.php:868 includes/elements/container.php:1706
+#: includes/elements/section.php:1303 includes/widgets/common.php:642
+msgid "Slow"
+msgstr "Hidas"
+
+#: includes/settings/settings.php:247
+msgid "Disable Default Colors"
+msgstr "Poista oletusvärit käytöstä"
+
+#: includes/elements/column.php:855 includes/elements/container.php:1693
+#: includes/elements/section.php:1290 includes/widgets/common.php:629
+#: includes/widgets/video.php:901
+msgid "Entrance Animation"
+msgstr "Tuloanimaatio"
+
+#: includes/controls/box-shadow.php:73 includes/controls/text-shadow.php:76
+#: includes/widgets/tabs.php:176
+msgid "Vertical"
+msgstr "Pystysuuntainen"
+
+#: includes/controls/box-shadow.php:68 includes/controls/text-shadow.php:71
+#: includes/widgets/tabs.php:175
+msgid "Horizontal"
+msgstr "Vaakasuuntainen"
+
+#: includes/controls/box-shadow.php:83
+msgid "Spread"
+msgstr "Levitys"
+
+#: includes/controls/box-shadow.php:78 includes/controls/text-shadow.php:66
+msgid "Blur"
+msgstr "Sumennus"
+
+#: includes/controls/groups/box-shadow.php:73
+msgctxt "Box Shadow Control"
+msgid "Inset"
+msgstr "Upotus"
+
+#: includes/widgets/testimonial.php:45 includes/widgets/testimonial.php:88
+msgid "Testimonial"
+msgstr "Suositus"
+
+#: includes/widgets/social-icons.php:188 includes/widgets/social-icons.php:346
+msgid "Official Color"
+msgstr "Virallinen väri"
+
+#: includes/widgets/social-icons.php:260
+msgid "Rounded"
+msgstr "Pyöristetty"
+
+#: includes/widgets/social-icons.php:42 includes/widgets/social-icons.php:85
+#: includes/widgets/social-icons.php:226
+msgid "Social Icons"
+msgstr "Some-kuvakkeet"
+
+#: includes/widgets/testimonial.php:170
+msgid "Aside"
+msgstr "Sivussa"
+
+#: includes/widgets/progress.php:101
+msgid "My Skill"
+msgstr "Osaamiseni"
+
+#: core/kits/documents/tabs/global-colors.php:123
+#: assets/js/d3bdd130eb38d3b07f85.bundle.js:187
+msgid "Custom Colors"
+msgstr "Mukautetut värit"
+
+#: includes/widgets/audio.php:232
+msgid "Username"
+msgstr "Käyttäjänimi"
+
+#: includes/widgets/audio.php:210
+msgid "Comments"
+msgstr "Kommentit"
+
+#: includes/widgets/audio.php:199
+msgid "Share Button"
+msgstr "Jakopainike"
+
+#: includes/widgets/audio.php:174 includes/widgets/video.php:545
+msgid "Download Button"
+msgstr "Latauspainike"
+
+#: includes/widgets/audio.php:163
+msgid "Like Button"
+msgstr "Tykkäyspainike"
+
+#: includes/widgets/audio.php:152
+msgid "Buy Button"
+msgstr "Ostopainike"
+
+#: includes/widgets/audio.php:122
+msgid "Visual Player"
+msgstr "Visuaalinen soitin"
+
+#: includes/widgets/audio.php:53 includes/widgets/audio.php:96
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: includes/elements/column.php:354 includes/elements/container.php:777
+#: includes/elements/section.php:632
+msgid "Background Overlay"
+msgstr "Taustan peitto"
+
+#: includes/elements/section.php:287
+msgid "Extended"
+msgstr "Laajennettu"
+
+#: core/admin/feedback.php:134
+msgid "If you have a moment, please share why you are deactivating Elementor:"
+msgstr "Jos suinkin ehdit, kerrohan miksi olet poistamassa Elementorin käytöstä:"
+
+#: core/admin/feedback.php:126
+msgid "Quick Feedback"
+msgstr "Pikapalaute"
+
+#: core/admin/feedback.php:118
+msgid "Please share the reason"
+msgstr "Kertoisitko miksi"
+
+#: core/admin/feedback.php:117
+msgid "Other"
+msgstr "Muu syy"
+
+#: core/admin/feedback.php:108
+msgid "It's a temporary deactivation"
+msgstr "Tämä on vain tilapäinen ratkaisu"
+
+#: core/admin/feedback.php:104
+msgid "I couldn't get the plugin to work"
+msgstr "En saanut lisäosaa toimimaan"
+
+#: core/admin/feedback.php:101
+msgid "Please share which plugin"
+msgstr "Kertoisitko, mikä lisäosa"
+
+#: core/admin/feedback.php:100
+msgid "I found a better plugin"
+msgstr "Löysin paremman lisäosan"
+
+#: core/admin/feedback.php:96
+msgid "I no longer need the plugin"
+msgstr "En tarvitse lisäosaa enää"
+
+#: core/admin/admin-notices.php:142 core/admin/admin-notices.php:150
+#: core/base/db-upgrades-manager.php:97
+msgid "Update Now"
+msgstr "Päivitä nyt"
+
+#. translators: %s: Elementor version.
+#: core/admin/admin-notices.php:137
+msgid "View Elementor version %s details"
+msgstr "Katso Elementor-version %s tiedot"
+
+#. translators: 1: Details URL, 2: Accessibility text, 3: Version number, 4:
+#. Update URL, 5: Accessibility text.
+#: core/admin/admin-notices.php:133
+msgid "There is a new version of Elementor Page Builder available. <a href=\"%1$s\" class=\"thickbox open-plugin-details-modal\" aria-label=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s\" class=\"update-link\" aria-label=\"%5$s\">update now</a>."
+msgstr "Elementorista on uusi versio saatavilla. <a href=\"%1$s\" class=\"thickbox open-plugin-details-modal\" aria-label=\"%2$s\">Katso version %3$s tiedot</a> tai <a href=\"%4$s\" class=\"update-link\" aria-label=\"%5$s\">päivitä nyt</a>."
+
+#: includes/widgets/audio.php:221
+msgid "Play Counts"
+msgstr "Soittokerrat"
+
+#: includes/widgets/image-carousel.php:298 includes/widgets/image.php:195
+msgid "Custom URL"
+msgstr "Mukautettu URL"
+
+#: core/kits/documents/tabs/settings-background.php:18
+#: includes/elements/column.php:273 includes/elements/container.php:689
+#: includes/elements/section.php:553 includes/widgets/accordion.php:313
+#: includes/widgets/accordion.php:478 includes/widgets/common.php:680
+#: includes/widgets/toggle.php:339 includes/widgets/toggle.php:496
+#: assets/js/ai-admin.js:6450 assets/js/ai.js:6710
+msgid "Background"
+msgstr "Tausta"
+
+#: includes/elements/section.php:289
+msgid "Wider"
+msgstr "Leveämpi"
+
+#: core/common/modules/finder/categories/general.php:29
+#: core/role-manager/role-manager.php:51 includes/managers/elements.php:292
+#: includes/settings/settings.php:226 includes/settings/tools.php:296
+msgid "General"
+msgstr "Yleinen"
+
+#: includes/editor-templates/hotkeys.php:50 assets/js/editor.js:29745
+#: assets/js/editor.js:31713 assets/js/editor.js:40789
+#: assets/js/editor.js:41797
+msgid "Paste"
+msgstr "Liimaa"
+
+#: includes/widgets/video.php:519
+msgid "Intro Byline"
+msgstr "Esittelyrivi"
+
+#: includes/widgets/accordion.php:450 includes/widgets/divider.php:768
+#: includes/widgets/divider.php:908 includes/widgets/icon-box.php:403
+#: includes/widgets/icon-box.php:547 includes/widgets/image-box.php:299
+#: includes/widgets/image-box.php:492 includes/widgets/image-carousel.php:698
+#: includes/widgets/image-gallery.php:197 includes/widgets/image.php:624
+#: includes/widgets/rating.php:72 includes/widgets/social-icons.php:429
+#: includes/widgets/star-rating.php:314 includes/widgets/toggle.php:468
+#: modules/nested-accordion/widgets/nested-accordion.php:610
+#: modules/nested-tabs/widgets/nested-tabs.php:926
+msgid "Spacing"
+msgstr "Välistys"
+
+#: includes/widgets/image-carousel.php:535
+#: includes/widgets/image-carousel.php:598
+msgid "Outside"
+msgstr "Ulkopuolella"
+
+#: includes/widgets/image-carousel.php:534
+#: includes/widgets/image-carousel.php:599
+msgid "Inside"
+msgstr "Sisäpuolella"
+
+#: includes/controls/groups/background.php:709
+#: includes/controls/groups/flex-container.php:29
+#: includes/widgets/image-carousel.php:492
+#: modules/nested-tabs/widgets/nested-tabs.php:175
+msgid "Direction"
+msgstr "Suunta"
+
+#: includes/widgets/image-carousel.php:481
+msgid "Animation Speed"
+msgstr "Animaation nopeus"
+
+#: includes/elements/container.php:593 includes/widgets/audio.php:135
+#: includes/widgets/image-carousel.php:370
+msgid "Additional Options"
+msgstr "Lisävalinnat"
+
+#: includes/widgets/image-carousel.php:170
+msgid "Arrows and Dots"
+msgstr "Nuolet ja pisteet"
+
+#: includes/widgets/image-carousel.php:153
+msgid "Image Stretch"
+msgstr "Kuvan venytys"
+
+#: includes/widgets/image-carousel.php:45
+#: includes/widgets/image-carousel.php:88
+msgid "Image Carousel"
+msgstr "Kuvakaruselli"
+
+#: includes/elements/column.php:864 includes/elements/container.php:1702
+#: includes/elements/section.php:1299 includes/widgets/common.php:638
+#: includes/widgets/counter.php:159
+#: modules/nested-accordion/widgets/nested-accordion.php:345
+msgid "Animation Duration"
+msgstr "Animaation kesto"
+
+#: includes/widgets/alert.php:229
+msgid "Left Border Width"
+msgstr "Vasemman reunaviivan leveys"
+
+#: includes/controls/groups/image-size.php:297
+msgid "You can crop the original image size to any custom size. You can also set a single value for height or width in order to keep the original size ratio."
+msgstr "Voit rajata alkuperäisen kuvan mihin tahansa mukautettuun kokoon. Voit myös asettaa vain leveyden tai korkeuden, jos haluat säilyttää alkuperäiset mittasuhteet."
+
+#: includes/widgets/audio.php:243 includes/widgets/video.php:533
+msgid "Controls Color"
+msgstr "Ohjainten väri"
+
+#: includes/widgets/video.php:359
+msgid "Loop"
+msgstr "Silmukka"
+
+#: includes/widgets/video.php:307
+msgid "Video Options"
+msgstr "Videon valinnat"
+
+#: includes/controls/groups/background.php:103 includes/widgets/video.php:44
+#: includes/widgets/video.php:103 includes/widgets/video.php:723
+msgid "Video"
+msgstr "Video"
+
+#: includes/widgets/image-gallery.php:269
+msgid "Display"
+msgstr "Näytä"
+
+#: includes/controls/image-dimensions.php:81
+msgid "The server does not have ImageMagick or GD installed and/or enabled! Any of these libraries are required for WordPress to be able to resize images. Please contact your server administrator to enable this before continuing."
+msgstr "Palvelimellesi ei ole asennetu ImageMagick- tai GD-kirjastoja tai ne ovat poissa käytöstä. Jompikumpi näistä tarvitaan, jotta WordPress kykenisi skaalaamaan kuvia. Ota yhteyttä palvelimen tukeen saadaksesi tämän kuntoon."
+
+#: includes/widgets/video.php:491
+msgid "Intro Title"
+msgstr "Esittelyn otsikko"
+
+#: includes/widgets/video.php:115
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: includes/widgets/video.php:505
+msgid "Intro Portrait"
+msgstr "Kuva esittelyssä"
+
+#: includes/widgets/image-carousel.php:464
+msgid "Effect"
+msgstr "Tehoste"
+
+#: includes/widgets/image-carousel.php:469
+msgid "Fade"
+msgstr "Häivytä"
+
+#: includes/controls/media.php:312
+msgctxt "Image Size Control"
+msgid "Full"
+msgstr "Täysi"
+
+#: includes/elements/column.php:183 includes/widgets/icon-box.php:242
+#: includes/widgets/icon-list.php:551 includes/widgets/image-box.php:229
+msgid "Vertical Alignment"
+msgstr "Pystysuuntainen tasaus"
+
+#: includes/controls/groups/background.php:594
+#: includes/widgets/image-carousel.php:450
+msgid "Infinite Loop"
+msgstr "Päättymätön selaus"
+
+#: includes/widgets/image-carousel.php:172
+msgid "Dots"
+msgstr "Pisteet"
+
+#: includes/controls/groups/typography.php:185
+msgctxt "Typography Control"
+msgid "None"
+msgstr "Ei mitään"
+
+#: includes/widgets/accordion.php:230 includes/widgets/icon-box.php:184
+#: includes/widgets/image-box.php:162 includes/widgets/progress.php:109
+#: includes/widgets/toggle.php:233
+#: modules/nested-accordion/widgets/nested-accordion.php:247
+msgid "Title HTML Tag"
+msgstr "Otsikon HTML-tagi"
+
+#: includes/widgets/icon-box.php:149 includes/widgets/image-box.php:126
+msgid "This is the heading"
+msgstr "Tämä on otsikko"
+
+#: includes/elements/column.php:817 includes/elements/container.php:1668
+#: includes/elements/section.php:1272 includes/widgets/common.php:604
+msgid "Add your custom class WITHOUT the dot. e.g: my-class"
+msgstr "Lisää mukautettu luokka ILMAN pistettä. Esimerkiksi: my-class"
+
+#: core/kits/documents/tabs/global-typography.php:200
+msgid "The list of fonts used if the chosen font is not available."
+msgstr "Kirjasimet, joita käytetään kun valittu kirjasin ei ole käytettävissä."
+
+#: includes/widgets/wordpress.php:214
+msgid "Form"
+msgstr "Lomake"
+
+#: includes/editor-templates/panel-elements.php:10 assets/js/editor.js:18844
+#: assets/js/editor.js:20798 assets/js/editor.js:21229
+#: assets/js/editor.js:36246
+#: assets/js/packages/editor-app-bar/editor-app-bar.js:948
+#: assets/js/packages/editor-app-bar/editor-app-bar.strings.js:14
+msgid "Elements"
+msgstr "Elementit"
+
+#: core/admin/admin.php:341 core/admin/menu/main.php:75
+#: core/common/modules/finder/categories/settings.php:28
+#: core/dynamic-tags/base-tag.php:171 includes/editor-templates/panel.php:81
+#: includes/editor-templates/responsive-bar.php:64
+#: includes/managers/controls.php:322 includes/settings/settings.php:192
+#: includes/settings/settings.php:387 modules/usage/settings-reporter.php:13
+#: assets/js/editor.js:9288 assets/js/editor.js:37120 assets/js/editor.js:46203
+msgid "Settings"
+msgstr "Asetukset"
+
+#: includes/controls/groups/typography.php:171
+msgctxt "Typography Control"
+msgid "Italic"
+msgstr "Kallistettu"
+
+#: includes/controls/groups/typography.php:172
+msgctxt "Typography Control"
+msgid "Oblique"
+msgstr "Kursiivi"
+
+#: includes/controls/groups/typography.php:146
+#: includes/controls/groups/typography.php:160
+#: includes/controls/groups/typography.php:170
+msgctxt "Typography Control"
+msgid "Normal"
+msgstr "Normaali"
+
+#: includes/controls/groups/typography.php:159
+msgctxt "Typography Control"
+msgid "Capitalize"
+msgstr "Isot alkukirjaimet"
+
+#: includes/controls/groups/typography.php:158
+msgctxt "Typography Control"
+msgid "Lowercase"
+msgstr "Pienet kirjaimet"
+
+#: includes/controls/groups/typography.php:157
+msgctxt "Typography Control"
+msgid "Uppercase"
+msgstr "Isot kirjaimet"
+
+#: core/kits/documents/tabs/theme-style-buttons.php:91
+#: core/kits/documents/tabs/theme-style-form-fields.php:117
+#: core/kits/documents/tabs/theme-style-images.php:63
+#: core/kits/documents/tabs/theme-style-typography.php:125
+#: includes/base/element-base.php:806 includes/elements/column.php:283
+#: includes/elements/column.php:367 includes/elements/column.php:425
+#: includes/elements/column.php:531 includes/elements/column.php:869
+#: includes/elements/container.php:702 includes/elements/container.php:790
+#: includes/elements/container.php:870 includes/elements/container.php:1011
+#: includes/elements/container.php:1707 includes/elements/section.php:563
+#: includes/elements/section.php:642 includes/elements/section.php:715
+#: includes/elements/section.php:837 includes/elements/section.php:1304
+#: includes/widgets/alert.php:395 includes/widgets/common.php:643
+#: includes/widgets/common.php:690 includes/widgets/common.php:773
+#: includes/widgets/google-maps.php:209 includes/widgets/heading.php:272
+#: includes/widgets/icon-box.php:314 includes/widgets/icon-list.php:404
+#: includes/widgets/icon-list.php:634 includes/widgets/icon.php:204
+#: includes/widgets/image-box.php:382 includes/widgets/image.php:408
+#: includes/widgets/traits/button-trait.php:269
+#: modules/nested-accordion/widgets/nested-accordion.php:656
+#: modules/nested-accordion/widgets/nested-accordion.php:710
+#: modules/nested-tabs/widgets/nested-tabs.php:466
+#: modules/nested-tabs/widgets/nested-tabs.php:712
+#: modules/nested-tabs/widgets/nested-tabs.php:950
+#: modules/shapes/widgets/text-path.php:392
+#: modules/shapes/widgets/text-path.php:484
+msgid "Normal"
+msgstr "Normaali"
+
+#: includes/widgets/image-carousel.php:400
+msgid "Pause on Hover"
+msgstr "Pysäytä osoitettaessa"
+
+#: includes/widgets/image-carousel.php:136
+msgid "Slides to Scroll"
+msgstr "Vieritettävät diat"
+
+#: includes/widgets/image-carousel.php:119
+msgid "Slides to Show"
+msgstr "Näytettävät diat"
+
+#. Author of the plugin
+msgid "Elementor.com"
+msgstr "Elementor.com"
+
+#: includes/widgets/video.php:654 includes/widgets/video.php:781
+msgid "Play Icon"
+msgstr "Soittokuvake"
+
+#: includes/widgets/video.php:606 includes/widgets/video.php:613
+#: includes/widgets/video.php:769
+msgid "Image Overlay"
+msgstr "Kuvan peite"
+
+#: includes/widgets/video.php:475
+msgid "Suggested Videos"
+msgstr "Ehdotetut videot"
+
+#: includes/widgets/video.php:114
+msgid "YouTube"
+msgstr "YouTube"
+
+#: includes/widgets/toggle.php:125
+msgid "Toggle Content"
+msgstr "Vaihtele sisältöä"
+
+#: includes/widgets/toggle.php:112
+msgid "Toggle Title"
+msgstr "Vaihtele otsikkoa"
+
+#: includes/widgets/toggle.php:155
+msgid "Toggle #2"
+msgstr "Vaihtele #2"
+
+#: includes/widgets/toggle.php:151
+msgid "Toggle #1"
+msgstr "Vaihtele #1"
+
+#: includes/widgets/toggle.php:146
+msgid "Toggle Items"
+msgstr "Vaihtele osia"
+
+#: includes/widgets/toggle.php:46 includes/widgets/toggle.php:101
+#: includes/widgets/toggle.php:263
+msgid "Toggle"
+msgstr "Vaihtele"
+
+#: includes/widgets/text-editor.php:46 includes/widgets/text-editor.php:105
+#: includes/widgets/text-editor.php:180
+msgid "Text Editor"
+msgstr "Tekstinmuokkain"
+
+#: includes/widgets/tabs.php:120 includes/widgets/tabs.php:121
+msgid "Tab Content"
+msgstr "Välilehden sisältö"
+
+#: includes/widgets/tabs.php:107 includes/widgets/tabs.php:108
+#: modules/nested-tabs/widgets/nested-tabs.php:99
+#: modules/nested-tabs/widgets/nested-tabs.php:100
+msgid "Tab Title"
+msgstr "Välilehden otsikko"
+
+#: includes/widgets/tabs.php:151
+#: modules/nested-tabs/widgets/nested-tabs.php:159
+msgid "Tab #2"
+msgstr "Välilehti #2"
+
+#: includes/widgets/tabs.php:147
+#: modules/nested-tabs/widgets/nested-tabs.php:156
+msgid "Tab #1"
+msgstr "Välilehti #1"
+
+#: includes/widgets/tabs.php:142
+#: modules/nested-tabs/widgets/nested-tabs.php:151
+msgid "Tabs Items"
+msgstr "Välilehtiosat"
+
+#: includes/widgets/tabs.php:46 includes/widgets/tabs.php:96
+#: includes/widgets/tabs.php:248 modules/nested-tabs/widgets/nested-tabs.php:33
+#: modules/nested-tabs/widgets/nested-tabs.php:91
+#: modules/nested-tabs/widgets/nested-tabs.php:427
+msgid "Tabs"
+msgstr "Välilehdet"
+
+#: includes/widgets/image-carousel.php:435
+msgid "Autoplay Speed"
+msgstr "Autoplay-nopeus"
+
+#: includes/widgets/image-carousel.php:171
+#: includes/widgets/image-carousel.php:518
+msgid "Arrows"
+msgstr "Nuolet"
+
+#: includes/widgets/image-carousel.php:468
+msgid "Slide"
+msgstr "Dia"
+
+#: includes/widgets/sidebar.php:89 includes/widgets/sidebar.php:109
+msgid "Choose Sidebar"
+msgstr "Valitse sivupalkki"
+
+#: includes/widgets/sidebar.php:87
+msgid "No sidebars were found"
+msgstr "Sivupalkkeja ei löytynyt"
+
+#: includes/widgets/sidebar.php:42 includes/widgets/sidebar.php:102
+msgid "Sidebar"
+msgstr "Sivupalkki"
+
+#: includes/widgets/progress.php:298
+msgid "Title Style"
+msgstr "Otsikon tyyli"
+
+#: includes/widgets/progress.php:182
+msgid "Web Designer"
+msgstr "Web Designer"
+
+#: includes/widgets/progress.php:181
+msgid "e.g. Web Designer"
+msgstr "esimerkiksi Web Designer"
+
+#: includes/widgets/progress.php:176 includes/widgets/progress.php:257
+msgid "Inner Text"
+msgstr "Sisäpuolinen teksti"
+
+#: includes/widgets/progress.php:164
+msgid "Display Percentage"
+msgstr "Näytä prosentit"
+
+#: includes/widgets/progress.php:149
+msgid "Percentage"
+msgstr "Prosentit"
+
+#: includes/widgets/progress.php:45 includes/widgets/progress.php:88
+#: includes/widgets/progress.php:201
+msgid "Progress Bar"
+msgstr "Edistymispalkki"
+
+#: includes/widgets/menu-anchor.php:98
+msgid "For Example: About"
+msgstr "Esimerkiksi: Meistä"
+
+#: includes/widgets/menu-anchor.php:93
+msgid "The ID of Menu Anchor."
+msgstr "Valikkoankkurin ID"
+
+#: includes/widgets/menu-anchor.php:99
+msgid "This ID will be the CSS ID you will have to use in your own page, Without #."
+msgstr "Tämä ID on se CSS-ID, jota käytät omalla sivullasi. Ilman #-merkkiä."
+
+#: includes/widgets/menu-anchor.php:86
+msgid "Anchor"
+msgstr "Ankkuri"
+
+#: includes/widgets/menu-anchor.php:43
+msgid "Menu Anchor"
+msgstr "Valikkoankkuri"
+
+#: includes/widgets/image-box.php:201 includes/widgets/testimonial.php:166
+msgid "Image Position"
+msgstr "Kuvan sijainti"
+
+#: includes/widgets/image-carousel.php:714
+#: includes/widgets/image-gallery.php:214
+msgid "Image Spacing"
+msgstr "Kuvien etäisyys"
+
+#: includes/controls/groups/image-size.php:290 includes/controls/media.php:281
+#: includes/widgets/testimonial.php:279
+msgid "Image Size"
+msgstr "Kuvan koko"
+
+#: includes/widgets/image-box.php:45 includes/widgets/image-box.php:88
+msgid "Image Box"
+msgstr "Kuvalaatikko"
+
+#: includes/widgets/social-icons.php:486
+msgid "Icon Hover"
+msgstr "Kuvake osoitettaessa"
+
+#: includes/controls/groups/border.php:77 includes/widgets/accordion.php:268
+#: includes/widgets/divider.php:946 includes/widgets/icon-box.php:498
+#: includes/widgets/icon.php:375 includes/widgets/tabs.php:279
+#: includes/widgets/text-editor.php:377 includes/widgets/toggle.php:271
+#: modules/nested-accordion/widgets/nested-accordion.php:486
+#: modules/nested-tabs/widgets/nested-tabs.php:498
+#: modules/nested-tabs/widgets/nested-tabs.php:557
+#: modules/nested-tabs/widgets/nested-tabs.php:641
+#: modules/nested-tabs/widgets/nested-tabs.php:1032
+msgid "Border Width"
+msgstr "Reunaviivan leveys"
+
+#: includes/base/element-base.php:813 includes/base/element-base.php:825
+#: includes/widgets/divider.php:925 includes/widgets/icon-box.php:476
+#: includes/widgets/icon.php:354 modules/shapes/widgets/text-path.php:268
+msgid "Rotate"
+msgstr "Kierrä"
+
+#: includes/widgets/divider.php:867 includes/widgets/icon-box.php:337
+#: includes/widgets/icon-box.php:375 includes/widgets/icon.php:228
+#: includes/widgets/icon.php:268 includes/widgets/social-icons.php:211
+#: includes/widgets/social-icons.php:369 includes/widgets/social-icons.php:509
+#: includes/widgets/text-editor.php:293
+msgid "Secondary Color"
+msgstr "Toissijainen väri"
+
+#: includes/widgets/divider.php:850 includes/widgets/icon-box.php:321
+#: includes/widgets/icon-box.php:362 includes/widgets/icon.php:211
+#: includes/widgets/icon.php:254 includes/widgets/social-icons.php:197
+#: includes/widgets/social-icons.php:355 includes/widgets/social-icons.php:494
+#: includes/widgets/text-editor.php:278
+msgid "Primary Color"
+msgstr "Ensisijainen väri"
+
+#: includes/widgets/icon-box.php:130 includes/widgets/icon.php:142
+#: includes/widgets/social-icons.php:261 assets/js/ai-admin.js:6504
+#: assets/js/ai.js:6764
+msgid "Square"
+msgstr "Neliö"
+
+#: includes/widgets/common.php:128 includes/widgets/icon-box.php:129
+#: includes/widgets/icon.php:141 includes/widgets/social-icons.php:262
+#: modules/shapes/module.php:22
+msgid "Circle"
+msgstr "Ympyrä"
+
+#: includes/widgets/common.php:896 includes/widgets/icon-box.php:126
+#: includes/widgets/icon.php:138 includes/widgets/social-icons.php:256
+msgid "Shape"
+msgstr "Muoto"
+
+#: includes/widgets/divider.php:803 includes/widgets/icon-box.php:113
+#: includes/widgets/icon.php:128 includes/widgets/text-editor.php:268
+msgid "Framed"
+msgstr "Kehystetty"
+
+#: includes/widgets/divider.php:802 includes/widgets/icon-box.php:112
+#: includes/widgets/icon.php:127 includes/widgets/text-editor.php:267
+msgid "Stacked"
+msgstr "Pinottu"
+
+#: includes/widgets/icon-list.php:123 includes/widgets/icon-list.php:124
+msgid "List Item"
+msgstr "Luettelokohta"
+
+#: includes/widgets/icon-list.php:177
+msgid "List Item #3"
+msgstr "Luettelokohta #3"
+
+#: includes/widgets/icon-list.php:170
+msgid "List Item #2"
+msgstr "Luettelokohta #2"
+
+#: includes/widgets/icon-list.php:163
+msgid "List Item #1"
+msgstr "Luettelokohta #1"
+
+#: includes/widgets/icon-list.php:45 includes/widgets/icon-list.php:88
+msgid "Icon List"
+msgstr "Kuvakeluettelo"
+
+#: includes/widgets/traits/button-trait.php:185
+msgid "Icon Spacing"
+msgstr "Kuvakkeen välistys"
+
+#: includes/widgets/icon-box.php:45 includes/widgets/icon-box.php:88
+msgid "Icon Box"
+msgstr "Kuvakelaatikko"
+
+#: includes/widgets/html.php:85 includes/widgets/html.php:92
+msgid "HTML Code"
+msgstr "HTML-koodi"
+
+#: includes/widgets/html.php:42
+msgid "HTML"
+msgstr "HTML"
+
+#: includes/elements/column.php:261 includes/elements/container.php:634
+#: includes/elements/section.php:518 includes/widgets/divider.php:525
+#: includes/widgets/heading.php:159
+msgid "HTML Tag"
+msgstr "HTML-tagi"
+
+#: includes/widgets/alert.php:114 includes/widgets/heading.php:119
+#: includes/widgets/icon-box.php:150 includes/widgets/image-box.php:127
+#: includes/widgets/progress.php:100
+msgid "Enter your title"
+msgstr "Anna otsikko"
+
+#: includes/widgets/heading.php:45
+msgid "Heading"
+msgstr "Otsake"
+
+#: includes/widgets/google-maps.php:128
+msgid "London Eye, London, United Kingdom"
+msgstr "London Eye, London, United Kingdom"
+
+#: includes/widgets/google-maps.php:103 includes/widgets/google-maps.php:200
+msgid "Map"
+msgstr "Kartta"
+
+#: includes/widgets/google-maps.php:44
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: core/kits/documents/tabs/settings-lightbox.php:101
+#: core/kits/documents/tabs/settings-lightbox.php:118
+#: includes/widgets/image-carousel.php:344
+#: includes/widgets/image-carousel.php:350
+#: includes/widgets/image-carousel.php:759
+#: includes/widgets/image-gallery.php:261 includes/widgets/image.php:159
+#: includes/widgets/image.php:538
+msgid "Caption"
+msgstr "Kuvateksti"
+
+#: core/kits/documents/tabs/theme-style-images.php:21
+#: core/kits/documents/tabs/theme-style-images.php:51
+#: includes/controls/groups/background.php:583
+#: includes/widgets/image-gallery.php:189
+msgid "Images"
+msgstr "Kuvat"
+
+#: includes/widgets/image-gallery.php:169
+msgid "Random"
+msgstr "Satunnainen"
+
+#: includes/widgets/image-carousel.php:297
+#: includes/widgets/image-gallery.php:132 includes/widgets/image.php:194
+msgid "Media File"
+msgstr "Mediatiedosto"
+
+#: includes/widgets/image-gallery.php:133
+msgid "Attachment Page"
+msgstr "Liitesivu"
+
+#: includes/controls/gallery.php:94 includes/controls/gallery.php:96
+#: includes/widgets/image-carousel.php:95 includes/widgets/image-gallery.php:94
+msgid "Add Images"
+msgstr "Lisää kuvia"
+
+#: includes/widgets/image-gallery.php:87
+msgid "Image Gallery"
+msgstr "Kuvagalleria"
+
+#: includes/widgets/divider.php:677 includes/widgets/icon-list.php:497
+#: includes/widgets/star-rating.php:269
+msgid "Gap"
+msgstr "Väli"
+
+#: includes/widgets/divider.php:592 includes/widgets/icon-list.php:297
+msgid "Weight"
+msgstr "Vahvuus"
+
+#: core/kits/documents/tabs/theme-style-form-fields.php:78
+#: core/kits/documents/tabs/theme-style-typography.php:132
+#: core/kits/documents/tabs/theme-style-typography.php:161
+#: core/kits/documents/tabs/theme-style-typography.php:206
+#: includes/controls/box-shadow.php:104
+#: includes/controls/groups/background.php:133
+#: includes/controls/text-shadow.php:97 includes/elements/column.php:433
+#: includes/elements/container.php:878 includes/elements/container.php:1206
+#: includes/elements/section.php:723 includes/elements/section.php:993
+#: includes/widgets/accordion.php:324 includes/widgets/accordion.php:426
+#: includes/widgets/accordion.php:489 includes/widgets/alert.php:401
+#: includes/widgets/alert.php:418 includes/widgets/divider.php:576
+#: includes/widgets/divider.php:711 includes/widgets/heading.php:280
+#: includes/widgets/icon-box.php:564 includes/widgets/icon-box.php:615
+#: includes/widgets/icon-list.php:374 includes/widgets/icon-list.php:411
+#: includes/widgets/icon-list.php:436 includes/widgets/icon-list.php:641
+#: includes/widgets/icon-list.php:665 includes/widgets/image-box.php:509
+#: includes/widgets/image-box.php:560 includes/widgets/image-carousel.php:567
+#: includes/widgets/image-carousel.php:631 includes/widgets/progress.php:209
+#: includes/widgets/progress.php:266 includes/widgets/rating.php:96
+#: includes/widgets/social-icons.php:184 includes/widgets/social-icons.php:342
+#: includes/widgets/star-rating.php:332 includes/widgets/tabs.php:334
+#: includes/widgets/tabs.php:427 includes/widgets/toggle.php:351
+#: includes/widgets/toggle.php:444 includes/widgets/toggle.php:507
+#: includes/widgets/video.php:793
+#: modules/nested-accordion/widgets/nested-accordion.php:671
+#: modules/nested-accordion/widgets/nested-accordion.php:738
+#: modules/nested-tabs/widgets/nested-tabs.php:719
+#: modules/nested-tabs/widgets/nested-tabs.php:765
+#: modules/nested-tabs/widgets/nested-tabs.php:812
+#: modules/nested-tabs/widgets/nested-tabs.php:955
+#: modules/nested-tabs/widgets/nested-tabs.php:972
+#: modules/nested-tabs/widgets/nested-tabs.php:989
+#: modules/shapes/widgets/text-path.php:399
+#: modules/shapes/widgets/text-path.php:423
+#: modules/shapes/widgets/text-path.php:491
+#: modules/shapes/widgets/text-path.php:511
+#: modules/shapes/widgets/text-path.php:556
+#: modules/shapes/widgets/text-path.php:576 assets/js/editor.js:46341
+#: assets/js/editor.js:46384
+msgid "Color"
+msgstr "Väri"
+
+#: includes/widgets/spacer.php:42 includes/widgets/spacer.php:101
+msgid "Spacer"
+msgstr "Väli"
+
+#: includes/widgets/divider.php:46 includes/widgets/divider.php:356
+#: includes/widgets/divider.php:515 includes/widgets/divider.php:565
+#: includes/widgets/icon-list.php:261
+msgid "Divider"
+msgstr "Erotin"
+
+#: includes/widgets/counter.php:224
+msgid "Number"
+msgstr "Numero"
+
+#: includes/widgets/counter.php:205 includes/widgets/counter.php:206
+msgid "Cool Number"
+msgstr "Nasta numero"
+
+#: includes/widgets/counter.php:152
+msgid "Plus"
+msgstr "Plus"
+
+#: includes/widgets/counter.php:146
+msgid "Number Suffix"
+msgstr "Numeron pääte"
+
+#: includes/widgets/counter.php:133
+msgid "Number Prefix"
+msgstr "Numeron etuliite"
+
+#: includes/widgets/counter.php:121
+msgid "Ending Number"
+msgstr "Päättävä numero"
+
+#: includes/widgets/counter.php:109
+msgid "Starting Number"
+msgstr "Aloittava numero"
+
+#: core/kits/documents/tabs/settings-lightbox.php:56
+#: includes/widgets/counter.php:45 includes/widgets/counter.php:102
+msgid "Counter"
+msgstr "Laskuri"
+
+#: includes/widgets/audio.php:144 includes/widgets/image-carousel.php:386
+#: includes/widgets/video.php:316
+msgid "Autoplay"
+msgstr "Autoplay"
+
+#: includes/controls/media.php:189 includes/widgets/image-box.php:95
+#: includes/widgets/image.php:111 includes/widgets/testimonial.php:108
+#: includes/widgets/video.php:624
+msgid "Choose Image"
+msgstr "Valitse kuva"
+
+#: includes/controls/groups/background.php:245 includes/widgets/common.php:910
+#: includes/widgets/image-box.php:288 includes/widgets/image-carousel.php:662
+#: includes/widgets/image.php:45 includes/widgets/image.php:104
+#: includes/widgets/image.php:252 includes/widgets/testimonial.php:268
+msgid "Image"
+msgstr "Kuva"
+
+#: includes/elements/column.php:521 includes/elements/container.php:998
+#: includes/elements/section.php:827 includes/widgets/common.php:763
+msgid "Border"
+msgstr "Reunaviiva"
+
+#: core/dynamic-tags/tag.php:105 includes/widgets/traits/button-trait.php:176
+#: modules/nested-tabs/widgets/nested-tabs.php:187
+#: modules/nested-tabs/widgets/nested-tabs.php:871
+msgid "After"
+msgstr "Jälkeen"
+
+#: core/dynamic-tags/tag.php:95 includes/widgets/traits/button-trait.php:175
+#: modules/nested-tabs/widgets/nested-tabs.php:191
+#: modules/nested-tabs/widgets/nested-tabs.php:879
+msgid "Before"
+msgstr "Ennen"
+
+#: includes/widgets/icon-box.php:214
+#: includes/widgets/traits/button-trait.php:171
+msgid "Icon Position"
+msgstr "Kuvakkeen sijainti"
+
+#: includes/elements/column.php:721 includes/elements/section.php:1177
+#: includes/widgets/heading.php:195 includes/widgets/icon-box.php:286
+#: includes/widgets/image-box.php:273 includes/widgets/image-carousel.php:786
+#: includes/widgets/image-gallery.php:301 includes/widgets/image.php:565
+#: includes/widgets/star-rating.php:209 includes/widgets/text-editor.php:204
+#: includes/widgets/traits/button-trait.php:133
+msgid "Justified"
+msgstr "Tasattu"
+
+#: includes/widgets/heading.php:151
+msgid "XXL"
+msgstr "XXL"
+
+#: includes/widgets/heading.php:150
+msgid "XL"
+msgstr "XL"
+
+#: includes/widgets/accordion.php:172 includes/widgets/accordion.php:395
+#: includes/widgets/alert.php:153 includes/widgets/divider.php:487
+#: includes/widgets/divider.php:548 includes/widgets/divider.php:787
+#: includes/widgets/icon-box.php:95 includes/widgets/icon-box.php:301
+#: includes/widgets/icon-list.php:134 includes/widgets/icon-list.php:394
+#: includes/widgets/icon.php:44 includes/widgets/icon.php:103
+#: includes/widgets/icon.php:110 includes/widgets/icon.php:194
+#: includes/widgets/rating.php:40 includes/widgets/rating.php:164
+#: includes/widgets/social-icons.php:94 includes/widgets/social-icons.php:334
+#: includes/widgets/star-rating.php:146 includes/widgets/toggle.php:175
+#: includes/widgets/toggle.php:413 includes/widgets/traits/button-trait.php:158
+#: includes/widgets/video.php:670
+#: modules/nested-accordion/widgets/nested-accordion.php:182
+#: modules/nested-accordion/widgets/nested-accordion.php:574
+#: modules/nested-tabs/widgets/nested-tabs.php:110
+#: modules/nested-tabs/widgets/nested-tabs.php:853
+msgid "Icon"
+msgstr "Kuvake"
+
+#: includes/controls/groups/flex-item.php:134 includes/widgets/alert.php:342
+#: includes/widgets/common.php:948 includes/widgets/divider.php:617
+#: includes/widgets/divider.php:813 includes/widgets/heading.php:142
+#: includes/widgets/icon-box.php:424 includes/widgets/icon-list.php:470
+#: includes/widgets/icon.php:297 includes/widgets/image-carousel.php:547
+#: includes/widgets/image-carousel.php:611 includes/widgets/rating.php:48
+#: includes/widgets/social-icons.php:384 includes/widgets/star-rating.php:297
+#: includes/widgets/text-editor.php:316
+#: includes/widgets/traits/button-trait.php:146 includes/widgets/video.php:809
+#: modules/nested-accordion/widgets/nested-accordion.php:582
+#: modules/nested-tabs/widgets/nested-tabs.php:901
+#: modules/shapes/widgets/text-path.php:235
+msgid "Size"
+msgstr "Koko"
+
+#: includes/widgets/accordion.php:406 includes/widgets/divider.php:448
+#: includes/widgets/heading.php:179 includes/widgets/icon-box.php:270
+#: includes/widgets/icon-list.php:238 includes/widgets/icon.php:166
+#: includes/widgets/image-box.php:257 includes/widgets/image-carousel.php:770
+#: includes/widgets/image-gallery.php:285 includes/widgets/image.php:134
+#: includes/widgets/image.php:549 includes/widgets/rating.php:186
+#: includes/widgets/social-icons.php:296 includes/widgets/star-rating.php:193
+#: includes/widgets/tabs.php:186 includes/widgets/tabs.php:216
+#: includes/widgets/tabs.php:390 includes/widgets/testimonial.php:184
+#: includes/widgets/text-editor.php:188 includes/widgets/toggle.php:424
+#: includes/widgets/traits/button-trait.php:117
+#: modules/shapes/widgets/text-path.php:156
+msgid "Alignment"
+msgstr "Tasaus"
+
+#: includes/widgets/heading.php:149 includes/widgets/traits/button-trait.php:36
+msgid "Large"
+msgstr "Large"
+
+#: includes/widgets/video.php:731
+msgid "Aspect Ratio"
+msgstr "Sivusuhteet"
+
+#: includes/widgets/heading.php:148 includes/widgets/traits/button-trait.php:35
+msgid "Medium"
+msgstr "Medium"
+
+#: includes/widgets/heading.php:147 includes/widgets/traits/button-trait.php:34
+msgid "Small"
+msgstr "Small"
+
+#: includes/widgets/button.php:47 includes/widgets/button.php:84
+#: includes/widgets/button.php:95
+msgid "Button"
+msgstr "Painike"
+
+#: core/common/modules/finder/categories/edit.php:30
+#: includes/controls/popover-toggle.php:68 assets/js/ai-admin.js:2128
+#: assets/js/ai-admin.js:5404 assets/js/ai-admin.js:5411 assets/js/ai.js:2256
+#: assets/js/ai.js:5664 assets/js/ai.js:5671
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: core/kits/documents/tabs/theme-style-buttons.php:152
+#: core/kits/documents/tabs/theme-style-buttons.php:227
+#: core/kits/documents/tabs/theme-style-form-fields.php:232
+#: core/kits/documents/tabs/theme-style-images.php:83
+#: core/kits/documents/tabs/theme-style-images.php:154
+#: includes/elements/column.php:546 includes/elements/column.php:583
+#: includes/elements/container.php:1043 includes/elements/container.php:1094
+#: includes/elements/section.php:851 includes/elements/section.php:887
+#: includes/widgets/common.php:788 includes/widgets/common.php:825
+#: includes/widgets/divider.php:969 includes/widgets/icon-box.php:513
+#: includes/widgets/icon.php:390 includes/widgets/image-box.php:360
+#: includes/widgets/image-carousel.php:745
+#: includes/widgets/image-gallery.php:247 includes/widgets/image.php:513
+#: includes/widgets/progress.php:245 includes/widgets/social-icons.php:472
+#: includes/widgets/testimonial.php:306 includes/widgets/text-editor.php:358
+#: includes/widgets/traits/button-trait.php:388
+#: modules/nested-accordion/widgets/nested-accordion.php:429
+#: modules/nested-accordion/widgets/nested-accordion.php:495
+#: modules/nested-tabs/widgets/nested-tabs.php:663
+#: modules/nested-tabs/widgets/nested-tabs.php:1041
+msgid "Border Radius"
+msgstr "Reunaviivan säde"
+
+#: core/kits/documents/tabs/settings-lightbox.php:103
+#: core/kits/documents/tabs/settings-lightbox.php:113
+#: core/kits/documents/tabs/settings-lightbox.php:120
+#: includes/compatibility.php:154 includes/widgets/alert.php:291
+#: includes/widgets/icon-box.php:158 includes/widgets/icon-box.php:606
+#: includes/widgets/image-box.php:135 includes/widgets/image-box.php:551
+#: includes/widgets/image-carousel.php:351
+msgid "Description"
+msgstr "Kuvaus"
+
+#: core/kits/documents/tabs/settings-lightbox.php:130
+#: core/kits/documents/tabs/theme-style-form-fields.php:199
+#: includes/controls/groups/background.php:136 includes/widgets/alert.php:207
+#: includes/widgets/image.php:594 includes/widgets/progress.php:223
+#: includes/widgets/tabs.php:313 includes/widgets/video.php:866
+#: modules/nested-tabs/widgets/nested-tabs.php:479
+#: modules/nested-tabs/widgets/nested-tabs.php:538
+#: modules/nested-tabs/widgets/nested-tabs.php:622
+#: modules/nested-tabs/widgets/nested-tabs.php:1016
+msgid "Background Color"
+msgstr "Taustaväri"
+
+#: includes/widgets/alert.php:129
+msgid "I am a description. Click the edit button to change this text."
+msgstr "Olen kuvaus. Klikkaa muokkaa-näppäintä muuttaaksesi tekstiä."
+
+#: includes/widgets/alert.php:103 includes/widgets/progress.php:140
+#: includes/widgets/traits/button-trait.php:78
+msgid "Danger"
+msgstr "Vaara"
+
+#: core/base/document.php:1755
+#: core/kits/documents/tabs/settings-lightbox.php:96
+#: core/kits/documents/tabs/settings-lightbox.php:100
+#: core/kits/documents/tabs/settings-lightbox.php:117
+#: includes/elements/column.php:122 includes/elements/section.php:236
+#: includes/widgets/accordion.php:110 includes/widgets/accordion.php:305
+#: includes/widgets/alert.php:112 includes/widgets/alert.php:251
+#: includes/widgets/common.php:184 includes/widgets/counter.php:199
+#: includes/widgets/counter.php:275 includes/widgets/heading.php:104
+#: includes/widgets/heading.php:111 includes/widgets/heading.php:220
+#: includes/widgets/icon-box.php:144 includes/widgets/icon-box.php:538
+#: includes/widgets/image-box.php:121 includes/widgets/image-box.php:483
+#: includes/widgets/image-carousel.php:349 includes/widgets/progress.php:95
+#: includes/widgets/star-rating.php:181 includes/widgets/star-rating.php:225
+#: includes/widgets/tabs.php:105 includes/widgets/tabs.php:325
+#: includes/widgets/testimonial.php:143 includes/widgets/testimonial.php:366
+#: includes/widgets/toggle.php:110 includes/widgets/toggle.php:331
+#: modules/nested-accordion/widgets/nested-accordion.php:95
+#: modules/nested-accordion/widgets/nested-accordion.php:535
+#: modules/nested-tabs/widgets/nested-tabs.php:97
+msgid "Title"
+msgstr "Otsikko"
+
+#: core/settings/editor-preferences/model.php:120
+#: includes/base/element-base.php:1321
+#: includes/controls/groups/grid-container.php:34
+#: includes/widgets/alert.php:145 includes/widgets/audio.php:154
+#: includes/widgets/audio.php:165 includes/widgets/audio.php:176
+#: includes/widgets/audio.php:187 includes/widgets/audio.php:201
+#: includes/widgets/audio.php:212 includes/widgets/audio.php:223
+#: includes/widgets/audio.php:234 includes/widgets/counter.php:174
+#: includes/widgets/image-gallery.php:274 includes/widgets/progress.php:167
+#: includes/widgets/video.php:373 includes/widgets/video.php:388
+#: includes/widgets/video.php:415 includes/widgets/video.php:493
+#: includes/widgets/video.php:507 includes/widgets/video.php:521
+#: includes/widgets/video.php:547 includes/widgets/video.php:615
+#: includes/widgets/video.php:657
+msgid "Hide"
+msgstr "Piilota"
+
+#: core/settings/editor-preferences/model.php:119
+#: includes/base/element-base.php:1322
+#: includes/controls/groups/grid-container.php:33
+#: includes/widgets/alert.php:144 includes/widgets/audio.php:155
+#: includes/widgets/audio.php:166 includes/widgets/audio.php:177
+#: includes/widgets/audio.php:188 includes/widgets/audio.php:202
+#: includes/widgets/audio.php:213 includes/widgets/audio.php:224
+#: includes/widgets/audio.php:235 includes/widgets/counter.php:173
+#: includes/widgets/image-gallery.php:273 includes/widgets/progress.php:166
+#: includes/widgets/video.php:374 includes/widgets/video.php:389
+#: includes/widgets/video.php:416 includes/widgets/video.php:494
+#: includes/widgets/video.php:508 includes/widgets/video.php:522
+#: includes/widgets/video.php:548 includes/widgets/video.php:616
+#: includes/widgets/video.php:658
+msgid "Show"
+msgstr "Näytä"
+
+#: includes/widgets/alert.php:102 includes/widgets/progress.php:139
+#: includes/widgets/traits/button-trait.php:77
+msgid "Warning"
+msgstr "Varoitus"
+
+#: includes/widgets/alert.php:101 includes/widgets/progress.php:138
+#: includes/widgets/traits/button-trait.php:76
+msgid "Success"
+msgstr "Onnistui"
+
+#: includes/widgets/alert.php:100 includes/widgets/progress.php:137
+#: includes/widgets/traits/button-trait.php:75 assets/js/app-packages.js:5685
+#: assets/js/kit-library.b4cf9f541e44f7bbc972.bundle.js:3326
+msgid "Info"
+msgstr "Info"
+
+#: includes/editor-templates/templates.php:113
+#: includes/elements/container.php:1195 includes/elements/section.php:982
+#: includes/template-library/sources/local.php:1691
+#: includes/widgets/alert.php:96 includes/widgets/progress.php:132
+#: includes/widgets/traits/button-trait.php:70
+msgid "Type"
+msgstr "Tyyppi"
+
+#: includes/widgets/alert.php:46 includes/widgets/alert.php:89
+#: includes/widgets/alert.php:199
+msgid "Alert"
+msgstr "Varoitus"
+
+#: includes/widgets/accordion.php:339 includes/widgets/accordion.php:438
+#: includes/widgets/image-carousel.php:646 includes/widgets/tabs.php:348
+#: includes/widgets/toggle.php:366 includes/widgets/toggle.php:456
+msgid "Active Color"
+msgstr "Aktiivinen väri"
+
+#: includes/controls/groups/border.php:90 includes/widgets/accordion.php:290
+#: includes/widgets/alert.php:218 includes/widgets/social-icons.php:525
+#: includes/widgets/tabs.php:302 includes/widgets/toggle.php:292
+#: includes/widgets/traits/button-trait.php:350
+#: modules/nested-accordion/widgets/nested-accordion.php:483
+#: modules/nested-tabs/widgets/nested-tabs.php:495
+#: modules/nested-tabs/widgets/nested-tabs.php:554
+#: modules/nested-tabs/widgets/nested-tabs.php:638
+#: modules/nested-tabs/widgets/nested-tabs.php:1029
+msgid "Border Color"
+msgstr "Reunaviivan väri"
+
+#: includes/widgets/accordion.php:125
+msgid "Accordion Content"
+msgstr "Haitarin sisältö"
+
+#: includes/widgets/accordion.php:112
+msgid "Accordion Title"
+msgstr "Haitarin otsikko"
+
+#: includes/widgets/accordion.php:152
+msgid "Accordion #2"
+msgstr "Haitari #2"
+
+#: includes/widgets/accordion.php:148
+msgid "Accordion #1"
+msgstr "Haitari #1"
+
+#: includes/widgets/accordion.php:143
+msgid "Accordion Items"
+msgstr "Haitarin osat"
+
+#: includes/widgets/accordion.php:46 includes/widgets/accordion.php:101
+#: includes/widgets/accordion.php:260
+#: modules/nested-accordion/widgets/nested-accordion.php:36
+#: modules/nested-accordion/widgets/nested-accordion.php:371
+msgid "Accordion"
+msgstr "Haitari"
+
+#: core/admin/admin-notices.php:236
+msgid "Sure! I'd love to help"
+msgstr "Tottakai! Autan mielelläni"
+
+#: modules/system-info/module.php:204
+msgid "You don't have permissions to download this file"
+msgstr "Sinulla ei ole oikeutta ladata tätä tiedostoa"
+
+#: modules/system-info/module.php:162 modules/system-info/module.php:186
+msgid "Download System Info"
+msgstr "Lataa järjestelmätiedot"
+
+#: modules/system-info/module.php:168
+msgid "You can copy the below info as simple text with Ctrl+C / Ctrl+V:"
+msgstr "Voit kopioida alla olevat tiedot yksinkertaisesti komennoilla Ctrl+C / Ctrl+V:"
+
+#: modules/system-info/module.php:166
+msgid "Copy & Paste Info"
+msgstr "Kopioi & liitä tiedot"
+
+#: core/common/modules/finder/categories/general.php:55
+#: modules/system-info/module.php:159
+#: modules/system-info/system-info-menu-item.php:29
+#: modules/system-info/system-info-menu-item.php:33
+msgid "System Info"
+msgstr "Järjestelmän tiedot"
+
+#: includes/editor-templates/templates.php:109
+#: includes/widgets/testimonial.php:131 includes/widgets/testimonial.php:321
+msgid "Name"
+msgstr "Nimi"
+
+#: includes/controls/switcher.php:73 includes/managers/icons.php:475
+#: includes/widgets/audio.php:127 includes/widgets/image-carousel.php:157
+#: includes/widgets/image-carousel.php:333
+#: includes/widgets/image-carousel.php:391
+#: includes/widgets/image-carousel.php:405
+#: includes/widgets/image-carousel.php:423
+#: includes/widgets/image-carousel.php:455
+#: includes/widgets/image-gallery.php:154 includes/widgets/image.php:230
+#: modules/nested-accordion/widgets/nested-accordion.php:287
+msgid "No"
+msgstr "Ei"
+
+#: includes/controls/switcher.php:74 includes/managers/icons.php:476
+#: includes/widgets/audio.php:126 includes/widgets/image-carousel.php:158
+#: includes/widgets/image-carousel.php:332
+#: includes/widgets/image-carousel.php:390
+#: includes/widgets/image-carousel.php:404
+#: includes/widgets/image-carousel.php:422
+#: includes/widgets/image-carousel.php:454
+#: includes/widgets/image-gallery.php:153 includes/widgets/image.php:229
+#: modules/nested-accordion/widgets/nested-accordion.php:286
+#: assets/js/app.js:9673
+msgid "Yes"
+msgstr "Kyllä"
+
+#: core/role-manager/role-manager.php:56
+msgid "Exclude Roles"
+msgstr "Sulje pois roolit"
+
+#: includes/settings/settings.php:238
+msgid "Post Types"
+msgstr "Artikkelityypit"
+
+#: core/base/document.php:1747
+#: core/common/modules/finder/categories/settings.php:50
+msgid "General Settings"
+msgstr "Yleiset asetukset"
+
+#: core/kits/documents/tabs/global-colors.php:92
+#: core/kits/documents/tabs/global-typography.php:149
+msgid "Accent"
+msgstr "Korostus"
+
+#: core/kits/documents/tabs/global-colors.php:87
+#: core/kits/documents/tabs/global-typography.php:142
+#: includes/widgets/divider.php:483 includes/widgets/divider.php:510
+#: includes/widgets/divider.php:700 includes/widgets/icon-list.php:120
+#: includes/widgets/icon-list.php:605
+#: includes/widgets/traits/button-trait.php:59
+#: modules/shapes/widgets/text-path.php:94
+#: modules/shapes/widgets/text-path.php:289
+msgid "Text"
+msgstr "Teksti"
+
+#: core/kits/documents/tabs/global-colors.php:82
+#: core/kits/documents/tabs/global-typography.php:135
+msgid "Secondary"
+msgstr "Toissijainen"
+
+#: core/kits/documents/tabs/global-colors.php:77
+#: core/kits/documents/tabs/global-typography.php:128
+msgid "Primary"
+msgstr "Ensisijainen"
+
+#: includes/managers/elements.php:331
+msgid "WordPress"
+msgstr "WordPress"
+
+#: includes/widgets/image-carousel.php:166
+#: includes/widgets/image-carousel.php:507
+msgid "Navigation"
+msgstr "Navigaatio"
+
+#: includes/managers/elements.php:285
+msgid "Basic"
+msgstr "Perus"
+
+#: includes/elements/container.php:1753 includes/elements/section.php:1360
+msgid "Visibility"
+msgstr "Näkyvyys"
+
+#: includes/widgets/video.php:946
+msgid "Content Position"
+msgstr "Sisällön sijainti"
+
+#: includes/elements/column.php:189 includes/elements/section.php:427
+#: includes/elements/section.php:450 includes/widgets/icon-box.php:250
+#: includes/widgets/image-box.php:237
+msgid "Middle"
+msgstr "Keskellä"
+
+#: includes/controls/groups/flex-container.php:145
+#: includes/controls/groups/flex-item.php:76
+#: includes/controls/groups/grid-container.php:147
+#: includes/controls/groups/grid-container.php:175
+#: includes/elements/section.php:425 includes/widgets/tabs.php:202
+#: includes/widgets/tabs.php:232
+#: modules/nested-accordion/widgets/nested-accordion.php:162
+#: modules/nested-tabs/widgets/nested-tabs.php:229
+#: modules/nested-tabs/widgets/nested-tabs.php:271
+msgid "Stretch"
+msgstr "Venytä"
+
+#: includes/elements/section.php:421
+msgid "Column Position"
+msgstr "Sarakkeen sijainti"
+
+#: includes/elements/section.php:347 includes/elements/section.php:396
+msgid "Minimum Height"
+msgstr "Minimikorkeus"
+
+#: includes/elements/container.php:540 includes/elements/section.php:337
+#: includes/elements/section.php:386
+msgid "Min Height"
+msgstr "Min. korkeus"
+
+#: includes/elements/section.php:336 includes/elements/section.php:385
+msgid "Fit To Screen"
+msgstr "Sovita näyttöön"
+
+#: includes/controls/image-dimensions.php:100
+#: includes/elements/container.php:1249 includes/elements/section.php:331
+#: includes/elements/section.php:380 includes/elements/section.php:1036
+#: includes/widgets/google-maps.php:167 includes/widgets/icon-list.php:341
+#: includes/widgets/image.php:330 includes/widgets/progress.php:234
+msgid "Height"
+msgstr "Korkeus"
+
+#: includes/elements/section.php:288
+msgid "Wide"
+msgstr "Leveä"
+
+#: includes/elements/section.php:286
+msgid "Narrow"
+msgstr "Kapea"
+
+#: includes/elements/section.php:285
+msgid "No Gap"
+msgstr "Ei väliä"
+
+#: includes/elements/section.php:280 includes/widgets/text-editor.php:149
+msgid "Columns Gap"
+msgstr "Sarakkeiden väli"
+
+#: core/kits/documents/tabs/settings-layout.php:55
+#: includes/elements/container.php:438 includes/elements/section.php:245
+#: includes/widgets/video.php:926
+msgid "Content Width"
+msgstr "Sisällön leveys"
+
+#: includes/elements/container.php:443 includes/elements/section.php:250
+#: includes/widgets/common.php:225 includes/widgets/icon-list.php:194
+msgid "Full Width"
+msgstr "Täysi leveys"
+
+#: includes/controls/groups/background.php:453
+#: includes/controls/image-dimensions.php:95
+#: includes/elements/container.php:452 includes/elements/container.php:1220
+#: includes/elements/section.php:259 includes/elements/section.php:1007
+#: includes/widgets/common.php:220 includes/widgets/common.php:242
+#: includes/widgets/divider.php:421 includes/widgets/icon-list.php:322
+#: includes/widgets/image-box.php:323 includes/widgets/image.php:260
+#: modules/nested-tabs/widgets/nested-tabs.php:295
+#: modules/shapes/widgets/text-path.php:523
+#: modules/shapes/widgets/text-path.php:588
+msgid "Width"
+msgstr "Leveys"
+
+#: core/kits/documents/tabs/settings-layout.php:24
+#: includes/elements/column.php:113 includes/elements/container.php:1337
+#: includes/elements/section.php:227 includes/managers/controls.php:321
+#: includes/managers/elements.php:281 includes/widgets/common.php:175
+#: includes/widgets/icon-list.php:95
+#: modules/nested-accordion/widgets/nested-accordion.php:87
+#: assets/js/editor.js:36055
+msgid "Layout"
+msgstr "Asettelu"
+
+#: includes/elements/column.php:156
+msgid "Column Width"
+msgstr "Sarakkeen leveys"
+
+#: includes/elements/column.php:807 includes/elements/container.php:1658
+#: includes/elements/section.php:1262 includes/widgets/common.php:595
+msgid "CSS Classes"
+msgstr "CSS-luokat "
+
+#: core/document-types/page-base.php:141
+#: core/kits/documents/tabs/theme-style-buttons.php:243
+#: core/kits/documents/tabs/theme-style-form-fields.php:158
+#: includes/elements/column.php:765 includes/elements/container.php:1357
+#: includes/elements/section.php:1220 includes/widgets/accordion.php:381
+#: includes/widgets/accordion.php:522 includes/widgets/common.php:205
+#: includes/widgets/divider.php:830 includes/widgets/icon-box.php:442
+#: includes/widgets/icon.php:334 includes/widgets/social-icons.php:403
+#: includes/widgets/toggle.php:399 includes/widgets/toggle.php:540
+#: includes/widgets/traits/button-trait.php:410
+#: modules/nested-accordion/widgets/nested-accordion.php:442
+#: modules/nested-accordion/widgets/nested-accordion.php:510
+#: modules/nested-tabs/widgets/nested-tabs.php:676
+#: modules/nested-tabs/widgets/nested-tabs.php:1064
+msgid "Padding"
+msgstr "Sisämarginaali"
+
+#: core/document-types/page-base.php:129 includes/elements/column.php:746
+#: includes/elements/container.php:1345 includes/elements/section.php:1201
+#: includes/widgets/common.php:193
+msgid "Margin"
+msgstr "Marginaali"
+
+#: includes/base/element-base.php:1251 includes/base/element-base.php:1279
+#: includes/controls/groups/flex-container.php:209
+#: includes/elements/column.php:217 includes/elements/column.php:713
+#: includes/elements/section.php:1169 includes/widgets/common.php:312
+#: includes/widgets/divider.php:456 includes/widgets/divider.php:752
+#: includes/widgets/divider.php:892 includes/widgets/heading.php:187
+#: includes/widgets/icon-box.php:278 includes/widgets/icon-list.php:246
+#: includes/widgets/icon-list.php:528 includes/widgets/icon-list.php:559
+#: includes/widgets/icon.php:174 includes/widgets/image-box.php:265
+#: includes/widgets/image-carousel.php:678
+#: includes/widgets/image-carousel.php:778
+#: includes/widgets/image-gallery.php:293 includes/widgets/image.php:142
+#: includes/widgets/image.php:557 includes/widgets/rating.php:194
+#: includes/widgets/social-icons.php:304 includes/widgets/star-rating.php:201
+#: includes/widgets/tabs.php:194 includes/widgets/tabs.php:224
+#: includes/widgets/tabs.php:398 includes/widgets/testimonial.php:193
+#: includes/widgets/text-editor.php:196
+#: includes/widgets/traits/button-trait.php:125 includes/widgets/video.php:950
+#: modules/nested-accordion/widgets/nested-accordion.php:154
+#: modules/nested-tabs/widgets/nested-tabs.php:221
+#: modules/nested-tabs/widgets/nested-tabs.php:263
+#: modules/nested-tabs/widgets/nested-tabs.php:333
+#: modules/shapes/widgets/text-path.php:165
+msgid "Center"
+msgstr "Keskitetty"
+
+#: includes/elements/column.php:705 includes/elements/section.php:1161
+msgid "Text Align"
+msgstr "Tekstin tasaus"
+
+#: includes/elements/column.php:693 includes/elements/section.php:1149
+msgid "Link Hover Color"
+msgstr "Linkin väri osoitettaessa"
+
+#: includes/elements/column.php:681 includes/elements/section.php:1137
+msgid "Link Color"
+msgstr "Linkin väri"
+
+#: core/kits/documents/tabs/theme-style-typography.php:19
+#: core/kits/documents/tabs/theme-style-typography.php:38
+#: includes/controls/groups/typography.php:335 includes/elements/column.php:647
+#: includes/elements/section.php:1104 assets/js/editor-modules.js:1439
+#: assets/js/editor.js:41472
+msgid "Typography"
+msgstr "Typografia"
+
+#: includes/controls/gaps.php:58
+#: includes/controls/groups/grid-container.php:119
+#: includes/elements/column.php:60
+msgid "Column"
+msgstr "Sarake"
+
+#: includes/elements/section.php:78 modules/library/documents/section.php:43
+#: assets/js/container-converter.js:99 assets/js/editor.js:10029
+msgid "Section"
+msgstr "Osa"
+
+#: core/kits/documents/tabs/settings-lightbox.php:163
+#: core/kits/documents/tabs/theme-style-buttons.php:98
+#: core/kits/documents/tabs/theme-style-buttons.php:173
+#: core/kits/documents/tabs/theme-style-form-fields.php:175
+#: core/kits/documents/tabs/theme-style-typography.php:56
+#: includes/elements/column.php:669 includes/elements/section.php:1125
+#: includes/widgets/alert.php:259 includes/widgets/alert.php:299
+#: includes/widgets/counter.php:232 includes/widgets/counter.php:283
+#: includes/widgets/heading.php:228 includes/widgets/image-carousel.php:800
+#: includes/widgets/image-gallery.php:318 includes/widgets/image.php:579
+#: includes/widgets/progress.php:306 includes/widgets/star-rating.php:236
+#: includes/widgets/testimonial.php:231 includes/widgets/testimonial.php:329
+#: includes/widgets/testimonial.php:374 includes/widgets/text-editor.php:217
+#: includes/widgets/traits/button-trait.php:277
+#: includes/widgets/traits/button-trait.php:321
+msgid "Text Color"
+msgstr "Tekstin väri"
+
+#: includes/editor-templates/hotkeys.php:128
+#: includes/editor-templates/navigator.php:20
+#: includes/editor-templates/panel.php:87
+#: includes/editor-templates/panel.php:93 includes/elements/section.php:531
+#: includes/elements/section.php:539 assets/js/editor.js:30639
+#: assets/js/packages/editor-app-bar/editor-app-bar.js:1190
+#: assets/js/packages/editor-app-bar/editor-app-bar.strings.js:8
+msgid "Structure"
+msgstr "Rakenne"
+
+#: includes/elements/column.php:900 includes/elements/container.php:1745
+#: includes/elements/section.php:1336 includes/managers/controls.php:320
+#: includes/widgets/common.php:1131
+msgid "Responsive"
+msgstr "Responsiivinen"
+
+#: core/common/modules/finder/categories/settings.php:55
+#: core/dynamic-tags/tag.php:88 includes/elements/column.php:737
+#: includes/elements/section.php:1193 includes/managers/controls.php:319
+#: includes/settings/settings.php:296 assets/js/editor.js:9294
+#: assets/js/editor.js:36052
+msgid "Advanced"
+msgstr "Edistynyt"
+
+#: includes/managers/controls.php:318 includes/widgets/divider.php:363
+#: includes/widgets/icon-list.php:275 assets/js/ai-admin.js:5764
+#: assets/js/ai.js:6024 assets/js/editor.js:9291 assets/js/editor.js:36049
+msgid "Style"
+msgstr "Tyyli"
+
+#: includes/managers/controls.php:317 includes/widgets/accordion.php:123
+#: includes/widgets/accordion.php:470 includes/widgets/alert.php:126
+#: includes/widgets/icon-box.php:530 includes/widgets/image-box.php:475
+#: includes/widgets/tabs.php:119 includes/widgets/tabs.php:418
+#: includes/widgets/testimonial.php:95 includes/widgets/testimonial.php:223
+#: includes/widgets/toggle.php:123 includes/widgets/toggle.php:488
+#: modules/nested-accordion/widgets/nested-accordion.php:461
+#: modules/nested-tabs/widgets/nested-tabs.php:1003 assets/js/app.js:11044
+#: assets/js/app.js:11537 assets/js/editor.js:36046
+msgid "Content"
+msgstr "Sisältö"
+
+#: includes/controls/groups/grid-container.php:42
+#: includes/widgets/image-gallery.php:118 includes/widgets/social-icons.php:271
+#: includes/widgets/text-editor.php:136
+msgid "Columns"
+msgstr "Sarakkeet"
+
+#: includes/controls/image-dimensions.php:102
+#: includes/editor-templates/panel.php:175
+#: modules/history/views/revisions-panel-template.php:14
+#: assets/js/editor.js:9937 assets/js/editor.js:37201
+msgid "Apply"
+msgstr "Käytä"
+
+#: modules/history/views/revisions-panel-template.php:11
+#: assets/js/editor.js:5007 assets/js/editor.js:43583
+msgid "Discard"
+msgstr "Hylkää"
+
+#: includes/controls/structure.php:65
+msgid "Reset"
+msgstr "Palauta"
+
+#: core/editor/loader/v1/templates/editor-body-v1.view.php:31
+#: core/editor/loader/v2/templates/editor-body-v2.view.php:33
+#: includes/editor-templates/templates.php:172
+msgid "Preview"
+msgstr "Esikatsele"
+
+#: includes/editor-templates/hotkeys.php:82
+#: includes/editor-templates/templates.php:18
+#: includes/editor-templates/templates.php:19
+#: includes/editor-templates/templates.php:217
+#: includes/editor-templates/templates.php:228 assets/js/editor.js:5006
+#: assets/js/editor.js:43582 assets/js/kit-elements-defaults-editor.js:615
+msgid "Save"
+msgstr "Tallenna"
+
+#: core/admin/admin.php:614 core/admin/menu/main.php:41
+#: assets/js/packages/editor-app-bar/editor-app-bar.js:1039
+#: assets/js/packages/editor-app-bar/editor-app-bar.strings.js:2
+msgid "Help"
+msgstr "Apua"
+
+#: core/settings/editor-preferences/model.php:134
+#: assets/js/kit-library.b4cf9f541e44f7bbc972.bundle.js:4287
+msgid "Tablet"
+msgstr "Tabletti"
+
+#: core/settings/editor-preferences/model.php:135
+#: includes/base/element-base.php:1311 includes/editor-templates/panel.php:266
+#: assets/js/kit-library.b4cf9f541e44f7bbc972.bundle.js:4280
+#: assets/js/packages/editor-responsive/editor-responsive.js:203
+#: assets/js/packages/editor-responsive/editor-responsive.strings.js:1
+msgid "Desktop"
+msgstr "Desktop"
+
+#: includes/editor-templates/hotkeys.php:177
+#: includes/editor-templates/panel.php:101
+#: includes/editor-templates/panel.php:104
+msgid "Responsive Mode"
+msgstr "Responsiivinen tila"
+
+#: includes/editor-templates/panel.php:75
+#: includes/editor-templates/panel.php:76
+msgid "Widgets Panel"
+msgstr "Vimpainpaneeli"
+
+#: includes/editor-templates/panel.php:70
+#: includes/editor-templates/panel.php:71
+msgid "Menu"
+msgstr "Valikko"
+
+#: includes/editor-templates/panel-elements.php:53
+msgid "Search Widget..."
+msgstr "Hakuvimpain..."
+
+#: includes/editor-templates/global.php:35
+msgid "Add New Section"
+msgstr "Lisää uusi osa"
+
+#: core/admin/admin.php:240
+#: core/editor/loader/v1/templates/editor-body-v1.view.php:23
+#: core/editor/loader/v2/templates/editor-body-v2.view.php:23
+#: includes/editor-templates/templates.php:50 modules/gutenberg/module.php:123
+#: assets/js/ai-admin.js:1521 assets/js/ai.js:1649
+#: assets/js/app-packages.js:5312
+#: assets/js/kit-library.b4cf9f541e44f7bbc972.bundle.js:236
+#: assets/js/onboarding.d1f3b86a6e269191f707.bundle.js:46
+msgid "Loading"
+msgstr "Lataa"
+
+#. Plugin Name of the plugin
+#: app/view.php:23 core/admin/admin.php:290 core/admin/admin.php:402
+#: core/admin/admin.php:480 core/admin/menu/main.php:17
+#: core/admin/menu/main.php:18 core/documents-manager.php:381
+#: core/upgrade/custom-tasks-manager.php:29 core/upgrade/manager.php:43
+#: includes/plugin.php:885
+#: includes/settings/admin-menu-items/admin-menu-item.php:27
+#: includes/settings/admin-menu-items/admin-menu-item.php:31
+#: includes/settings/settings.php:82 includes/settings/settings.php:83
+#: includes/settings/settings.php:390 modules/compatibility-tag/module.php:36
+#: assets/js/app-packages.js:1821 assets/js/app.js:2697
+msgid "Elementor"
+msgstr "Elementor"
+
+#: core/kits/views/trash-kit-confirmation.php:30
+#: includes/editor-templates/hotkeys.php:67
+#: includes/editor-templates/templates.php:185 assets/js/editor.js:10164
+#: assets/js/editor.js:27297 assets/js/editor.js:29810
+#: assets/js/editor.js:46394 assets/js/import-export-admin.js:287
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.js:924
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.js:957
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:18
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:23
+msgid "Delete"
+msgstr "Poista"
+
+#: includes/controls/icon.php:876 includes/controls/icon.php:877
+msgid "Select Icon"
+msgstr "Valitse kuvake"
+
+#: core/kits/manager.php:139 includes/controls/groups/background.php:282
+#: includes/controls/groups/background.php:441
+#: includes/controls/groups/flex-item.php:24
+#: includes/controls/groups/flex-item.php:102
+#: includes/controls/groups/flex-item.php:151
+#: includes/controls/groups/image-size.php:378
+#: includes/elements/section.php:290 includes/maintenance-mode.php:238
+#: includes/widgets/common.php:137 includes/widgets/common.php:227
+#: includes/widgets/common.php:953 includes/widgets/common.php:1014
+#: includes/widgets/image-carousel.php:702
+#: includes/widgets/image-gallery.php:201 includes/widgets/social-icons.php:189
+#: includes/widgets/social-icons.php:347 modules/shapes/module.php:29
+#: assets/js/editor.js:44152
+msgid "Custom"
+msgstr "Mukauta"
+
+#: includes/elements/container.php:442 includes/elements/section.php:249
+msgid "Boxed"
+msgstr "Rajattu"
+
+#: includes/elements/column.php:656 includes/elements/section.php:1112
+msgid "Heading Color"
+msgstr "Otsikon väri"
+
+#: includes/controls/groups/typography.php:165
+msgctxt "Typography Control"
+msgid "Style"
+msgstr "Tyyli"
+
+#: includes/controls/groups/border.php:67 includes/widgets/divider.php:322
+#: includes/widgets/icon-list.php:280
+msgid "Dotted"
+msgstr "Pisteviiva"
+
+#: includes/controls/groups/border.php:66 includes/widgets/divider.php:321
+#: includes/widgets/icon-list.php:279
+msgid "Double"
+msgstr "Kaksoisviiva"
+
+#: includes/controls/groups/border.php:65 includes/widgets/divider.php:320
+#: includes/widgets/icon-list.php:278 includes/widgets/star-rating.php:166
+msgid "Solid"
+msgstr "Yhtenäinen viiva"
+
+#: includes/widgets/accordion.php:163 includes/widgets/alert.php:188
+#: includes/widgets/audio.php:251 includes/widgets/counter.php:213
+#: includes/widgets/divider.php:501 includes/widgets/divider.php:798
+#: includes/widgets/google-maps.php:189 includes/widgets/heading.php:209
+#: includes/widgets/icon-box.php:108 includes/widgets/icon.php:123
+#: includes/widgets/image-box.php:182 includes/widgets/image-carousel.php:359
+#: includes/widgets/image-gallery.php:178 includes/widgets/image.php:241
+#: includes/widgets/progress.php:190 includes/widgets/social-icons.php:323
+#: includes/widgets/spacer.php:133 includes/widgets/tabs.php:162
+#: includes/widgets/testimonial.php:211 includes/widgets/text-editor.php:263
+#: includes/widgets/toggle.php:166 includes/widgets/traits/button-trait.php:203
+#: includes/widgets/video.php:595
+msgid "View"
+msgstr "Katso"
+
+#: includes/controls/repeater.php:176
+msgid "Add Item"
+msgstr "Lisää kohde"
+
+#: core/kits/documents/tabs/settings-lightbox.php:99
+#: core/kits/documents/tabs/settings-lightbox.php:116
+#: includes/controls/animation.php:153 includes/controls/groups/border.php:64
+#: includes/controls/groups/flex-item.php:139
+#: includes/controls/hover-animation.php:125 includes/controls/icons.php:108
+#: includes/controls/icons.php:194 includes/elements/container.php:1172
+#: includes/elements/section.php:959 includes/widgets/divider.php:479
+#: includes/widgets/image-carousel.php:173
+#: includes/widgets/image-carousel.php:296
+#: includes/widgets/image-carousel.php:348
+#: includes/widgets/image-gallery.php:134 includes/widgets/image.php:162
+#: includes/widgets/image.php:193 includes/widgets/video.php:563
+#: modules/nested-tabs/widgets/nested-tabs.php:389 assets/js/ai-admin.js:6436
+#: assets/js/ai-admin.js:6442 assets/js/ai-admin.js:6452
+#: assets/js/ai-admin.js:6463 assets/js/ai-admin.js:6474
+#: assets/js/ai-admin.js:6490 assets/js/ai.js:6696 assets/js/ai.js:6702
+#: assets/js/ai.js:6712 assets/js/ai.js:6723 assets/js/ai.js:6734
+#: assets/js/ai.js:6750
+msgid "None"
+msgstr "Ei mitään"
+
+#: includes/controls/groups/background.php:411
+msgctxt "Background Control"
+msgid "Repeat"
+msgstr "Toista"
+
+#: includes/controls/groups/background.php:387
+msgctxt "Background Control"
+msgid "Fixed"
+msgstr "Kiinteä"
+
+#: includes/base/element-base.php:1255 includes/controls/dimensions.php:83
+#: includes/elements/column.php:717 includes/elements/container.php:1417
+#: includes/elements/section.php:1173 includes/widgets/common.php:357
+#: includes/widgets/common.php:358 includes/widgets/divider.php:460
+#: includes/widgets/divider.php:756 includes/widgets/divider.php:896
+#: includes/widgets/heading.php:191 includes/widgets/icon-box.php:228
+#: includes/widgets/icon-box.php:282 includes/widgets/icon-list.php:250
+#: includes/widgets/icon-list.php:532 includes/widgets/icon.php:178
+#: includes/widgets/image-box.php:214 includes/widgets/image-box.php:269
+#: includes/widgets/image-carousel.php:497
+#: includes/widgets/image-carousel.php:782
+#: includes/widgets/image-gallery.php:297 includes/widgets/image.php:146
+#: includes/widgets/image.php:561 includes/widgets/social-icons.php:308
+#: includes/widgets/star-rating.php:205 includes/widgets/tabs.php:402
+#: includes/widgets/testimonial.php:197 includes/widgets/text-editor.php:200
+#: includes/widgets/traits/button-trait.php:129
+#: modules/shapes/widgets/text-path.php:169
+msgid "Right"
+msgstr "Oikea reuna"
+
+#: includes/fonts.php:76
+msgid "Google"
+msgstr "Google"
+
+#: includes/fonts.php:71
+msgid "System"
+msgstr "Järjestelmä"
+
+#: core/kits/documents/tabs/theme-style-typography.php:115
+#: includes/elements/container.php:655 includes/widgets/audio.php:103
+#: includes/widgets/heading.php:127 includes/widgets/icon-box.php:172
+#: includes/widgets/icon-list.php:147 includes/widgets/icon.php:155
+#: includes/widgets/image-box.php:150 includes/widgets/image-carousel.php:292
+#: includes/widgets/image-carousel.php:306
+#: includes/widgets/image-gallery.php:128 includes/widgets/image.php:189
+#: includes/widgets/image.php:203 includes/widgets/social-icons.php:170
+#: includes/widgets/testimonial.php:155
+#: includes/widgets/traits/button-trait.php:102 includes/widgets/video.php:127
+#: includes/widgets/video.php:152 includes/widgets/video.php:176
+#: modules/shapes/widgets/text-path.php:142
+msgid "Link"
+msgstr "Linkki"
+
+#: includes/base/element-base.php:1283 includes/controls/dimensions.php:84
+#: includes/elements/column.php:190 includes/elements/container.php:1181
+#: includes/elements/container.php:1538 includes/elements/section.php:428
+#: includes/elements/section.php:451 includes/elements/section.php:968
+#: includes/widgets/common.php:476 includes/widgets/icon-box.php:254
+#: includes/widgets/image-box.php:241
+msgid "Bottom"
+msgstr "Alareuna"
+
+#: core/admin/admin.php:221 core/admin/admin.php:229 core/base/document.php:592
+#: modules/admin-bar/module.php:123 modules/gutenberg/module.php:101
+#: modules/gutenberg/module.php:112
+msgid "Edit with Elementor"
+msgstr "Muokkaa Elementorilla"
+
+#: modules/gutenberg/module.php:98
+msgid "&#8592; Back to WordPress Editor"
+msgstr "&#8592; Palaa WordPress-muokkaimeen"
+
+#: includes/base/element-base.php:1275 includes/controls/dimensions.php:82
+#: includes/elements/column.php:188 includes/elements/container.php:1180
+#: includes/elements/container.php:1534 includes/elements/section.php:426
+#: includes/elements/section.php:449 includes/elements/section.php:967
+#: includes/widgets/common.php:472 includes/widgets/icon-box.php:224
+#: includes/widgets/icon-box.php:246 includes/widgets/image-box.php:210
+#: includes/widgets/image-box.php:233 includes/widgets/testimonial.php:171
+#: includes/widgets/video.php:951
+msgid "Top"
+msgstr "Yläreuna"
+
+#: includes/base/element-base.php:1247 includes/controls/dimensions.php:85
+#: includes/elements/column.php:709 includes/elements/container.php:1416
+#: includes/elements/section.php:1165 includes/widgets/common.php:357
+#: includes/widgets/common.php:358 includes/widgets/divider.php:452
+#: includes/widgets/divider.php:748 includes/widgets/divider.php:888
+#: includes/widgets/heading.php:183 includes/widgets/icon-box.php:220
+#: includes/widgets/icon-box.php:274 includes/widgets/icon-list.php:242
+#: includes/widgets/icon-list.php:524 includes/widgets/icon.php:170
+#: includes/widgets/image-box.php:206 includes/widgets/image-box.php:261
+#: includes/widgets/image-carousel.php:496
+#: includes/widgets/image-carousel.php:774
+#: includes/widgets/image-gallery.php:289 includes/widgets/image.php:138
+#: includes/widgets/image.php:553 includes/widgets/social-icons.php:300
+#: includes/widgets/star-rating.php:197 includes/widgets/tabs.php:394
+#: includes/widgets/testimonial.php:189 includes/widgets/text-editor.php:192
+#: includes/widgets/traits/button-trait.php:121
+#: modules/shapes/widgets/text-path.php:161
+msgid "Left"
+msgstr "Vasen"
+
+#: core/experiments/manager.php:459
+#: core/settings/editor-preferences/model.php:132
+#: includes/base/widget-base.php:281 includes/controls/animation.php:152
+#: includes/controls/font.php:66 includes/controls/groups/background.php:272
+#: includes/controls/groups/background.php:385
+#: includes/controls/groups/background.php:416
+#: includes/controls/groups/background.php:437
+#: includes/controls/groups/background.php:648
+#: includes/controls/groups/background.php:667
+#: includes/controls/groups/border.php:63
+#: includes/controls/groups/flex-container.php:208
+#: includes/controls/groups/flex-item.php:23
+#: includes/controls/groups/typography.php:145
+#: includes/controls/groups/typography.php:156
+#: includes/controls/groups/typography.php:169
+#: includes/controls/groups/typography.php:181
+#: includes/editor-templates/panel.php:237 includes/elements/column.php:187
+#: includes/elements/column.php:215 includes/elements/column.php:255
+#: includes/elements/container.php:605 includes/elements/container.php:628
+#: includes/elements/container.php:1404 includes/elements/section.php:284
+#: includes/elements/section.php:335 includes/elements/section.php:384
+#: includes/elements/section.php:448 includes/elements/section.php:476
+#: includes/elements/section.php:512 includes/settings/settings.php:359
+#: includes/widgets/common.php:224 includes/widgets/common.php:347
+#: includes/widgets/divider.php:801 includes/widgets/heading.php:146
+#: includes/widgets/icon-box.php:111 includes/widgets/icon-list.php:100
+#: includes/widgets/icon.php:126 includes/widgets/image-carousel.php:122
+#: includes/widgets/image-carousel.php:140
+#: includes/widgets/image-carousel.php:331
+#: includes/widgets/image-carousel.php:701
+#: includes/widgets/image-gallery.php:152
+#: includes/widgets/image-gallery.php:168
+#: includes/widgets/image-gallery.php:200 includes/widgets/image.php:228
+#: includes/widgets/image.php:358 includes/widgets/progress.php:136
+#: includes/widgets/text-editor.php:131 includes/widgets/text-editor.php:266
+#: includes/widgets/traits/button-trait.php:74
+#: modules/page-templates/module.php:296
+#: modules/shapes/widgets/text-path.php:187 assets/js/editor.js:44144
+#: assets/js/editor.js:44155
+msgid "Default"
+msgstr "Oletus"
+
+#: includes/controls/groups/typography.php:132
+msgctxt "Typography Control"
+msgid "Weight"
+msgstr "Vahvuus"
+
+#: includes/controls/groups/typography.php:106
+msgctxt "Typography Control"
+msgid "Family"
+msgstr "Kirjasinperhe"
+
+#: includes/controls/groups/typography.php:113
+msgctxt "Typography Control"
+msgid "Size"
+msgstr "Koko"
+
+#: includes/controls/groups/border.php:68 includes/widgets/divider.php:323
+#: includes/widgets/icon-list.php:281
+msgid "Dashed"
+msgstr "Katkoviiva"
+
+#: includes/controls/groups/background.php:386
+msgctxt "Background Control"
+msgid "Scroll"
+msgstr "Vieritä"
+
+#: includes/controls/groups/background.php:381
+msgctxt "Background Control"
+msgid "Attachment"
+msgstr "Liite"
+
+#: includes/controls/groups/typography.php:152
+msgctxt "Typography Control"
+msgid "Transform"
+msgstr "Mukautus"
+
+#: includes/widgets/video.php:371
+msgid "Player Controls"
+msgstr "Soittimen hallinta"
+
+#: core/common/modules/finder/categories/site.php:64
+msgid "Themes"
+msgstr "Teemat"
+
+#: core/kits/documents/tabs/theme-style-typography.php:188
+msgid "H6"
+msgstr "H6"
+
+#: core/kits/documents/tabs/theme-style-typography.php:187
+msgid "H5"
+msgstr "H5"
+
+#: core/kits/documents/tabs/theme-style-typography.php:186
+msgid "H4"
+msgstr "H4"
+
+#: core/kits/documents/tabs/theme-style-typography.php:185
+msgid "H3"
+msgstr "H3"
+
+#: core/kits/documents/tabs/theme-style-typography.php:184
+msgid "H2"
+msgstr "H2"
+
+#: core/kits/documents/tabs/theme-style-typography.php:183
+msgid "H1"
+msgstr "H1"
+
+#: core/experiments/manager.php:461 core/experiments/manager.php:750
+msgid "Inactive"
+msgstr "Ei-aktiivinen"
+
+#: core/experiments/manager.php:460 core/experiments/manager.php:749
+#: modules/nested-accordion/widgets/nested-accordion.php:652
+#: modules/nested-accordion/widgets/nested-accordion.php:719
+#: modules/nested-tabs/widgets/nested-tabs.php:603
+#: modules/nested-tabs/widgets/nested-tabs.php:805
+#: modules/nested-tabs/widgets/nested-tabs.php:984
+msgid "Active"
+msgstr "Aktiivinen"
+
+#: core/breakpoints/manager.php:334
+msgid "Laptop"
+msgstr "Kannettava tietokone"
+
+#: core/breakpoints/manager.php:314
+msgid "Mobile Portrait"
+msgstr "Mobiili pystyssä"
+
+#: core/breakpoints/manager.php:319
+msgid "Mobile Landscape"
+msgstr "Mobiili vaakasuunnassa"

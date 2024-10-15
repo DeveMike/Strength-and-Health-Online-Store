@@ -1,0 +1,117 @@
+# Translation of Themes - Twenty Twenty-Two in Finnish
+# This file is distributed under the same license as the Themes - Twenty Twenty-Two package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-23 07:59:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: fi\n"
+"Project-Id-Version: Themes - Twenty Twenty-Two\n"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Alatunniste"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header (Dark, small)"
+msgstr "Otsake (Tumma, pieni)"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header (Dark, large)"
+msgstr "Otsake (Tumma, suuri)"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Otsake"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (No Separators)"
+msgstr "Sivu (ei erottimia)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Post (No Separators)"
+msgstr "Artikkeli (ei erottimia)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (Large Header)"
+msgstr "Sivu (suuri otsake)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Tyhjä"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and tertiary"
+msgstr "Ensimmäinen ja kolmas"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and secondary"
+msgstr "Ensimmäinen ja toinen"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and background"
+msgstr "Ensisijainen ja tausta"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and tertiary"
+msgstr "Etuala ja kolmas"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and secondary"
+msgstr "Etuala ja toinen"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and background"
+msgstr "Etuala ja tausta"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal background to tertiary"
+msgstr "Diagonaalinen tausta kolmanteen"
+
+#: inc/patterns/page-sidebar-poster.php:40
+msgid "Date"
+msgstr "Päivämäärä"
+
+#: inc/patterns/page-sidebar-poster.php:52
+msgid "Location"
+msgstr "Sijainti"
+
+#: inc/patterns/page-sidebar-blog-posts-right.php:80
+msgid "Tags"
+msgstr "Avainsanat"
+
+#: inc/patterns/page-layout-two-columns.php:58
+msgid "POSTS"
+msgstr "ARTIKKELIT"
+
+#: inc/patterns/page-layout-two-columns.php:21
+msgid "WELCOME"
+msgstr "TERVETULOA"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "the WordPress team"
+msgstr "WordPress-tiimi"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://wordpress.org/"
+msgstr "https://fi.wordpress.org/"

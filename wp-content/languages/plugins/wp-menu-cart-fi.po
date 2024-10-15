@@ -1,0 +1,248 @@
+# Translation of Plugins - Menu Cart for WooCommerce - Stable (latest release) in Finnish
+# This file is distributed under the same license as the Plugins - Menu Cart for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-11-25 21:17:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: fi\n"
+"Project-Id-Version: Plugins - Menu Cart for WooCommerce - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "www.wpovernight.com/"
+msgstr "www.wpovernight.com/"
+
+#. Author of the plugin/theme
+msgid "Jeremiah Prummer, Ewout Fernhout"
+msgstr "Jeremiah Prummer, Ewout Fernhout"
+
+#. Description of the plugin/theme
+msgid "Extension for WooCommerce that places a cart icon with number of items and total cost in the menu bar. Activate the plugin, set your options and you're ready to go! Will automatically conform to your theme styles."
+msgstr "WooCommercelle tehty laajennus joka sijoittaa valikkoon ostoskori kuvakkeen, tuotteiden lukumäärän ja yhteenlasketun hinnan. Ota lisäosa käyttöön, tee asetukset ja olet valmis! Mukautuu automaattisesti teeman tyyliin."
+
+#. Plugin URI of the plugin/theme
+msgid "www.wpovernight.com/plugins"
+msgstr "www.wpovernight.com/plugins"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Menu Cart"
+msgstr "WooCommerce Menu Cart (- Valikko ostoskori)"
+
+#: wp-menu-cart.php:414
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d tuote"
+msgstr[1] "%d tuotetta"
+
+#: wp-menu-cart.php:413
+msgid "Start shopping"
+msgstr "Aloita shoppailu"
+
+#: wp-menu-cart.php:412
+msgid "View your shopping cart"
+msgstr "Mene ostoskoriin"
+
+#: wp-menu-cart.php:199
+msgid "An old version of WooCommerce Menu Cart is currently activated, you need to disable or uninstall it for WP Menu Cart to function properly"
+msgstr "Käytössä on vanha versio WooCommerce Valikko ostoskorista (WooCommerce Menu Cart). Se on otettava pois käytöstä tai poistettava jotta WP Valikko ostoskori (WP Menu Cart) toimii oikein."
+
+#: wp-menu-cart.php:194
+msgid "Hide this notice"
+msgstr "Piilota tämä ilmoitus"
+
+#: wp-menu-cart.php:193
+msgid "WP Menu Cart Pro could not detect an active shop plugin. Make sure you have activated at least one of the supported plugins."
+msgstr "Valikko ostoskori Pro (WP Menu Cart Pro) ei havainnut käytössä olevaa ostoskoria. Tarkasta, että olet ottanut käyttöön ainakin yhden tuetuista lisäosista."
+
+#: includes/wpmenucart-settings.php:710
+msgid "Add to Menu"
+msgstr "Lisää valikkoon"
+
+#: includes/wpmenucart-settings.php:705
+msgid "Menu Item"
+msgstr "Valikon rivi"
+
+#: includes/wpmenucart-settings.php:642
+msgid "Additional icons are only available in"
+msgstr "Muut kuvakkeet ovat saatavissa vain "
+
+#: includes/wpmenucart-settings.php:442 includes/wpmenucart-settings.php:482
+#: includes/wpmenucart-settings.php:524 includes/wpmenucart-settings.php:563
+#: includes/wpmenucart-settings.php:600
+msgid "This feature only available in"
+msgstr "Tämä ominaisuus on vain "
+
+#: includes/wpmenucart-settings.php:373
+msgid "Customize my CSS!"
+msgstr "Mukauta tyyli !"
+
+#: includes/wpmenucart-settings.php:371
+msgid "We can do that for you! Just click the button below to check it out."
+msgstr "Voimme tehdä uuden CSS-tyylin juuri sinulle! Klikkaa alla olevaa painikkeesta lisätietoja."
+
+#: includes/wpmenucart-settings.php:369
+msgid "Want your CSS customized?"
+msgstr "Haluatko mukautetun tyylin valikko ostoskoriin?"
+
+#: includes/wpmenucart-settings.php:366
+msgid "Buy Now"
+msgstr "Osta nyt"
+
+#: includes/wpmenucart-settings.php:365
+msgid "Need to see more? %sClick here%s to check it out. Add a product to your cart and watch what happens!"
+msgstr "Haluatko nähdä lisää? %sPaina tästä%s ja tutustu. Lisää tuote ostoskoriin ja katso mitä tapahtuu !"
+
+#: includes/wpmenucart-settings.php:361
+msgid "Put the cart anywhere with the [wpmenucart] shortcode"
+msgstr "Sijoita ostoskori minne tahansa [wpmenucart]-lyhytkoodilla"
+
+#: includes/wpmenucart-settings.php:360
+msgid "Automatic updates on any great new features"
+msgstr "Hienojen uusien ominaisuuksien automaattinen päivitys"
+
+#: includes/wpmenucart-settings.php:359
+msgid "Ability to add a custom css class"
+msgstr "Voit lisätä mukautetun CSS-tyyliluokan"
+
+#: includes/wpmenucart-settings.php:358
+msgid "Ability to add cart + flyout to an <strong>unlimited</strong> amount of menus"
+msgstr "Voit sijoittaa ostoskorin ja pudotusikkunan <strong>rajattomaan</strong> määrään valikoita"
+
+#: includes/wpmenucart-settings.php:357
+msgid "A fully featured cart details flyout"
+msgstr "Täysin ominaisuuksin varustettu pudotusikkuna"
+
+#: includes/wpmenucart-settings.php:356
+msgid "A choice of 14 icons"
+msgstr "Valittavana 14 kuvaketta"
+
+#: includes/wpmenucart-settings.php:353
+msgid "Go Pro with Menu Cart Pro. Includes all the great standard features found in this free version plus:"
+msgstr "Hanki Menu Cart Pro. Se sisältää kaikki maksuttoman version ominaisuudet ja lisäksi:"
+
+#: includes/wpmenucart-settings.php:351
+msgid "Sell In Style With Menu Cart Pro!"
+msgstr "Myy tyylikkäästi Valikko ostoskori Pro:lla! (Menu Cart Pro)"
+
+#: includes/wpmenucart-settings.php:338
+msgid "Top Notch Support"
+msgstr "Ensiluokkainen tuki"
+
+#: includes/wpmenucart-settings.php:337
+msgid "Access to Shortcode"
+msgstr "Lyhytkoodit käytettävissä"
+
+#: includes/wpmenucart-settings.php:336
+msgid "Choice of 14 icons"
+msgstr "14 kuvaketta valittavana"
+
+#: includes/wpmenucart-settings.php:335
+msgid "Unlimited Menus"
+msgstr "Rajattomasti valikoita"
+
+#: includes/wpmenucart-settings.php:312
+msgid "WP Menu Cart"
+msgstr "WP Menu Cart (- Valikko ostoskori)"
+
+#: includes/wpmenucart-settings.php:259
+msgid "Settings"
+msgstr "Asetukset"
+
+#: includes/wpmenucart-settings.php:247
+msgid "Menu Cart Setup"
+msgstr "Valikko ostoskori"
+
+#: includes/wpmenucart-settings.php:246 includes/wpmenucart-settings.php:689
+msgid "Menu Cart"
+msgstr "Valikko ostoskori"
+
+#: includes/wpmenucart-settings.php:220
+msgid "Enable this option to use the built-in AJAX / live update functions instead of the default ones from WooCommerce or Jigoshop"
+msgstr "Ota tämä käyttöön kun haluat käyttää sisäänrakennettua AJAX-menetelmää jolla tosiaikainen päivitys. Silloin ei käytetä WooCommercen tai Jigoshopin oletustoimintoa. "
+
+#: includes/wpmenucart-settings.php:213
+msgid "Use Built-in AJAX"
+msgstr "Käytä sisäänrakennettua AJAX-menetelmää"
+
+#: includes/wpmenucart-settings.php:199
+msgid "Use WPML String Translation"
+msgstr "Käytä WPML merkkijono käännöstä (-String Translation)"
+
+#: includes/wpmenucart-settings.php:185
+msgid "Enter a custom CSS class (optional)"
+msgstr "Kirjoita mukautettu CSS-luokka (valinnainen) "
+
+#: includes/wpmenucart-settings.php:178
+msgid "Default Menu Alignment."
+msgstr "Oletus valikon tasaus"
+
+#: includes/wpmenucart-settings.php:177
+msgid "Align Right."
+msgstr "Tasaa oikealle"
+
+#: includes/wpmenucart-settings.php:176
+msgid "Align Left."
+msgstr "Tasaa vasemmalle"
+
+#: includes/wpmenucart-settings.php:168
+msgid "Select the alignment that looks best with your menu."
+msgstr "Valitse valikon tasaus joka näyttää parhaimmalta. "
+
+#: includes/wpmenucart-settings.php:161
+msgid "Both price and items."
+msgstr "Hinta & tuotteet"
+
+#: includes/wpmenucart-settings.php:160
+msgid "Price Only."
+msgstr "Vain hinta"
+
+#: includes/wpmenucart-settings.php:159
+msgid "Items Only."
+msgstr "Vain tuotteet"
+
+#: includes/wpmenucart-settings.php:151
+msgid "What would you like to display in the menu?"
+msgstr "Mitä valikossa näytetään?"
+
+#: includes/wpmenucart-settings.php:122
+msgid "Choose a cart icon."
+msgstr "Valitse ostoskorin kuvake"
+
+#: includes/wpmenucart-settings.php:96
+msgid "Set maximum number of products to display in fly-out"
+msgstr "Aseta pudotusikkunassa näytettävien tuotteiden määrälle yläraja"
+
+#: includes/wpmenucart-settings.php:83
+msgid "Display cart contents in menu fly-out."
+msgstr "Näytä ostoskorin sisältö pudotusikkunassa."
+
+#: includes/wpmenucart-settings.php:71
+msgid "Display shopping cart icon."
+msgstr "Näytä ostoskorin kuvake."
+
+#: includes/wpmenucart-settings.php:59
+msgid "Always display cart, even if it's empty"
+msgstr "Näytä aina ostoskori, myös tyhjänä"
+
+#: includes/wpmenucart-settings.php:46
+msgid "Select the menu(s) in which you want to display the Menu Cart"
+msgstr "Valitse valikko/valikot joissa haluat näyttää Valikko ostoskorin"
+
+#: includes/wpmenucart-settings.php:33
+msgid "Select which e-commerce plugin you would like Menu Cart to work with"
+msgstr "Valitse, minkä verkkokauppaohjelman kanssa Valikko ostoskori (Menu Cart) -lisäosaa käytetään"
+
+#: includes/wpmenucart-settings.php:26
+msgid "Plugin settings"
+msgstr "Lisäosan asetukset"
+
+#: includes/wpmenucart-eshop.php:40
+msgid "2"
+msgstr "2"
+
+#: includes/wpmenucart-eshop.php:40
+msgid "%1$s%2$s"
+msgstr "%1$s%2$s"

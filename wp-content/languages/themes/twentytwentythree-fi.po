@@ -1,0 +1,32 @@
+# Translation of Themes - Twenty Twenty-Three in Finnish
+# This file is distributed under the same license as the Themes - Twenty Twenty-Three package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-23 07:57:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: fi\n"
+"Project-Id-Version: Themes - Twenty Twenty-Three\n"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Alatunniste"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Otsake"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Tyhjä"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "the WordPress team"
+msgstr "WordPress-tiimi"

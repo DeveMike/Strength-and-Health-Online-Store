@@ -1,0 +1,782 @@
+# Translation of Themes - Twenty Twenty-Four in Finnish
+# This file is distributed under the same license as the Themes - Twenty Twenty-Four package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-11-10 08:37:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: fi\n"
+"Project-Id-Version: Themes - Twenty Twenty-Four\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Twenty Twenty-Four"
+msgstr "Twenty Twenty-Four"
+
+#: functions.php:199
+msgctxt "Block pattern category"
+msgid "Pages"
+msgstr "Sivut"
+
+#: functions.php:200
+msgid "A collection of full page layouts."
+msgstr "Kokoelma kokosivun ulkoasuja."
+
+#: patterns/posts-list.php
+msgctxt "Pattern title"
+msgid "List of posts without images, 1 column"
+msgstr "Lista artikkeleista ilman kuvia 1 sarakkeessa"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Alatunniste"
+
+#: functions.php:51
+msgid "Pill"
+msgstr "Pilleri"
+
+#: functions.php:28
+msgid "Arrow icon"
+msgstr "Nuolikuvake"
+
+#. Author URI of the theme
+#. Translators: WordPress link.
+#: patterns/footer-centered-logo-nav.php:21
+#: patterns/footer-colophon-3-col.php:90 patterns/footer.php:116
+msgid "https://wordpress.org"
+msgstr "https://fi.wordpress.org"
+
+#: patterns/banner-hero.php:36
+msgctxt "Button text of the hero section"
+msgid "About us"
+msgstr "Tietoa meistä"
+
+#: patterns/cta-pricing.php:86
+msgctxt "Button text for the first pricing level"
+msgid "Subscribe"
+msgstr "Tilaa"
+
+#: patterns/cta-pricing.php:41
+msgctxt "Sample price for the first pricing level"
+msgid "$0"
+msgstr "0 €"
+
+#: patterns/cta-pricing.php:36
+msgctxt "Sample heading for the first pricing level"
+msgid "Free"
+msgstr "Ilmainen"
+
+#: patterns/cta-pricing.php:17
+msgctxt "Sample heading for pricing pattern"
+msgid "Our Services"
+msgstr "Palvelumme"
+
+#: patterns/cta-pricing.php:10
+msgctxt "Name for the pricing pattern"
+msgid "Pricing Table"
+msgstr "Hintataulu"
+
+#: patterns/cta-pricing.php
+msgctxt "Pattern title"
+msgid "Pricing"
+msgstr "Hinnoittelu"
+
+#: patterns/cta-content-image-on-right.php:46
+msgctxt "Button text of this section"
+msgid "How it works"
+msgstr "Kuinka se toimii"
+
+#: patterns/cta-content-image-on-right.php:40
+msgctxt "Button text of this section"
+msgid "Download app"
+msgstr "Lataa appi"
+
+#: patterns/cta-content-image-on-right.php:27
+#: patterns/text-alternating-images.php:47
+msgctxt "Sample list item"
+msgid "Showcase your projects."
+msgstr "Esittele projektejasi."
+
+#: patterns/cta-rsvp.php:20 patterns/page-rsvp-landing.php:22
+msgctxt "Initials for ´please respond´"
+msgid "RSVP"
+msgstr "V.P."
+
+#: patterns/cta-pricing.php:161
+msgctxt "Sample price for the third pricing level"
+msgid "$28"
+msgstr "28 €"
+
+#: patterns/cta-pricing.php:103
+msgctxt "Sample price for the second pricing level"
+msgid "$12"
+msgstr "12 €"
+
+#: patterns/cta-pricing.php:156
+msgctxt "Sample heading for the third pricing level"
+msgid "Expert"
+msgstr "Ekspertti"
+
+#: patterns/cta-pricing.php:144
+msgctxt "Button text for the second pricing level"
+msgid "Subscribe"
+msgstr "Tilaa"
+
+#: patterns/cta-pricing.php:98
+msgctxt "Sample heading for the second pricing level"
+msgid "Connoisseur"
+msgstr "Konossööri"
+
+#: patterns/cta-pricing.php:202
+msgctxt "Button text for the third pricing level"
+msgid "Subscribe"
+msgstr "Tilaa"
+
+#: patterns/cta-rsvp.php:33 patterns/page-rsvp-landing.php:33
+msgctxt "Call to action button text for the reservation button"
+msgid "Reserve your spot"
+msgstr "Varaa paikkasi"
+
+#: patterns/cta-services-image-left.php:38
+msgctxt "Sample button text to view the services"
+msgid "Our services"
+msgstr "Palvelumme"
+
+#: patterns/footer.php:91
+msgid "Social Media"
+msgstr "Sosiaalinen media"
+
+#: patterns/footer.php:85
+msgid "Social"
+msgstr "Some"
+
+#: patterns/footer.php:40 patterns/footer.php:46
+msgid "About"
+msgstr "Tietoa"
+
+#: patterns/footer-colophon-3-col.php:81
+msgid "&copy;"
+msgstr "&copy;"
+
+#: patterns/footer-colophon-3-col.php:59
+msgid "Facebook"
+msgstr "Facebook"
+
+#: patterns/footer-colophon-3-col.php:59
+msgid "Instagram"
+msgstr "Instagram"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr "Sivupalkki"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr "6"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr "5"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr "4"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr "3"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr "2"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr "1"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Meta"
+msgstr "Artikkelin metatiedot"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page No Title"
+msgstr "Sivu ilman otsikkoa"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page With Sidebar"
+msgstr "Sivu sivupalkilla"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single with Sidebar"
+msgstr "Yksittäinen sivupalkilla"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page with wide Image"
+msgstr "Sivu leveällä kuvalla"
+
+#: styles/rust.json
+msgctxt "Style variation name"
+msgid "Rust"
+msgstr "Ruoste"
+
+#: theme.json styles/onyx.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr "Korostus"
+
+#: styles/onyx.json
+msgctxt "Style variation name"
+msgid "Onyx"
+msgstr "Onyksi"
+
+#: styles/onyx.json
+msgctxt "Duotone name"
+msgid "Dark gray and white"
+msgstr "Tumma harmaa ja valkoinen"
+
+#: styles/onyx.json
+msgctxt "Duotone name"
+msgid "Dark gray and walnut"
+msgstr "Tumma harmaa ja pähkinä"
+
+#: styles/onyx.json
+msgctxt "Duotone name"
+msgid "Dark gray and cinnamon"
+msgstr "Tumma harmaa ja kaneli"
+
+#: styles/onyx.json
+msgctxt "Duotone name"
+msgid "Dark gray and olive"
+msgstr "Tumma harmaa ja oliivi"
+
+#: styles/onyx.json
+msgctxt "Duotone name"
+msgid "Dark gray and steel"
+msgstr "Tumma harmaa ja teräs"
+
+#: styles/mint.json
+msgctxt "Style variation name"
+msgid "Mint"
+msgstr "Minttu"
+
+#: styles/maelstrom.json
+msgctxt "Color name"
+msgid "Contrast / 3"
+msgstr "Kontrasti / 3"
+
+#: styles/maelstrom.json
+msgctxt "Style variation name"
+msgid "Maelstrom"
+msgstr "Pyörre"
+
+#: styles/ice.json
+msgctxt "Style variation name"
+msgid "Ice"
+msgstr "Jää"
+
+#: theme.json styles/fossil.json styles/ice.json styles/maelstrom.json
+msgctxt "Font size name"
+msgid "Extra Extra Large"
+msgstr "Erittäin erittäin suuri"
+
+#: theme.json styles/fossil.json styles/ice.json styles/maelstrom.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Erittäin suuri"
+
+#: theme.json styles/fossil.json styles/ice.json styles/maelstrom.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Suuri"
+
+#: theme.json styles/fossil.json styles/ice.json styles/maelstrom.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Keskikokoinen"
+
+#: theme.json styles/fossil.json styles/ice.json styles/maelstrom.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Pieni"
+
+#: theme.json styles/fossil.json styles/ice.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#: theme.json styles/fossil.json styles/maelstrom.json
+msgctxt "Font family name"
+msgid "Cardo"
+msgstr "Cardo"
+
+#: styles/ember.json styles/ice.json styles/maelstrom.json styles/mint.json
+msgctxt "Font family name"
+msgid "Jost"
+msgstr "Jost"
+
+#: theme.json styles/ember.json styles/fossil.json styles/ice.json
+#: styles/maelstrom.json styles/mint.json
+msgctxt "Font family name"
+msgid "System Sans-serif"
+msgstr "Järjestelmän sans-serif"
+
+#: theme.json styles/ember.json styles/fossil.json styles/ice.json
+#: styles/maelstrom.json styles/mint.json
+msgctxt "Font family name"
+msgid "System Serif"
+msgstr "Järjestelmän serif"
+
+#: styles/fossil.json
+msgctxt "Style variation name"
+msgid "Fossil"
+msgstr "Fossiili"
+
+#: styles/ember.json styles/mint.json
+msgctxt "Font family name"
+msgid "Instrument Sans"
+msgstr "Instrument sans"
+
+#: styles/ember.json
+msgctxt "Style variation name"
+msgid "Ember"
+msgstr "Hiillos"
+
+#: styles/ember.json
+msgctxt "Duotone name"
+msgid "Orange and white"
+msgstr "Oranssi ja valkoinen"
+
+#: patterns/text-title-left-image-right.php:34
+msgctxt "Call to Action button text"
+msgid "About us"
+msgstr "Tietoa meistä"
+
+#: patterns/text-feature-grid-3-col.php:95
+msgctxt "Sample feature heading"
+msgid "Project Management"
+msgstr "Projektihallinta"
+
+#: patterns/text-feature-grid-3-col.php:83
+msgctxt "Sample feature heading"
+msgid "Consulting"
+msgstr "Konsultointi"
+
+#: patterns/text-faq.php
+msgctxt "Pattern title"
+msgid "FAQ"
+msgstr "UKK"
+
+#: patterns/text-faq.php:14
+msgctxt "Heading of the FAQs"
+msgid "FAQs"
+msgstr "UKK"
+
+#: patterns/text-faq.php:11
+msgctxt "Name of the FAQ pattern"
+msgid "FAQs"
+msgstr "UKK"
+
+#: patterns/text-alternating-images.php:81
+msgid "Windows of a building in Nuremberg, Germany"
+msgstr "Rakennuksen ikkunoita Nürnbergissä, Saksassa"
+
+#: patterns/text-alternating-images.php:63
+msgid "Tourist taking photo of a building"
+msgstr "Turisti ottamassa kuvaa rakennuksesta"
+
+#: patterns/testimonial-centered.php:38
+msgctxt "Designation of Person Provided Testimonial"
+msgid "CEO, Greenprint"
+msgstr "TJ, Greenprint"
+
+#: patterns/testimonial-centered.php:34
+msgctxt "Name of Person Provided the Testimonial"
+msgid "Annie Steiner"
+msgstr "Annie Steiner"
+
+#: patterns/team-4-col.php:120
+msgctxt "Sample role of a team member"
+msgid "Project Manager"
+msgstr "Projektipäällikkö"
+
+#: patterns/team-4-col.php:115
+msgctxt "Sample name of a team member"
+msgid "Ivan Lawrence"
+msgstr "Ivan Lawrence"
+
+#: patterns/team-4-col.php:96
+msgctxt "Sample role of a team member"
+msgid "Architect"
+msgstr "Arkkitehti"
+
+#: patterns/team-4-col.php:91
+msgctxt "Sample name of a team member"
+msgid "Helga Steiner"
+msgstr "Helga Steiner"
+
+#: patterns/team-4-col.php:72
+msgctxt "Sample role of a team member"
+msgid "Engineering Manager"
+msgstr "Tekninen johtaja"
+
+#: patterns/team-4-col.php:67
+msgctxt "Sample name of a team member"
+msgid "Rhye Moore"
+msgstr "Rhye Moore"
+
+#: patterns/team-4-col.php:48
+msgctxt "Sample role of a team member"
+msgid "Founder, CEO & Architect"
+msgstr "Perustaja, TJ ja arkkitehti"
+
+#: patterns/team-4-col.php:43
+msgctxt "Sample name of a team member"
+msgid "Francesca Piovani"
+msgstr "Francesca Piovani"
+
+#: patterns/team-4-col.php:15
+msgctxt "Sample heading for the team pattern"
+msgid "Meet our team"
+msgstr "Tapaa tiimimme"
+
+#: patterns/page-rsvp-landing.php:48
+msgid "Green staircase at Western University, London, Canada"
+msgstr "Vihreä portaikko Länsi-Ontarion yliopistossa, Kanadassa"
+
+#: patterns/hidden-sidebar.php:75
+msgctxt "search form placeholder"
+msgid "Search..."
+msgstr "Etsi..."
+
+#: patterns/hidden-sidebar.php:72
+msgid "Search the website"
+msgstr "Etsi sivustolta"
+
+#: patterns/hidden-sidebar.php:49
+msgid "Useful Links"
+msgstr "Hyödylliset linkit"
+
+#: patterns/hidden-sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr "Sivupalkki"
+
+#: patterns/hidden-search.php:9
+msgctxt "search button text"
+msgid "Search"
+msgstr "Etsi"
+
+#: patterns/hidden-search.php:9 patterns/hidden-sidebar.php:75
+msgctxt "search form label"
+msgid "Search"
+msgstr "Etsi"
+
+#: patterns/hidden-search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr "Etsi"
+
+#: patterns/hidden-post-navigation.php:12
+msgctxt "Label before the title of the next post. There is a space after the colon."
+msgid "Next: "
+msgstr "Seuraava: "
+
+#: patterns/hidden-post-navigation.php:11
+msgctxt "Label before the title of the previous post. There is a space after the colon."
+msgid "Previous: "
+msgstr "Edellinen: "
+
+#: patterns/hidden-no-results.php
+msgctxt "Pattern title"
+msgid "No results"
+msgstr "Ei tuloksia"
+
+#: patterns/hidden-comments.php:12
+msgid "Comments"
+msgstr "Kommentit"
+
+#: patterns/hidden-comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr "Kommentit"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr "404"
+
+#: patterns/gallery-project-layout.php:53
+msgid "Art Gallery of Ontario, Toronto, Canada"
+msgstr "Ontarion taidegalleria, Toronto, Kanada"
+
+#: patterns/footer-colophon-3-col.php:56
+msgid "Follow"
+msgstr "Seuraa"
+
+#: patterns/footer-colophon-3-col.php:41
+msgctxt "Example email in site footer"
+msgid "info@example.com"
+msgstr "info@example.com"
+
+#: patterns/footer-colophon-3-col.php:38
+msgid "Contact"
+msgstr "Ota yhteyttä"
+
+#: patterns/banner-project-description.php:40
+msgid "Hyatt Regency San Francisco, San Francisco, United States"
+msgstr "Hyatt Regency San Francisco, San Francisco, Yhdysvallat"
+
+#: functions.php:93
+msgid "With arrow"
+msgstr "Nuolella"
+
+#: functions.php:111
+msgid "With asterisk"
+msgstr "Tähdellä"
+
+#: functions.php:74
+msgid "Checkmark"
+msgstr "Valintamerkki"
+
+#: patterns/gallery-full-screen-image.php
+msgctxt "Pattern title"
+msgid "Full screen image"
+msgstr "Koko ruudun kuva"
+
+#: patterns/footer.php:63 patterns/footer.php:69
+msgid "Privacy"
+msgstr "Tietosuoja"
+
+#: patterns/hidden-sidebar.php:17
+msgid "About the author"
+msgstr "Tietoja kirjoittajasta"
+
+#: patterns/hidden-sidebar.php:33
+msgid "Popular Categories"
+msgstr "Suositut kategoriat"
+
+#: patterns/hidden-post-navigation.php:9 patterns/hidden-post-navigation.php:10
+#: patterns/template-index-portfolio.php:16
+msgid "Posts"
+msgstr "Artikkelit"
+
+#: patterns/hidden-post-navigation.php
+msgctxt "Pattern title"
+msgid "Post navigation"
+msgstr "Artikkelin navigaatio"
+
+#: patterns/hidden-no-results.php:9
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "No posts were found."
+msgstr "Artikkeleita ei löytynyt."
+
+#: patterns/hidden-404.php:10
+msgctxt "Heading for a webpage that is not found"
+msgid "Page Not Found"
+msgstr "Sivua ei löytynyt"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Black and sage"
+msgstr "Musta ja salvia"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Black and rust"
+msgstr "Musta ja ruoste"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Black and pastel blue"
+msgstr "Musta ja sininen pastelli"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Black and sandstone"
+msgstr "Musta ja hiekkakivi"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Black and white"
+msgstr "Musta ja valkoinen"
+
+#: theme.json styles/onyx.json
+msgctxt "Color name"
+msgid "Accent / Five"
+msgstr "Korostus / viisi"
+
+#: theme.json styles/onyx.json
+msgctxt "Color name"
+msgid "Accent / Four"
+msgstr "Korostus / neljä"
+
+#: theme.json styles/onyx.json
+msgctxt "Color name"
+msgid "Accent / Three"
+msgstr "Korostus / kolme"
+
+#: theme.json styles/onyx.json
+msgctxt "Color name"
+msgid "Accent / Two"
+msgstr "Korostus / kaksi"
+
+#: styles/rust.json
+msgctxt "Color name"
+msgid "Base / 2"
+msgstr "Pohja / 2"
+
+#: theme.json styles/fossil.json styles/ice.json styles/mint.json
+#: styles/onyx.json
+msgctxt "Color name"
+msgid "Contrast / Three"
+msgstr "Kontrasti / kolme"
+
+#: theme.json styles/fossil.json styles/ice.json styles/mint.json
+#: styles/onyx.json
+msgctxt "Color name"
+msgid "Contrast / Two"
+msgstr "Kontrasti / kaksi"
+
+#: theme.json styles/ember.json styles/fossil.json styles/ice.json
+#: styles/maelstrom.json styles/mint.json styles/onyx.json
+msgctxt "Color name"
+msgid "Base / Two"
+msgstr "Pohja / kaksi"
+
+#: theme.json styles/ember.json styles/fossil.json styles/ice.json
+#: styles/maelstrom.json styles/mint.json styles/onyx.json styles/rust.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Kontrasti"
+
+#: styles/ember.json styles/maelstrom.json
+msgctxt "Color name"
+msgid "Contrast / 2"
+msgstr "Kontrasti / 2"
+
+#: theme.json styles/ember.json styles/fossil.json styles/ice.json
+#: styles/maelstrom.json styles/mint.json styles/onyx.json styles/rust.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Pohja"
+
+#: patterns/text-project-details.php
+msgctxt "Pattern title"
+msgid "Project details"
+msgstr "Projektin tiedot"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Ylätunniste"
+
+#: patterns/text-title-left-image-right.php
+msgctxt "Pattern title"
+msgid "Title text and button on left with image on right"
+msgstr "Otsake teksti painikkeella vasemmalla ja kuva oikealla"
+
+#: patterns/testimonial-centered.php:11
+msgctxt "Name of testimonal pattern"
+msgid "Testimonial"
+msgstr "Käyttäjäkokemus"
+
+#: patterns/testimonial-centered.php
+msgctxt "Pattern title"
+msgid "Centered testimonial"
+msgstr "Keskitetty käyttäjäkokemus"
+
+#: patterns/text-alternating-images.php
+msgctxt "Pattern title"
+msgid "Text with alternating images"
+msgstr "Teksti vaihtuvilla kuvilla"
+
+#: patterns/testimonial-centered.php:25
+msgctxt "Name of testimonial citation group"
+msgid "Testimonial source"
+msgstr "Käyttäjäkokemuksen lähde"
+
+#: patterns/hidden-post-meta.php:20
+msgctxt "Prefix for the post author block: By author name"
+msgid "by"
+msgstr "kirjoittaja"
+
+#: patterns/banner-hero.php
+msgctxt "Pattern title"
+msgid "Hero"
+msgstr "Hero-alue"
+
+#: patterns/cta-subscribe-centered.php:30
+msgctxt "Sample text for Sign Up Button"
+msgid "Sign up"
+msgstr "Rekisteröidy"
+
+#: patterns/footer-centered-logo-nav.php
+msgctxt "Pattern title"
+msgid "Footer with centered logo and navigation"
+msgstr "Alatunniste keskitetyllä logolla ja navigaatiolla"
+
+#: patterns/cta-subscribe-centered.php:23
+msgctxt "Sample text for Subscriber Description"
+msgid "Stay in the loop with everything you need to know."
+msgstr "Pysy ajantasalla kaiken suhteen mikä sinun tulee tietää."
+
+#: patterns/cta-subscribe-centered.php:19
+msgctxt "Sample text for Subscriber Heading with numbers"
+msgid "Join 900+ subscribers"
+msgstr "Liity 900+ tilaajan joukkoon"
+
+#: patterns/cta-subscribe-centered.php
+msgctxt "Pattern title"
+msgid "Centered call to action"
+msgstr "Keskitetty toimintakehote"
+
+#: patterns/cta-services-image-left.php
+msgctxt "Pattern title"
+msgid "Services call to action with image on left"
+msgstr "Palveluiden toimintakehote jossa kuva vasemmalla"
+
+#: patterns/cta-rsvp.php
+msgctxt "Pattern title"
+msgid "RSVP"
+msgstr "V.P."
+
+#: patterns/cta-rsvp.php:10
+msgctxt "Name of RSVP pattern"
+msgid "RSVP"
+msgstr "V.P."
+
+#: patterns/hidden-post-meta.php
+msgctxt "Pattern title"
+msgid "Post meta"
+msgstr "Metatiedot"
+
+#: patterns/hidden-404.php:13
+msgctxt "Message to convey that a webpage could not be found"
+msgid "The page you are looking for does not exist, or it has been moved. Please try searching using the form below."
+msgstr "Sivu mitä etsit ei ole olemassa tai sen osoite on muuttunut. Käytä hakua alapuolella löytääksesi etsimäsi."
+
+#. Author of the theme
+#, gp-priority: low
+msgid "the WordPress team"
+msgstr "WordPress-tiimi"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://wordpress.org/themes/twentytwentyfour/"
+msgstr "https://fi.wordpress.org/themes/twentytwentyfour/"
