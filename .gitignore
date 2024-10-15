@@ -12,6 +12,13 @@ wp-content/upgrade/
 # Uploads: if you want to include images, leave this uncommented
 #wp-content/uploads/
 
+# Ignore backups and temporary files
+ai1wm-backups/
+backups-dup-lite/
+
+# Ignore all uploads to ensure sensitive information is not included
+wp-content/uploads/
+
 # Plugins: If you've customized plugins, track those changes
 !wp-content/plugins/my-custom-plugin/
 # Ignore all other plugins
@@ -28,4 +35,5 @@ Thumbs.db
 *.log
 *.tmp
 *.gz
+*.zip
 *.zip
