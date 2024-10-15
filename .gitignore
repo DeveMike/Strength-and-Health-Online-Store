@@ -1,6 +1,31 @@
+# WordPress core files (ignore these)
+wp-admin/
+wp-includes/
+
+# Configuration file (it may have sensitive data)
 wp-config.php
-wp-content/uploads/
+
+# Ignore plugin and theme cache
 wp-content/cache/
 wp-content/upgrade/
-wp-content/backup/
-.htaccess
+
+# Uploads: if you want to include images, leave this uncommented
+#wp-content/uploads/
+
+# Plugins: If you've customized plugins, track those changes
+!wp-content/plugins/my-custom-plugin/
+# Ignore all other plugins
+wp-content/plugins/*
+
+# Keep your custom theme (replace "my-custom-theme" with your theme folder)
+!wp-content/themes/my-custom-theme/
+# Ignore other themes
+wp-content/themes/*
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.gz
+*.zip
